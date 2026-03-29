@@ -42,8 +42,6 @@ That question has no clean answer. What follows is the analytical framework to s
 
 ![Coffee cherries drying on raised beds overlooking a lake in Rwanda](../photos/rwanda-cherries-drying-lakeside.jpg)
 
-### Actors
-
 **~350,000 smallholder farmers**
 Most cultivate less than 1 acre (0.4 hectares) of Arabica alongside food crops — beans, bananas, maize. Coffee is a cash crop, not a subsistence crop. Farmers harvest cherry by hand, typically over a 2-3 month picking season (April-June, with some secondary crops). At most farms, coffee represents one income stream among several. Delivery options: bring cherry to the nearest CWS or sell to a passing middleman.
 
@@ -59,7 +57,7 @@ Aggregate parchment coffee from multiple washing stations, arrange dry milling (
 **Importers**
 98% of Rwanda's coffee is consumed outside the country. Specialty importers — green coffee traders and direct-trade roaster-buyers — are the primary destination for high-quality fully washed lots. Standard commercial buyers purchase lower-grade volume.
 
-### Two Parallel Channels
+**Two parallel channels:**
 
 **CWS channel (60-80% of volume)**
 Farmer → CWS → Exporter → Importer
@@ -81,7 +79,7 @@ The structural shift from cooperative-led to exporter-led washing stations is re
 
 ![Waterfall chart: Rwanda farmer share of export price](../photos/chart-waterfall-rwanda.png)
 
-Rwandan farmers earn approximately 54% of the export price — near the low end globally, where most countries deliver more than 50% to the farmer. Here is the math.
+Rwandan farmers earn approximately 54% of the export price — below the global average — Latin American origins typically deliver ~80%, and even most African origins are above 60%. Here is the math.
 
 ### The Conversion (from the 2025 lecture)
 
@@ -145,7 +143,7 @@ This does not mean value chain improvements are irrelevant. Higher prices and be
 
 ### Yields
 
-Rwanda's average yield of approximately 0.6 MT/ha is mid-range among major origins. Ethiopia, the world's most important specialty origin, averages below 0.5 MT/ha — but Ethiopia's farms are larger and production is more extensive. Vietnam tops the global table at 3+ MT/ha, the result of modern varieties, high inputs, and irrigation on relatively flat terrain. Colombia sits around 0.8-1.0 MT/ha.
+Rwanda's average yield of approximately 0.6 MT/ha is mid-range among major origins. Ethiopia, the world's most important specialty origin, averages below 0.5 MT/ha — but Ethiopia's farms are larger and production is more extensive. Vietnam tops the global table at 3+ MT/ha, the result of modern varieties, high inputs, and irrigation on relatively flat terrain. Colombia sits around ~1.0 MT/ha.
 
 Rwanda's hilly terrain and small plot sizes impose structural limits on yield improvement. Tractors cannot operate on many slopes. Irrigation infrastructure is difficult to install and maintain. But agronomic improvements — better variety selection, fertilizer use, shade management, tree renovation — could realistically push yields from 0.6 to 1.0+ MT/ha on farms where conditions permit.
 
@@ -194,7 +192,7 @@ The impact-feasibility matrix below assesses four commonly discussed interventio
 2. Quality improvement — higher cupping scores translate to higher premiums, especially as specialty market competition intensifies
 3. Livelihood diversification — accepting that coffee is one income source among several for Rwandan rural households, and that the value chain's job is to make that source as reliable and well-compensated as possible
 
-This third point is uncomfortable for a value chain analysis course focused on coffee. But intellectual honesty requires it. The farm size constraint is structural. Premium positioning has done real work. The next increment of improvement will come from within the chain — but closing the gap entirely requires a broader rural development lens.
+This third point is uncomfortable for a value chain analysis course focused on coffee. But it is the most important one. The farm size constraint is structural. Premium positioning has done real work. The next increment of improvement will come from within the chain — but closing the gap entirely requires a broader rural development lens.
 
 ---
 

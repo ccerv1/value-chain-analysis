@@ -1,8 +1,8 @@
-> **Archival note:** This case study reflects data from the 2017-2023 SIPA lectures. Some figures may be outdated. Colombia's coffee sector continues to evolve, and current conditions may differ from what is described here. The case remains valuable for understanding how institutional design shapes value chain dynamics.
-
 # Colombia: Strong Institutions, Eroding Margins
 
 ![Colombian farmer harvesting coffee on a mountainside](../photos/colombia-farmer-harvesting.jpg)
+
+> **Archival note:** This case study reflects data from the 2017-2023 SIPA lectures. Some figures may be outdated. Colombia's coffee sector continues to evolve, and current conditions may differ from what is described here. The case remains valuable for understanding how institutional design shapes value chain dynamics.
 
 ## The Story
 
@@ -16,7 +16,7 @@ The tension: Colombia has arguably the strongest institutional infrastructure of
 
 Colombia has approximately 550,000 coffee farmers. The sector is predominantly smallholder, but with a wider range of farm sizes than Rwanda or Ethiopia. Some Colombian farms are semi-commercial operations of 5-10 hectares; others are tiny plots of less than 1 hectare.
 
-This is what makes Colombia analytically interesting — not just as a coffee producer, but as a case study in institutional design. The FNC model represents a deliberate, sustained attempt to redistribute value within a commodity chain toward primary producers. For roughly eight decades, it largely succeeded. Then the economics shifted. What the FNC built is genuinely impressive; what it could not control is what the case is really about.
+This is what makes Colombia worth studying closely — not just as a coffee producer, but as a case study in institutional design. The FNC model represents a deliberate, sustained attempt to redistribute value within a commodity chain toward primary producers. For roughly eight decades, it largely succeeded. Then the economics shifted. What the FNC built is genuinely impressive; what it could not control is what the case is really about.
 
 ---
 
@@ -45,13 +45,13 @@ Farmer → FNC Cooperative (buying point) → Exporter (cooperative or private) 
 
 **Unique structural feature:** The FNC guaranteed purchase price creates a price floor that disciplines the entire chain. Private buyers must match or beat the FNC price to attract volume. This is fundamentally different from Vietnam (pure market competition) or Rwanda (CWS-mediated pricing where farmers have limited alternatives). In Colombia, the farmer always has a credible outside option.
 
-**The National Coffee Fund:** Funded by a levy on exports, the Fund provides the financial backing for the guaranteed purchase price, the FNC's services, and stabilization payments during price downturns. It is the fiscal mechanism that makes the FNC model work — and it is why Colombia could spend an estimated $500-700 million subsidizing farmers during the 2012-2015 crisis period (through the PIC — Protección del Ingreso Cafetero — a per-unit price floor payment delivered through FNC cooperatives, funded by the national government) without the system collapsing.
+**The National Coffee Fund:** Funded by a levy on exports, the Fund provides the financial backing for the guaranteed purchase price, the FNC's services, and stabilization payments during price downturns. It is the fiscal mechanism that makes the FNC model work — and it is why Colombia could spend an estimated $500-700 million subsidizing farmers during the 2012-2015 crisis period without the system collapsing. The mechanism was the PIC (Protección del Ingreso Cafetero), a per-unit price floor payment delivered through FNC cooperatives and funded by the national government.
 
 ---
 
 ## Breakdown
 
-**Farmer share of export price:** Colombian farmers earn approximately 80% of the export price — typical for Latin American origins and partly a function of the FNC's institutional design. Most coffee-producing countries deliver more than 50% to the farmer; Vietnam and Brazil exceed 90%, Latin America is typically around 80%, and Africa shows more variation (Ethiopia ~65%, Rwanda ~50-54%). Colombia's figure reflects both the efficiency of the FNC channel and the price floor discipline described above.
+**Farmer share of export price:** Colombian farmers earn approximately 80% of the export price — typical for Latin American origins and partly a function of the FNC's institutional design. Most coffee-producing countries deliver more than 50% to the farmer. Vietnam is best in class at ~95%. Latin America is typically around 80%. Africa shows the most variation — Ethiopia around 65%, Rwanda around 54%. Colombia's figure reflects both the efficiency of the FNC channel and the price floor discipline described above.
 
 But here is the key analytical point: **high revenue share does not equal high margins.** If costs are also high, a farmer receiving 80% of export price can still earn less net income than a farmer receiving 65% in a lower-cost production system. This is Colombia's predicament.
 
@@ -89,15 +89,15 @@ The majority of Colombian coffee exports flow through the cooperative/FNC channe
 |---|---|---|---|---|
 | Volume (rough) | ~12-14M bags | ~30M bags | ~0.5M bags | ~60M bags |
 | Primary type | Arabica | Robusta | Arabica | Arabica + Robusta |
-| Farmer share | ~80% | ~50% | ~60-70% | Varies (large farms) |
-| Institutional support | Very strong (FNC) | Weak | Moderate (building) | Weak-moderate |
+| Farmer share | ~80% | ~95% | ~54% | 70-85% (varies by farm type) |
+| Institutional support | Very strong (FNC) | Enabling (non-intermediating) | Moderate (building) | Weak-moderate |
 | Cost competitiveness | Low | High | Low | High (mechanized) |
 | Price premium | Yes | No | Emerging | Partial |
 | Living income challenge | Yes | Less acute | Yes | Mixed |
 
 **vs Vietnam:** Colombia earns more per kg but produces less per hectare. Vietnam's competitive advantage is cost and volume; Colombia's is quality and brand. The two countries are not really competing in the same market. Colombia cannot compete on cost; Vietnam cannot (currently) compete on quality reputation.
 
-**vs Rwanda:** Similar challenges with farmer income and living wage — both produce premium Arabica with strong farmer share of export price, yet both face living income shortfalls. Colombia's FNC provides institutional support (extension, research, guaranteed price) that Rwanda is only beginning to build through its exporter-led model. The comparison is instructive: more institution does not automatically mean better outcomes for farmers.
+**vs Rwanda:** Similar challenges with farmer income and living wage — both produce premium Arabica with strong farmer share of export price, yet both face living income shortfalls. Colombia's FNC provides institutional support (extension, research, guaranteed price) that Rwanda is only beginning to build through its exporter-led model. More institution does not automatically mean better outcomes for farmers.
 
 **vs Brazil:** Brazil's mechanized, large-farm model has dramatically lower unit costs. Colombian coffee production is simply more expensive — the terrain, the smallholder structure, and the labor intensity all contribute. Colombia must compete on quality and brand differentiation; competing on cost is not an option.
 

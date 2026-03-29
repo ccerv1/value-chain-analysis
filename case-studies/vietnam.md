@@ -1,6 +1,6 @@
 # Vietnam: Engineered Growth and Its Limits
 
-*Value Chain Analysis — Columbia SIPA | Instructor: Carl Cervone*
+*Value Chain Analysis — Columbia SIPA*
 
 ![Woman in conical hat picking coffee cherries in Vietnam](../photos/vietnam-woman-picking-coffee.png)
 
@@ -14,7 +14,7 @@ The growth was engineered. The government treated coffee as a strategic export c
 
 Farmers responded rationally. With secure tenure, access to credit, and functioning input markets, they invested in their land. The result was explosive expansion across the Central Highlands — primarily Dak Lak, Lam Dong, and Gia Lai provinces — driven by thousands of individual household decisions, each responding to the same clear incentives.
 
-The sector's growth metrics are extraordinary by any standard. Vietnam achieved the highest farm-level yields in the global coffee industry, over three metric tons of green coffee per hectare. Farmers earn approximately 95% of the export price — the highest farmer share among major origins. The supply chain between farmer and export ship is as lean and competitive as any agricultural market you will find.
+The sector's growth metrics are extraordinary by any standard. Vietnam achieved the highest farm-level yields in the global coffee industry, over three metric tons of green coffee per hectare. Farmers earn approximately 95% of the export price (per the Enveritas 2020 Vietnam Country Report) — the highest farmer share among major origins. The supply chain between farmer and export ship is as lean and competitive as any agricultural market you will find.
 
 Most Vietnamese coffee farms are around one hectare. By global standards, every one of these farmers is "small." But they operate like commercial enterprises, not subsistence farmers. They purchase inputs — fertilizer, irrigation equipment — hire labor during harvest, and sell into deep competitive markets where price discovery happens continuously. The smallholder label understates the sophistication of the operation.
 

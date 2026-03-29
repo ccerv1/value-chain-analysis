@@ -131,15 +131,14 @@ Reference material specific to coffee value chain analysis.
 
 ### Standard Conversion Factors
 
+Quick reference for cherry-to-green (the most critical conversion):
+
 | Conversion | Factor | Notes |
 |-----------|--------|-------|
 | Cherry to green (Arabica) | ~6:1 to 7:1 | Varies by varietal and agro-climate (including altitude), not processing method. Rwanda ~7:1; most others ~6.25:1 |
 | Cherry to green (Robusta) | ~5:1 | Lower ratio, reflecting different bean size and density |
-| Cherry to parchment | ~5:1 to 6:1 | Intermediate product (washed process only) |
-| Parchment to green | ~1.25:1 | Hulling removes parchment layer |
-| Kilograms to pounds | 1 kg = 2.205 lb | |
-| Standard bag | 60 kg = 132.28 lb | International jute bag |
-| Containers | ~250 bags per 20-ft container | ~15 metric tons |
+
+For the complete conversion factor table, see [Skill 3: Unit Conversion](../skills/03-unit-conversion-and-price-analysis.md).
 
 ### Typical Actor Categories
 
@@ -156,7 +155,7 @@ Reference material specific to coffee value chain analysis.
 
 ### Price Benchmarks
 
-- **ICE "C" contract** (New York): Global Arabica benchmark, quoted in US cents per pound. Physical coffee trades at a differential to this price.
+- **ICE "C" contract** (New York): Global Arabica benchmark, quoted in US cents per pound. Physical coffee trades at a differential to this price. Watch the units: the C contract quotes in cents per pound (eg, 310.00 means $3.10/lb). Confusing cents with dollars is a 100x error.
 - **ICE London**: Global Robusta benchmark, quoted in USD per metric ton.
 - **Country differentials**: Colombia typically trades at C + $0.15-0.30 (premium). Ethiopia at C + $0.20-0.50 (premium, varies by grade). Vietnam Robusta trades relative to London. Brazil trades near or slightly below C (large volume, standard quality).
 

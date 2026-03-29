@@ -147,6 +147,6 @@ The chain fans out at the farm level, narrows dramatically at the trading and ex
 
 ## Scope of This Course
 
-This course focuses on the first six stages: **farm to export**. Cherry, parchment, green. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.
+This course focuses on the upstream stages: **cherry, parchment, and green** — farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.
 
 For the analytical framework used to study these stages, see the [Lecture Notes](value-chain-analysis.md). For hands-on skills, see the [Skills Guides](../skills/README.md).

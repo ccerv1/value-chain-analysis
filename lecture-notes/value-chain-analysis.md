@@ -34,24 +34,13 @@ Each stage involves different actors operating at different scales, from 12.5 mi
 
 ### The Hourglass
 
-The structure of the coffee value chain resembles an hourglass:
-
-| Stage | Approximate Number of Actors |
-|-------|------------------------------|
-| Farms | ~12,500,000 |
-| Mills | <1,000,000 |
-| Traders | <10,000 |
-| Roasters | <100,000 |
-| Retailers | >1,000,000 |
-| Consumers | >1,000,000,000 |
-
-The chain fans out wide at the farm level, narrows dramatically at the trading and export stage, and fans out again at the retail and consumer end. This hourglass shape has profound implications for bargaining power, information flow, and price transmission.
+The structure of the coffee value chain resembles an hourglass. The chain narrows from ~12.5 million farms to fewer than 10,000 traders, then widens again to over a billion consumers. (See [The Coffee Value Chain](coffee-value-chain.md) for the full breakdown.) This hourglass shape has profound implications for bargaining power, information flow, and price transmission.
 
 Natural and logistical factors make it difficult for any single actor to occupy more than one or two roles in the chain. A farmer who grows cherry in rural Ethiopia faces entirely different capital requirements, skill sets, and market relationships than a trader who aggregates containers in Addis Ababa or a roaster who blends and packages in Hamburg. There are exceptions — vertically integrated operations do exist — but they are rare relative to the overall market.
 
 ### Scope of This Course
 
-This course focuses on the first three stages: cherry, parchment, and green. Farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.
+This course focuses on the first three stages: cherry, parchment, and green. Farm to export.
 
 ---
 
@@ -127,7 +116,7 @@ The map is your foundation. Everything else builds on it. A good map makes the s
 
 The second step is to trace costs and revenues through the chain — understanding how value flows from one actor to the next. This is where the real analytical work happens.
 
-**Start at the export price.** The export price is usually the most publicly available and reliable data point. Sources include COMTRADE (the UN trade statistics database), national coffee boards (ANACAFE in Guatemala, NAEB in Rwanda, ECX in Ethiopia), and ICO (International Coffee Organization) data. Export prices are quoted in standard units — typically USD per pound or USD per kilogram of green coffee.
+**Start at the export price.** The export price is usually the most publicly available and reliable data point. Sources include COMTRADE (the UN trade statistics database), national coffee boards (ANACAFE in Guatemala, NAEB in Rwanda, ECX (the Ethiopia Commodity Exchange, through which most export-grade coffee was historically required to trade) in Ethiopia), and ICO (International Coffee Organization) data. Export prices are quoted in standard units — typically USD per pound or USD per kilogram of green coffee.
 
 **Then go to the farmer level.** Farmer prices are harder to get. They require either literature review (published studies, NGO reports, government surveys) or direct field interviews. Farmer prices are quoted in local currency per local unit of whatever product form the farmer sells — which is often cherry, not green coffee.
 
@@ -155,6 +144,8 @@ Here is a worked example from Rwanda:
 > **Step 4: Calculate share**
 > ($1.20/lb green) / ($2.23/lb green) = **54% farmer share**
 
+Ethiopia's 2024 birr float — from ~55 to ~127 ETB/USD — is a live example of how currency movements can reshape VCA results overnight.
+
 The conversion ratio of 7:1 (cherry to green) is specific to Rwanda, where high altitude increases the ratio. Across Arabica origins more broadly, the ratio ranges from about 6:1 to 7:1, depending on species, varietal, and agro-climatic conditions (including altitude) — not processing method. A washed coffee and a natural coffee from the same origin will have essentially the same net cherry-to-green conversion. Robusta, by contrast, has a lower ratio of approximately 5:1. Getting the species and origin wrong will throw off your entire analysis.
 
 **Fill in the middle.** Once you have the export price and the farmer price, you need to figure out where the money goes in between. Processing costs (wet milling, dry milling), transport costs (from farm to mill, mill to port), taxes and fees (export taxes, cooperative levies, certification costs), and trader margins. Each of these needs to be estimated or collected through interviews.
@@ -173,7 +164,7 @@ Key metrics for benchmarking:
 
 - **Prices received** (USD per kg green equivalent): What farmers actually get, after all conversions. Higher prices may reflect quality premiums, geographic advantages, or certification programs.
 
-- **Farmer share of export price**: The percentage of the FOB export price that reaches the farmer. In most coffee-producing countries, farmers receive more than 50% of the export price. Vietnam and Brazil are best in class at over 90%. Latin American origins like Colombia and Honduras typically fall around 80%. Africa shows the most variation: Ethiopia is around 65%, while Rwanda — where processing costs are high and institutional levies are significant — sits around 50-54%, near the low end globally.
+- **Farmer share of export price**: The percentage of the FOB export price that reaches the farmer. In most coffee-producing countries, farmers receive more than 50% of the export price. Vietnam is best in class at ~95%. Brazil varies widely by farm type (70-90%). Latin American origins like Colombia and Honduras typically fall around 80%. Africa shows the most variation: Ethiopia is around 65%, while Rwanda — where processing costs are high and institutional levies are significant — sits around ~54%, near the low end globally.
 
 - **Cost of production** (USD per kg green equivalent): What it costs the farmer to produce. If the cost of production exceeds the price received, the farmer is losing money on every kilogram — a situation that is more common than you might think.
 
@@ -187,7 +178,7 @@ Benchmarking also reveals whether problems are structural (geography, farm size,
 
 ### The Impact-Feasibility Matrix
 
-Analysis without action is an academic exercise. The bridge from VCA findings to recommendations runs through the impact-feasibility matrix — a simple 2x2 grid that forces you to be honest about what is worth pursuing.
+The VCA deliverable is not a map or a waterfall chart. It is a set of recommendations that someone can act on. The bridge from VCA findings to recommendations runs through the impact-feasibility matrix — a simple 2x2 grid that forces you to be honest about what is worth pursuing.
 
 |                     | **High Feasibility** | **Low Feasibility** |
 |---------------------|:--------------------:|:-------------------:|
@@ -200,7 +191,7 @@ High impact + low feasibility: these are worth pursuing but require more resourc
 
 Low impact + high feasibility: tempting because they are achievable, but be honest that the payoff is limited. Donors and governments love these because they can show quick results. The question is whether quick results matter if they don't move the needle.
 
-Low impact + low feasibility: don't bother. This quadrant is where bad projects go to die.
+Low impact + low feasibility: don't bother. Skip this quadrant.
 
 ### Four Generic Recommendations
 
@@ -234,7 +225,7 @@ Good recommendations are segmented. They identify distinct producer types — by
 
 ### Context first
 
-Before you start mapping the value chain, understand the country. Read the political history. Understand the land tenure system. Know the major ethnic and regional dynamics. Learn what happened to the coffee sector during structural adjustment, during conflict (if applicable), during commodity booms and busts. Coffee does not exist in a vacuum — it exists in a political economy. A value chain analysis that ignores context will produce technically correct but practically useless recommendations.
+Before you start mapping the value chain, understand the country. Read the political history. Understand the land tenure system. Know the major ethnic and regional dynamics. Learn what happened to the coffee sector during structural adjustment, during conflict (if applicable), during commodity booms and busts. Rwanda's coffee sector cannot be understood without the genocide and the government's top-down reconstruction. Ethiopia's cannot be understood without the ECX. Context first. A value chain analysis that ignores context will produce technically correct but practically useless recommendations.
 
 ### Identify the right mix of stakeholders
 
@@ -288,11 +279,11 @@ The standard claim is "over 95%," and it appears in virtually every coffee indus
 
 ### How many coffee households live below the global poverty line?
 
-We know that many coffee-growing regions overlap with areas of deep poverty. But a precise global estimate does not exist. Household surveys are expensive, definitions of poverty vary, and coffee income is often just one component of a diversified livelihood. Understanding the true overlap between coffee production and poverty would reshape how the industry talks about sustainability and shared value.
+We know that many coffee-growing regions overlap with areas of deep poverty. But a precise global estimate does not exist. Household surveys are expensive, definitions of poverty vary, and coffee income is often just one component of a diversified livelihood. A precise answer would force the sustainability conversation to get specific about who is poor and where.
 
 ### How many coffee farming families will lose a child before the age of five?
 
-This is a harder question and a more uncomfortable one. Under-five mortality rates in major coffee-producing regions of sub-Saharan Africa and South Asia remain tragically high. Connecting child mortality data to coffee-producing areas at a granular level would make the human cost of low coffee prices viscerally concrete. It is the kind of number that could change conversations in boardrooms.
+This is a harder question and a more uncomfortable one. Under-five mortality rates in major coffee-producing regions of sub-Saharan Africa and South Asia remain tragically high. Connecting child mortality data to coffee-producing areas at a granular level would make the human cost of low coffee prices viscerally concrete. That number does not exist yet. Building it is a hard data problem with real policy implications.
 
 ### How many workers are there in the coffee industry?
 

@@ -2,7 +2,7 @@
 
 ![Ethiopian farmer among coffee trees](../photos/ethiopian-farmer-coffee-trees.jpg)
 
-*Value Chain Analysis — Columbia SIPA | Instructor: Carl Cervone*
+*Value Chain Analysis — Columbia SIPA*
 
 > **Archival note:** This case study reflects data from the 2017-2020 SIPA lectures. Ethiopia's coffee sector has undergone significant changes since, including ECX reforms that have restored some traceability. Current conditions may differ materially from what is described here. The case remains valuable as a study of how market design choices affect value chain performance.
 
@@ -26,7 +26,7 @@ Cooperatives, however, could bypass the ECX. The cooperative channel maintained 
 
 TechnoServe, an international NGO, introduced a new value chain model that worked within the cooperative channel. By improving wet processing quality, strengthening cooperative management, and connecting cooperatives directly with specialty buyers, the program helped farmers earn a higher share of the export price. Total value creation from the TechnoServe-supported cooperative model exceeded $20 million per year.
 
-Ethiopia's central tension: the country has extraordinary coffee quality potential and deep cultural connection to coffee, but policy choices (the ECX) and structural challenges (low yields, fragmented production, limited infrastructure) have prevented it from fully capitalizing on that potential.
+Ethiopia's central tension: the best coffee genetics on the planet, undermined by a market design that made its best lots anonymous.
 
 ---
 
@@ -34,7 +34,7 @@ Ethiopia's central tension: the country has extraordinary coffee quality potenti
 
 **Actors:**
 
-- **Millions of smallholder farmers.** Ethiopia has an enormous number of coffee farmers — estimates vary widely, and the exact number is one of the open questions in the industry. Most are very small-scale, growing coffee alongside food crops, often in semi-forest or garden systems.
+- **An estimated 4-5 million smallholder farmers (the exact count is disputed).** Ethiopia has an enormous number of coffee farmers — estimates vary widely, and the exact number is one of the open questions in the industry. Most are very small-scale, growing coffee alongside food crops, often in semi-forest or garden systems.
 - **Collectors (sebsabis).** Local traders who buy cherry from farmers and aggregate it for sale to larger buyers. Operate in both washed and unwashed channels.
 - **Cooperatives.** Farmer-owned organizations that operate washing stations and can export directly, bypassing the ECX. Historically the quality channel.
 - **The ECX (Ethiopia Commodity Exchange).** The mandatory trading platform for most non-cooperative coffee. Grades coffee by quality and pools by region. Eliminates individual lot traceability.
@@ -65,7 +65,7 @@ The cooperative channel is the only path to full traceability and specialty prem
 - Total value creation exceeded $20 million per year
 - The model demonstrated that quality-focused interventions could work at scale in the cooperative channel
 
-**Farmer share.** Farmer share data for Ethiopia is harder to pin down than for Vietnam or Rwanda due to the complexity of the chain and the variation between washed and unwashed channels. In the 2010/11 data from the lectures, farmers in the unwashed channel captured a lower share than those in the cooperative washed channel — consistent with the broader pattern that disintermediated, traceable chains return more value to producers.
+**Farmer share.** Farmer share data for Ethiopia is harder to pin down than for Vietnam or Rwanda due to the complexity of the chain and the variation between washed and unwashed channels — roughly 55-65% depending on channel. In the 2010/11 data from the lectures, farmers in the unwashed channel captured a lower share than those in the cooperative washed channel — consistent with the broader pattern that disintermediated, traceable chains return more value to producers.
 
 ---
 

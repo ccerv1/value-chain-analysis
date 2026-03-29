@@ -56,7 +56,7 @@ Every VCA produces a long list of potential interventions. Donors want to fund s
 Based on the Rwanda case:
 - ~350,000 smallholder farmers, most with <1 acre
 - Farmers earn ~54% of the export price
-- Average yields (~0.6 MT/ha) — middle of the global range
+- Average yields (~0.6 MT/ha) — toward the lower end among Arabica producers
 - Farmer income from coffee: ~$160/year vs $2,500 living income requirement
 - 98% of production is exported
 - Transitioning from cooperative-led to exporter-led model

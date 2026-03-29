@@ -18,7 +18,7 @@ Without benchmarks, you cannot distinguish between "this is how the sector works
 2. **Select the right metrics.** Core metrics for coffee VCA benchmarking:
    - **Farm yields** (metric tons green coffee per hectare): The single most important productivity metric. Range across major origins: Vietnam 3+ MT/ha (highest), Brazil 1.5-2.0, Costa Rica ~1.5, Colombia ~1.0, Honduras ~0.8, Rwanda ~0.6, Indonesia ~0.6, Ethiopia <0.5 (lowest among major origins).
    - **Prices received** (USD/kg green equivalent): What farmers actually get. Reflects quality, market positioning, and supply chain efficiency.
-   - **Farmer share of export price**: Percentage of FOB price reaching the farmer. Most countries are above 50%. Vietnam and Brazil are best in class at >90%. Latin America (Colombia, Honduras) typically ~80%. Africa shows the most variation: Ethiopia ~65%, Rwanda ~50-54% (the low end globally).
+   - **Farmer share of export price**: Percentage of FOB price reaching the farmer. Most countries are above 50%. Vietnam and Brazil are best in class at >90%. Latin America (Colombia, Honduras) typically ~80%. Africa shows the most variation: Ethiopia ~55-65% (varies by channel — cooperative washed is higher, unwashed/ECX is lower), Rwanda ~54% (the low end globally).
    - **Cost of production** (USD/kg green): What it costs to grow. If cost exceeds price, farmers are losing money.
    - **Export volume and market share**: How much the country contributes to global supply. Brazil ~35%, Vietnam ~20%, Colombia ~10%, Rwanda <1%.
 

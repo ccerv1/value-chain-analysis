@@ -20,7 +20,7 @@ This page walks through the math step by step, with sources and assumptions docu
 
 The starting point is the price a farmer receives for raw coffee cherry — the red fruit picked from the tree.
 
-In the 2025/26 Ethiopian harvest season, cherry prices at the collector/ECX level reached approximately **145 ETB/kg** ([Sucafina Ethiopia 2025/26 Harvest Update](https://sucafina.com/emea/news/ethiopia-2025-26-harvest-update)). This is a sharp increase from 35-40 ETB/kg in the prior season, driven by the birr devaluation and surging global prices.
+Collectors are local intermediaries who buy cherry from farmers, aggregate small volumes, and sell to washing stations or the ECX. In the 2025/26 Ethiopian harvest season, cherry prices at the collector/ECX level reached approximately **145 ETB/kg** ([Sucafina Ethiopia 2025/26 Harvest Update](https://sucafina.com/emea/news/ethiopia-2025-26-harvest-update)). This is a sharp increase from 35-40 ETB/kg in the prior season, driven by the birr devaluation and surging global prices.
 
 The farmer does not receive the full collector price. Collectors add transport, aggregation, and their own margin. A reasonable estimate is that the farmer receives roughly **80% of the collector price**:
 
@@ -121,7 +121,7 @@ NYC coffee prices as of March 2026:
 
 | Venue | Drink | Price | Source |
 |-------|-------|-------|--------|
-| Starbucks | Grande brewed drip (16oz) | $1.95 | [HackTheMenu](https://hackthemenu.com/starbucks/menu-prices/coffee-espresso/) |
+| Starbucks | Grande brewed drip (16oz) | $3.00-3.50 | Estimated for NYC; varies by location |
 | Independent cafe | Drip coffee (12oz) | $4.50-6.00 | Estimated from NYC cafe surveys |
 | Blue Bottle | Pour-over (12oz) | $5.75 | [FullMenuPrices](https://fullmenuprices.com/blue-bottle-coffee-menu-with-prices/) |
 | Specialty (Sey, Devocion) | Single-origin Ethiopian pour-over | $7-9 | Estimated |
@@ -145,7 +145,7 @@ For a **$5.75 pour-over at Blue Bottle** — 50 cups from 1 kg of green:
 
 | Retail format | Cup price | 50 cups | Farmer's $5.71 as % |
 |---------------|-----------|---------|---------------------|
-| Starbucks grande drip | $1.95 | $97.50 | 5.9% |
+| Starbucks grande drip | $3.25 | $162.50 | 3.5% |
 | Independent cafe drip | $5.00 | $250.00 | 2.3% |
 | Blue Bottle pour-over | $5.75 | $287.50 | 2.0% |
 | Specialty Ethiopian pour-over | $8.00 | $400.00 | 1.4% |

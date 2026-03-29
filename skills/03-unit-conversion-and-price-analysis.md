@@ -50,7 +50,7 @@ Common currencies encountered in coffee VCA:
 
 3. **Not specifying which product form a price refers to.** "$3 per kilo" is meaningless without knowing whether it is per kilo of cherry, parchment, or green. Cherry at $3/kg is a high price. Green at $3/kg is a low price. Always label your units completely.
 
-4. **Forgetting that exchange rates fluctuate.** A farm-gate price collected in March may look very different when converted at December exchange rates. For countries with significant currency volatility (Ethiopia, Nigeria), this can shift the analysis materially. State the exchange rate and date explicitly.
+4. **Forgetting that exchange rates fluctuate.** A farm-gate price collected in March may look very different when converted at December exchange rates. For countries with significant currency volatility (Ethiopia is a prime example after the 2024 birr float), this can shift the analysis materially. State the exchange rate and date explicitly.
 
 5. **Confusing FOB (export) price with farmgate price.** The FOB (Free On Board) price is what the buyer pays at the port of export. The farmgate price is what the farmer receives. The difference between them is the supply chain cost. These are fundamentally different numbers — do not use one where the other is needed.
 
