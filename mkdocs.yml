@@ -32,6 +32,7 @@ theme:
     - search.suggest
     - search.highlight
 
+# Student-facing navigation only
 nav:
   - Home: README.md
   - Lecture Notes:
@@ -55,9 +56,7 @@ nav:
     - Colombia (archival): case-studies/colombia.md
     - Ethiopia (archival): case-studies/ethiopia.md
   - Slides: lectures/README.md
-  - Data:
-    - Datasets: data/README.md
-    - Scripts: scripts/README.md
+  - Data: data/README.md
   - Reading List: reading-list/README.md
   - Photos: photos/README.md
 
@@ -67,7 +66,7 @@ exclude_docs: |
   data/raw/
   data/processed/*.csv
   data/exercises/
-  scripts/*.py
+  scripts/
   lectures/**/*.pptx
   lectures/**/*.xlsx
   lectures/**/*.docx
@@ -75,15 +74,11 @@ exclude_docs: |
   reading-list/**/*.doc
   reading-list/**/*.docx
   reading-list/**/*.ppt
-  docs/
   *.toml
   *.lock
   .python-version
   .gitignore
   .DS_Store
-  uv.lock
-  main.py
-  USDA.ipynb
 
 markdown_extensions:
   - tables
@@ -92,8 +87,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  # arithmatex disabled — inline $X.XX currency amounts conflict with MathJax delimiters
-  # Math blocks in ethiopian-cherry-to-nyc-cup.md converted to plain text tables instead
   - attr_list
   - md_in_html
   - toc:

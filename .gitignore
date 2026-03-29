@@ -1,22 +1,17 @@
-# Python-generated files
+# Python
 __pycache__/
 *.py[oc]
 build/
 dist/
 wheels/
 *.egg-info
-
-# Virtual environments
 .venv
 
-# MkDocs build output
+# MkDocs
 _site/
 
-# OS files
+# Intermediate chart output (final PNGs live in photos/)
+charts/
+
+# OS
 .DS_Store
-
-# Planning artifacts (not student-facing)
-docs/superpowers/
-
-# Stub file
-main.py

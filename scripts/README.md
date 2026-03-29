@@ -1,52 +1,106 @@
-# Scripts
+# Scripts (Developer Reference)
 
-Reusable Python scripts for fetching and processing coffee industry data. All scripts output clean CSVs to `data/processed/`.
+Python scripts for fetching and processing coffee industry data from public APIs. Run these to regenerate the datasets in `data/processed/` or to extend coverage with new countries or years.
 
-## Usage
+If you are a student looking to use the data, see the [Data documentation](../data/README.md) instead.
+
+## Setup
 
 ```bash
-# Install dependencies (first time)
+# Clone the repo and install dependencies
+git clone https://github.com/ccerv1/value-chain-analysis.git
+cd value-chain-analysis
 uv sync
-
-# Fetch USDA production and supply-demand data
-uv run python scripts/fetch_usda_coffee.py
-
-# Fetch market prices, trade data, exchange rates, and development indicators
-uv run python scripts/fetch_market_data.py
 ```
 
-No API keys are required. All data sources are public.
+All scripts use `uv run` and require no API keys.
 
 ## Scripts
 
 ### `fetch_usda_coffee.py`
 
-Downloads the USDA PSD (Production, Supply, and Distribution) bulk CSV for coffee and produces:
+Downloads the USDA PSD (Production, Supply, and Distribution) bulk CSV for coffee and produces two clean datasets.
 
-- `usda_production_by_country.csv` — Annual production (1960-2025) with Arabica/Robusta split for 17 countries
-- `usda_supply_demand.csv` — Full supply-demand balance: production, consumption, exports, imports, stocks
+```bash
+uv run python scripts/fetch_usda_coffee.py
+```
 
-Source: [USDA FAS PSD Online](https://apps.fas.usda.gov/psdonline/) bulk download (no key needed).
+**How it works:** The USDA publishes a bulk ZIP file at `apps.fas.usda.gov/psdonline/downloads/psd_coffee_csv.zip` containing all coffee data for all countries since 1960. The script downloads this, filters to 17 focus countries, and pivots the data into analysis-ready formats.
+
+**Outputs:**
+
+| File | Description |
+|------|-------------|
+| `usda_production_by_country.csv` | Annual production with Arabica/Robusta split (1960-2025, 17 countries) |
+| `usda_supply_demand.csv` | Full supply-demand balance: production, consumption, exports, imports, stocks |
+
+**To add a country:** Edit the `FOCUS_COUNTRIES` list at the top of the script.
+
+**To update:** Just re-run. The bulk download always contains the latest data.
+
+---
 
 ### `fetch_market_data.py`
 
-Fetches data from multiple public APIs and produces:
+Fetches coffee prices, exchange rates, trade data, and development indicators from four public APIs.
 
-| Output | Source |
-|--------|--------|
-| `coffee_prices_monthly.csv` | FRED (IMF commodity prices) |
-| `arabica_futures_daily.csv` | Yahoo Finance (`KC=F`) |
-| `coffee_exports_by_country.csv` | UN COMTRADE (HS 0901) |
-| `exchange_rates_annual.csv` | World Bank API |
-| `brl_usd_daily.csv` | FRED |
-| `development_indicators.csv` | World Bank API |
+```bash
+uv run python scripts/fetch_market_data.py
+```
 
-Note: The COMTRADE fetch queries 12 countries x 24 years individually (to avoid the 500-row cap on the public preview API), so it takes several minutes to run.
+**How it works:** Calls each API sequentially:
 
-## Dependencies
+1. **FRED** (no key) — Monthly Arabica and Robusta prices, daily BRL/USD
+2. **Yahoo Finance** (no key) — Daily ICE "C" Arabica futures via `yfinance`
+3. **World Bank** (no key) — Annual exchange rates and development indicators for 11 coffee-producing countries
+4. **UN COMTRADE** (no key) — Annual coffee exports (HS 0901) for 12 producing countries, queried individually by country and year to avoid the 500-row preview API cap
 
-Managed via `pyproject.toml` at the project root:
+**Outputs:**
 
-- `pandas` — Data processing
-- `requests` — HTTP downloads
-- `yfinance` — Yahoo Finance futures data
+| File | Description |
+|------|-------------|
+| `coffee_prices_monthly.csv` | Arabica + Robusta monthly prices (1992-present) |
+| `arabica_futures_daily.csv` | ICE "C" daily OHLCV (2000-present) |
+| `exchange_rates_annual.csv` | LCU per USD for 11 countries (1990-present) |
+| `brl_usd_daily.csv` | Daily BRL/USD (1995-present) |
+| `development_indicators.csv` | GDP, agriculture % GDP, population, rural % (2000-present) |
+| `coffee_exports_by_country.csv` | Annual export volume and value (2000-2023) |
+
+**COMTRADE note:** The public preview API caps responses at 500 rows. When querying all reporters, re-exporting countries (France, Germany, etc.) consume the budget before producing countries appear. This script queries each producing country individually with `partnerCode=0` (World) to get clean exporter-to-world aggregates.
+
+**To add a country:** Edit the `COMTRADE_COUNTRIES` dict (add the UN numeric code) and the `WB_COUNTRIES` string (add the ISO2 code).
+
+**To update:** Re-run. FRED and World Bank data updates automatically. COMTRADE data for the most recent year may take 6-12 months to appear.
+
+---
+
+## Data Architecture
+
+```
+data/
+├── processed/          Analysis-ready CSVs (what students use)
+│   ├── usda_*.csv              ← from fetch_usda_coffee.py
+│   ├── coffee_prices_*.csv     ← from fetch_market_data.py
+│   ├── arabica_futures_*.csv   ← from fetch_market_data.py
+│   ├── exchange_rates_*.csv    ← from fetch_market_data.py
+│   ├── development_*.csv       ← from fetch_market_data.py
+│   ├── coffee_exports_*.csv    ← from fetch_market_data.py
+│   ├── supply_curve_*.csv      ← supply curve dataset (USDA + COMTRADE merged)
+│   ├── country_lookup.csv      ← hand-curated master lookup table
+│   └── coffee_*.csv            ← hand-curated reference tables (yields, conversions, profiles)
+├── raw/                Original downloads (for reproducibility)
+└── exercises/          Student exercise files (not regenerated by scripts)
+```
+
+## Extending
+
+**Adding a new case study country:**
+
+1. Add the country to `FOCUS_COUNTRIES` in `fetch_usda_coffee.py` and re-run
+2. Add the country codes to `fetch_market_data.py` and re-run
+3. Add a row to `data/processed/country_lookup.csv`
+4. Generate charts using the pattern in the Honduras case study
+
+**Supply curve data:** The file `supply_curve_complete.csv` is built by merging USDA export volumes (complete, all countries) with COMTRADE green coffee prices (HS 090111, queried per producing country). For countries without COMTRADE price data, prices are estimated from the Arabica/Robusta benchmark weighted by species mix. See the chart generation code in the repo history for the full methodology.
+
+**Generating charts:** Charts are generated with matplotlib and saved to `photos/` for embedding in case studies. The chart style uses black/white/gray only, no gridlines, clean axes with ticks. See any recent commit with "chart" in the message for the pattern.
