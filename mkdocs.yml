@@ -57,7 +57,6 @@ exclude_docs: |
   data/exercises/
   scripts/*.py
   lectures/**/*.pptx
-  lectures/**/*.pdf
   lectures/**/*.xlsx
   lectures/**/*.docx
   reading-list/**/*.pdf
