@@ -23,11 +23,7 @@
   --md-accent-fg-color: #ffffff;
 }
 
-/* --- Typography --- */
-.md-typeset {
-  font-size: 0.82rem;
-  line-height: 1.7;
-}
+/* --- Typography (base — responsive overrides below) --- */
 
 .md-typeset h1 {
   font-weight: 800;
@@ -274,9 +270,69 @@
   background-color: #1a1a1a;
 }
 
-/* --- Content width: slightly wider for reading --- */
+/* --- Responsive content width ---
+   Mobile (<768px):  full width, smaller type
+   Tablet (768-1219px): comfortable reading width
+   Desktop (1220px+): wide layout, larger type, more breathing room
+*/
+
+/* Mobile (default) */
 .md-content {
-  max-width: 52em;
+  max-width: 100%;
+}
+
+.md-typeset {
+  font-size: 0.8rem;
+  line-height: 1.65;
+}
+
+/* Tablet */
+@media screen and (min-width: 768px) {
+  .md-typeset {
+    font-size: 0.85rem;
+    line-height: 1.7;
+  }
+
+  .md-content__inner {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 1220px) {
+  .md-typeset {
+    font-size: 0.9rem;
+    line-height: 1.75;
+  }
+
+  .md-content__inner {
+    max-width: 860px;
+    margin: 0 auto;
+  }
+
+  .md-typeset h1 {
+    font-size: 2em;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.5em;
+  }
+
+  /* Wider images on desktop */
+  .md-typeset h1 + p > img,
+  .md-typeset h1 + p + p > img:first-child {
+    max-height: 480px;
+  }
+
+  .md-typeset h2 + p > img {
+    max-height: 400px;
+  }
+
+  /* Tables can breathe */
+  .md-typeset table:not([class]) {
+    font-size: 0.82rem;
+  }
 }
 
 /* --- Admonitions / callouts --- */
