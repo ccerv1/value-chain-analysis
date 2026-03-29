@@ -8,9 +8,18 @@ site_dir: _site
 theme:
   name: material
   palette:
-    scheme: default
-    primary: brown
-    accent: deep orange
+    - scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: white
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   font:
     text: Inter
     code: JetBrains Mono
@@ -18,10 +27,13 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
     - toc.integrate
     - content.tabs.link
+    - search.suggest
+    - search.highlight
   icon:
-    logo: material/coffee
+    logo: material/grain
 
 nav:
   - Home: README.md
@@ -89,4 +101,5 @@ markdown_extensions:
   - toc:
       permalink: true
 
-extra_css: []
+extra_css:
+  - stylesheets/custom.css
