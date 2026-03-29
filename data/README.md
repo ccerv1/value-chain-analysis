@@ -25,7 +25,7 @@ Analysis-ready CSVs. These are the files you should use.
 
 Source: [USDA PSD](https://apps.fas.usda.gov/psdonline/) bulk CSV download. No API key needed. Values are in 60-kg bags (the standard unit for coffee trade statistics).
 
-**`usda_production_by_country.csv`** — Annual coffee production with Arabica/Robusta split
+**[`usda_production_by_country.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/usda_production_by_country.csv)** — Annual coffee production with Arabica/Robusta split
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -40,7 +40,7 @@ Source: [USDA PSD](https://apps.fas.usda.gov/psdonline/) bulk CSV download. No A
 
 Coverage: 17 countries, 1960-2025 (1,122 rows). Use this for production trends, Arabica/Robusta shares, and country comparisons.
 
-**`usda_supply_demand.csv`** — Full supply-demand balance
+**[`usda_supply_demand.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/usda_supply_demand.csv)** — Full supply-demand balance
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -71,7 +71,7 @@ Coverage: 17 countries, 1960-2025 (1,122 rows). All values in 60-kg bags. Use th
 
 ### Market Prices
 
-**`coffee_prices_monthly.csv`** — Monthly Arabica and Robusta prices
+**[`coffee_prices_monthly.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_prices_monthly.csv)** — Monthly Arabica and Robusta prices
 
 Source: [FRED](https://fred.stlouisfed.org/) (IMF/World Bank commodity price series)
 
@@ -87,7 +87,7 @@ Source: [FRED](https://fred.stlouisfed.org/) (IMF/World Bank commodity price ser
 
 Coverage: 1992-2026 (410 rows). These are monthly averages of ICO indicator prices, not futures prices. Good for long-run trend analysis and the coffee crisis narrative.
 
-**`arabica_futures_daily.csv`** — Daily ICE "C" Arabica futures
+**[`arabica_futures_daily.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/arabica_futures_daily.csv)** — Daily ICE "C" Arabica futures
 
 Source: [Yahoo Finance](https://finance.yahoo.com/) via `yfinance` (ticker `KC=F`)
 
@@ -107,7 +107,7 @@ Coverage: 2000-2026 (6,577 rows). Daily front-month futures. Use for price volat
 
 ### Trade Data
 
-**`coffee_exports_by_country.csv`** — Annual coffee exports by producing country
+**[`coffee_exports_by_country.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_exports_by_country.csv)** — Annual coffee exports by producing country
 
 Source: [UN COMTRADE](https://comtradeapi.un.org/) public preview API (HS code 0901, exports to World)
 
@@ -130,7 +130,7 @@ Data quality notes:
 
 ### Exchange Rates
 
-**`exchange_rates_annual.csv`** — Annual official exchange rates
+**[`exchange_rates_annual.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/exchange_rates_annual.csv)** — Annual official exchange rates
 
 Source: [World Bank](https://api.worldbank.org/) indicator `PA.NUS.FCRF`
 
@@ -143,7 +143,7 @@ Source: [World Bank](https://api.worldbank.org/) indicator `PA.NUS.FCRF`
 
 Coverage: 11 countries, 1990-2024 (385 rows). Use for converting farmer prices from local currency to USD (the unit conversion skill). Some early years may be null for countries that didn't report.
 
-**`brl_usd_daily.csv`** — Daily BRL/USD exchange rate
+**[`brl_usd_daily.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/brl_usd_daily.csv)** — Daily BRL/USD exchange rate
 
 Source: [FRED](https://fred.stlouisfed.org/) series `DEXBZUS`
 
@@ -158,7 +158,7 @@ Coverage: 1995-2026 (7,828 rows). Weekends and holidays are excluded. Useful for
 
 ### Development Indicators
 
-**`development_indicators.csv`** — Country-level context data
+**[`development_indicators.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/development_indicators.csv)** — Country-level context data
 
 Source: [World Bank](https://api.worldbank.org/)
 
@@ -181,7 +181,7 @@ Coverage: 11 countries, 2000-2024 (275 rows). Provides context for value chain a
 
 Small hand-curated datasets from lecture content. These capture the key numbers used in slides and case studies.
 
-**`coffee_yields_benchmark.csv`** — The benchmark yield chart from the slides
+**[`coffee_yields_benchmark.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_yields_benchmark.csv)** — The benchmark yield chart from the slides
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -193,7 +193,7 @@ Small hand-curated datasets from lecture content. These capture the key numbers 
 
 10 rows. Use for the benchmark comparison chart. Note: the USDA PSD bulk download does not include area harvested, so these yield figures come from USDA attaché reports and TechnoServe analysis as cited in the slides.
 
-**`supply_chain_breakdowns.csv`** — Vietnam and Rwanda waterfall numbers
+**[`supply_chain_breakdowns.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/supply_chain_breakdowns.csv)** — Vietnam and Rwanda waterfall numbers
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -208,7 +208,7 @@ Small hand-curated datasets from lecture content. These capture the key numbers 
 
 2 rows. The core data for the waterfall chart comparison between an efficient chain (Vietnam, 95%) and a processing-intensive chain (Rwanda, 54%).
 
-**`coffee_country_profiles.csv`** — Key stats per country
+**[`coffee_country_profiles.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_country_profiles.csv)** — Key stats per country
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -223,7 +223,7 @@ Small hand-curated datasets from lecture content. These capture the key numbers 
 
 5 rows (the countries covered in the case studies). A quick reference for the numbers that anchor each case study.
 
-**`coffee_conversion_factors.csv`** — Standard conversion factors for coffee
+**[`coffee_conversion_factors.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_conversion_factors.csv)** — Standard conversion factors for coffee
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -239,7 +239,7 @@ Small hand-curated datasets from lecture content. These capture the key numbers 
 
 ### Country Lookup Table
 
-**`country_lookup.csv`** — Master lookup for joining data across sources
+**[`country_lookup.csv`](https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/country_lookup.csv)** — Master lookup for joining data across sources
 
 | Column | Type | Description |
 |--------|------|-------------|
