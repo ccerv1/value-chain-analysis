@@ -1,0 +1,19 @@
+display_name,iso2,iso3,usda_code,usda_name,comtrade_code,wb_code,wb_name,currency_code,currency_name,region,main_species
+Brazil,BR,BRA,BR,Brazil,76,BRA,Brazil,BRL,Brazilian Real,Latin America,Mixed
+Vietnam,VN,VNM,VM,Vietnam,704,VNM,Viet Nam,VND,Vietnamese Dong,Southeast Asia,Robusta
+Colombia,CO,COL,CO,Colombia,170,COL,Colombia,COP,Colombian Peso,Latin America,Arabica
+Ethiopia,ET,ETH,ET,Ethiopia,231,ETH,Ethiopia,ETB,Ethiopian Birr,East Africa,Arabica
+Rwanda,RW,RWA,RW,Rwanda,646,RWA,Rwanda,RWF,Rwandan Franc,East Africa,Arabica
+Uganda,UG,UGA,UG,Uganda,800,UGA,Uganda,UGX,Ugandan Shilling,East Africa,Mixed
+Kenya,KE,KEN,KE,Kenya,404,KEN,Kenya,KES,Kenyan Shilling,East Africa,Arabica
+Honduras,HN,HND,HO,Honduras,340,HND,Honduras,HNL,Honduran Lempira,Central America,Arabica
+Guatemala,GT,GTM,GT,Guatemala,320,GTM,Guatemala,GTQ,Guatemalan Quetzal,Central America,Arabica
+Indonesia,ID,IDN,ID,Indonesia,360,IDN,Indonesia,IDR,Indonesian Rupiah,Southeast Asia,Mixed
+Costa Rica,CR,CRI,CS,Costa Rica,188,CRI,Costa Rica,CRC,Costa Rican Colon,Central America,Arabica
+Peru,PE,PER,PE,Peru,604,,,,Peruvian Sol,Latin America,Arabica
+India,IN,IND,IN,India,,IND,India,INR,Indian Rupee,South Asia,Mixed
+Tanzania,TZ,TZA,TZ,Tanzania,,TZA,Tanzania,TZS,Tanzanian Shilling,East Africa,Arabica
+Mexico,MX,MEX,MX,Mexico,,MEX,Mexico,MXN,Mexican Peso,Latin America,Arabica
+Nicaragua,NI,NIC,NU,Nicaragua,,NIC,Nicaragua,NIO,Nicaraguan Cordoba,Central America,Arabica
+El Salvador,SV,SLV,ES,El Salvador,,SLV,El Salvador,USD,US Dollar,Central America,Arabica
+Burundi,BI,BDI,BY,Burundi,,BDI,Burundi,BIF,Burundian Franc,East Africa,Arabica

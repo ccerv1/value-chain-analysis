@@ -1,0 +1,11 @@
+country,species,avg_yield_mt_per_ha,source,notes
+Vietnam,Robusta,3.0,USDA; TechnoServe analysis,Highest globally; intensive irrigation
+Brazil (Robusta),Robusta,1.8,USDA; TechnoServe analysis,
+Costa Rica,Arabica,1.5,USDA; TechnoServe analysis,
+Colombia,Arabica,1.0,USDA; TechnoServe analysis,
+Honduras,Arabica,0.8,USDA; TechnoServe analysis,
+Rwanda,Arabica,0.6,USDA; TechnoServe analysis,
+Brazil (Arabica),Arabica,1.5,USDA; TechnoServe analysis,
+Indonesia,Mixed,0.6,USDA; TechnoServe analysis,
+Ethiopia,Arabica,0.4,USDA; TechnoServe analysis,Lowest among major origins
+Uganda,Mixed,0.6,USDA; TechnoServe analysis,

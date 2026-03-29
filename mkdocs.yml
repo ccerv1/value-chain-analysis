@@ -1,0 +1,91 @@
+site_name: "Value Chain Analysis — SIPA Course Materials"
+site_description: "Companion materials for the Value Chain Analysis guest lecture at Columbia SIPA"
+site_author: "Carl Cervone"
+
+docs_dir: site
+site_dir: _site
+
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: brown
+    accent: deep orange
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - content.tabs.link
+  icon:
+    logo: material/coffee
+
+nav:
+  - Home: README.md
+  - Lecture Notes:
+    - Overview: lecture-notes/README.md
+    - Value Chain Analysis: lecture-notes/value-chain-analysis.md
+  - Skills Guides:
+    - Overview: skills/README.md
+    - "1. Mapping a Value Chain": skills/01-mapping-a-value-chain.md
+    - "2. Breaking Down Value Flows": skills/02-breaking-down-value-flows.md
+    - "3. Unit Conversion & Price Analysis": skills/03-unit-conversion-and-price-analysis.md
+    - "4. Benchmarking": skills/04-benchmarking.md
+    - "5. Prioritizing Recommendations": skills/05-prioritizing-recommendations.md
+    - "6. Conducting a Deep Dive": skills/06-conducting-a-value-chain-deep-dive.md
+  - Case Studies:
+    - Overview: case-studies/README.md
+    - Vietnam: case-studies/vietnam.md
+    - Rwanda: case-studies/rwanda.md
+    - Colombia (archival): case-studies/colombia.md
+    - Ethiopia (archival): case-studies/ethiopia.md
+  - Slides: lectures/README.md
+  - Data:
+    - Datasets: data/README.md
+    - Scripts: scripts/README.md
+  - Reading List: reading-list/README.md
+  - Photos: photos/README.md
+
+exclude_docs: |
+  .venv/
+  _site/
+  data/raw/
+  data/processed/*.csv
+  data/exercises/
+  scripts/*.py
+  lectures/**/*.pptx
+  lectures/**/*.pdf
+  lectures/**/*.xlsx
+  lectures/**/*.docx
+  reading-list/**/*.pdf
+  reading-list/**/*.doc
+  reading-list/**/*.docx
+  reading-list/**/*.ppt
+  docs/
+  *.toml
+  *.lock
+  .python-version
+  .gitignore
+  .DS_Store
+  uv.lock
+  main.py
+  USDA.ipynb
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra_css: []

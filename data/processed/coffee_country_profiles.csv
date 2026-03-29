@@ -1,0 +1,6 @@
+country,num_farmers,avg_farm_size_ha,pct_world_supply,main_species,farmer_share_pct,export_channel,domestic_consumption_pct
+Vietnam,600000.0,1.0,20.0,Robusta,95.0,Private traders,2
+Rwanda,350000.0,0.1,0.5,Arabica,54.0,CWS + exporters,2
+Colombia,550000.0,2.0,10.0,Arabica,80.0,FNC + private,40
+Ethiopia,,0.5,4.0,Arabica,,ECX + cooperatives,50
+Brazil,300000.0,10.0,35.0,Mixed,,Private,40

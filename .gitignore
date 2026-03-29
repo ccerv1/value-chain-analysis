@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# MkDocs build output
+_site/
+
+# OS files
+.DS_Store
+
+# Planning artifacts (not student-facing)
+docs/superpowers/
+
+# Stub file
+main.py

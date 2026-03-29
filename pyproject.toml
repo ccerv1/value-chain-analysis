@@ -1,0 +1,14 @@
+[project]
+name = "sipa"
+version = "0.1.0"
+description = "SIPA Value Chain Analysis — course materials and data scripts"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.6",
+    "pandas>=2.0",
+    "pillow>=12.1.1",
+    "python-pptx>=1.0.2",
+    "requests>=2.28",
+    "yfinance>=0.2",
+]
