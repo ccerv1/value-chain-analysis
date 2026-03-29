@@ -27,6 +27,7 @@ nav:
   - Home: README.md
   - Lecture Notes:
     - Overview: lecture-notes/README.md
+    - "The Coffee Value Chain: Cherry to Cup": lecture-notes/coffee-value-chain.md
     - Value Chain Analysis: lecture-notes/value-chain-analysis.md
   - Skills Guides:
     - Overview: skills/README.md

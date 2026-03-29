@@ -22,23 +22,15 @@ Instructor: Carl Cervone
 
 Coffee is a fruit. It grows on trees in the tropics, roughly between the Tropics of Cancer and Capricorn. About 20 countries produce coffee at scale — Brazil, Vietnam, Colombia, Indonesia, Ethiopia, Honduras, India, Uganda, Peru, Guatemala, among others — and another 30 or so produce smaller volumes. What we call the "bean" is actually the seed inside the coffee cherry.
 
-The transformation from cherry to cup involves a series of distinct stages, each with different actors, different economics, and different risks.
+The transformation from cherry to cup involves a series of distinct stages, each with different actors, different economics, and different risks. For a detailed visual walkthrough of each stage with photographs, see **[The Coffee Value Chain: From Cherry to Cup](coffee-value-chain.md)**.
 
 ### The Processing Chain
 
-![Cross-section of a coffee cherry](../photos/diagram-coffee-cherry-anatomy.png)
+![Woman hand-picking ripe coffee cherries](../photos/woman-picking-coffee-cherries.jpg)
 
-**Cherry.** Coffee starts as a fruit on a tree. There are approximately 12.5 million coffee farms globally (per Enveritas estimates), and over 95% of them are smallholders — farms smaller than about 5 hectares. Many are far smaller, under half a hectare. Some very large industrial farms exist, particularly in Brazil, but they are the exception. On small farms, cherries are harvested by hand, typically during a harvest season lasting a few weeks to a few months. The critical fact about cherry is that it must be processed quickly after picking — within hours, not days — or it begins to ferment and degrade.
+The chain moves through six stages: **cherry** (fruit on the tree, harvested by hand on smallholder farms) → **parchment** (de-pulped and washed or dried naturally) → **green** (hulled, graded, and packed for export) → **roasted** (blended and roasted to profile) → **ground** (packaged for retail) → **cup** (brewed and consumed).
 
-**Parchment.** The first processing step removes the fruit from the seed. In the "washed" process, cherries are de-pulped mechanically, fermented briefly in water to remove the mucilage, then washed and laid out to dry. In the "natural" process, the whole cherry is dried with the fruit still on the seed — a simpler method but one that requires careful management to avoid defects. The output at this stage is called parchment coffee: the seed still wrapped in a thin papery hull. Washed and natural processing produce coffees with noticeably different flavor profiles, and the choice between them is driven by climate, water availability, infrastructure, and market demand.
-
-**Green.** Large dry mills hull the parchment to reveal the green coffee bean underneath. The green coffee is then graded by size, density, and defect count, packed into 60-kilogram jute or burlap bags, and loaded into shipping containers for export. A standard 20-foot container holds about 250 bags, or roughly 15 metric tons of green coffee.
-
-**Roasted.** Roasters — from small artisan operations to industrial plants — blend coffees from different origins and roast them to specific profiles. Roasting is where a huge share of the value is added: green coffee that costs $3-5 per kilogram wholesale becomes roasted coffee that retails for $10-40 per kilogram.
-
-**Ground.** Roasted coffee is ground to different particle sizes depending on the intended brewing method, then packaged and often vacuum-sealed to preserve freshness.
-
-**Cup.** Water is added. This is the stage where the consumer finally interacts with the product.
+Each stage involves different actors operating at different scales, from 12.5 million farms to fewer than 10,000 international traders. This course focuses on the first three stages — farm to export — where development interventions target, where the economics are most opaque, and where the data challenges are greatest.
 
 ### The Hourglass
 

@@ -34,7 +34,8 @@ sipa/
 
 Evergreen reference document covering the stable, year-over-year foundations of the course: Coffee 101, global market dynamics, the VCA framework (Map / Breakdown / Benchmark), fieldwork advice, and open questions.
 
-- [Value Chain Analysis](lecture-notes/value-chain-analysis.md)
+- [The Coffee Value Chain: Cherry to Cup](lecture-notes/coffee-value-chain.md) — Visual guide to every processing stage with photographs
+- [Value Chain Analysis](lecture-notes/value-chain-analysis.md) — Framework, market dynamics, methodology
 
 ### [Skills Guides](skills/README.md)
 

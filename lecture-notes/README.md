@@ -1,15 +1,17 @@
 # Lecture Notes
 
-Evergreen companion document for the Value Chain Analysis course. Unlike the yearly slide decks, this document captures the stable, year-over-year content: concepts, frameworks, and reference material that don't change with each iteration.
+Evergreen companion documents for the Value Chain Analysis course. Unlike the yearly slide decks, these capture the stable, year-over-year content: concepts, frameworks, and reference material that don't change with each iteration.
 
 ## Contents
 
-- **[Value Chain Analysis](value-chain-analysis.md)** — The main reference document
+- **[The Coffee Value Chain: From Cherry to Cup](coffee-value-chain.md)** — Visual guide to every stage of coffee processing, with photographs from producing countries. Start here if you're new to coffee.
 
-### What It Covers
+- **[Value Chain Analysis](value-chain-analysis.md)** — The main reference document covering the VCA framework, global market dynamics, and analytical methodology.
 
-1. **Coffee 101** — The processing chain from cherry to cup, the hourglass market structure (~12.5M farms funneling through fewer than 10,000 traders), the "$4/kilo to $4/cup" framing
-2. **Global Market Dynamics** — Supply and demand drivers, the 2001-2003 coffee crisis, price volatility and farmer risk, the Arabica/Robusta market split
+### What the Main Reference Covers
+
+1. **Coffee 101** — The hourglass market structure (~12.5M farms funneling through fewer than 10,000 traders), the "$4/kilo to $4/cup" framing
+2. **Global Market Dynamics** — Supply and demand drivers, the 2001-2003 coffee crisis, price volatility, the Arabica/Robusta market split
 3. **The VCA Framework** — Map (who does what), Breakdown (who gets paid what), Benchmark (how does it compare). The three-step methodology with the Rwanda conversion as the anchor example
 4. **From Analysis to Action** — Common recommendation categories, the impact-feasibility matrix, why context determines everything
 5. **Data and Methods** — Where to find data, fieldwork principles, common pitfalls, triangulation
