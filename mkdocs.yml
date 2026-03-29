@@ -59,6 +59,9 @@ nav:
   - Data: data/README.md
   - Reading List: reading-list/README.md
   - Photos: photos/README.md
+  - Developer:
+    - Scripts: scripts/README.md
+    - Data Schemas: data/README.md
 
 exclude_docs: |
   .venv/
@@ -66,7 +69,7 @@ exclude_docs: |
   data/raw/
   data/processed/*.csv
   data/exercises/
-  scripts/
+  scripts/*.py
   lectures/**/*.pptx
   lectures/**/*.xlsx
   lectures/**/*.docx
