@@ -1,6 +1,7 @@
-site_name: "Value Chain Analysis — SIPA Course Materials"
-site_description: "Companion materials for the Value Chain Analysis guest lecture at Columbia SIPA"
+site_name: "Value Chain Analysis"
+site_description: "Course materials for Value Chain Analysis at Columbia SIPA"
 site_author: "Carl Cervone"
+site_url: "https://ccerv1.github.io/value-chain-analysis/"
 
 docs_dir: site
 site_dir: _site
@@ -27,13 +28,9 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - navigation.indexes
     - toc.integrate
-    - content.tabs.link
     - search.suggest
     - search.highlight
-  icon:
-    logo: material/grain
 
 nav:
   - Home: README.md
