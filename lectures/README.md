@@ -1,38 +1,27 @@
 # Lecture Slides
 
-Slide decks from the Value Chain Analysis guest lecture at Columbia SIPA, taught annually since 2017. Each link opens the full slide deck as a PDF.
+Slide decks from the Value Chain Analysis guest lecture at Columbia SIPA, taught annually since 2017.
 
-## Slides by Year
+| Year | Pages | Case Studies | Notes | PDF |
+|------|-------|-------------|-------|-----|
+| 2025 | 71 | Vietnam, Rwanda | Single-session format. AI-assisted analysis demo (Deep Research). Satellite imagery for farm mapping. | [View](2025/value-chain-analysis-2025.pdf) |
+| 2024 | 58 | Rwanda, Vietnam | First year as a single combined deck. Co-taught with Joel Arusha and Dave Betts. Rwanda field photography from washing stations. | [View](2024/value-chain-analysis-2024.pdf) |
+| 2023 | 89 | Vietnam, Colombia | Two-day format. Day 2 adds sustainability (CO2, gender, certification), the Fairchain model, and an interactive panel discussion. Arabica climate suitability mapping. | [View](2023/value-chain-analysis-2023.pdf) |
+| 2022 | 64 | Vietnam, Colombia | Condensed to a single session. Streamlined benchmarking. | [View](2022/value-chain-analysis-2022.pdf) |
+| 2021 | 71 | Colombia, Vietnam | Remote delivery (COVID). Day 2 features a live panel with field practitioners (Indonesia, Cote d'Ivoire). | [View](2021/value-chain-analysis-2021.pdf) |
+| 2020 | 110 | Ethiopia, Vietnam | Remote delivery. Expanded waterfall methodology and production cost benchmarking. Ethiopia as primary deep dive. | [View](2020/value-chain-analysis-2020.pdf) |
+| 2019 | 99 | Ethiopia, Colombia, Vietnam | Two-day format. Full processing chain photography. Includes the Oxfam "Mugged" case reference. Colombia headlines on price crisis. | [View](2019/value-chain-analysis-2019.pdf) |
+| 2018 | 77 | Ethiopia, Colombia, Vietnam | Two-day format. Ethiopia ECX and traceability discussion. Colombia institutional model. | [View](2018/value-chain-analysis-2018.pdf) |
+| 2017 | 72 | Ethiopia, Colombia, Vietnam | First year. Establishes the Map / Breakdown / Benchmark framework. Ethiopia data exercise. Interactive clicker questions. | [View](2017/value-chain-analysis-2017.pdf) |
 
-### **2025** — [View slides](2025/value-chain-analysis-2025.pdf)
-Vietnam and Rwanda as primary cases. Single combined deck introducing the Map / Breakdown / Benchmark framework with updated market data (Arabica at historic highs, Robusta surging). Includes satellite imagery for farm mapping and AI-assisted analysis demo.
+## Evolution of the Course
 
-### **2024** — [View slides](2024/value-chain-analysis-2024.pdf)
-First year as a single combined deck (previously split across two days). Same Vietnam/Rwanda focus with 2024 market data. Added field photography from Rwanda washing stations.
+**Case study rotation:** Ethiopia and Colombia were the primary cases from 2017-2020. Vietnam was always present as a benchmarking comparison. Rwanda was introduced as a primary case in 2024, replacing Ethiopia. Vietnam shifted from benchmark to primary case in 2025.
 
-### **2023** — [View slides](2023/value-chain-analysis-2023.pdf)
-Two-day format. Day 1 covers Coffee 101, the VCA framework, and Vietnam. Day 2 covers sustainability (CO2 emissions, gender, certification standards), the Fairchain model, and Colombia. Added Arabica suitability mapping under climate change.
+**Format changes:** The course ran as a two-day format (Day 1 + Day 2) from 2017-2023, condensed to a single session in 2022, then moved to a single combined deck starting in 2024.
 
-### **2022** — [View slides](2022/value-chain-analysis-2022.pdf)
-Condensed to a single session. Core VCA framework with Vietnam and Rwanda examples. Streamlined benchmarking section.
+**Guest speakers and panels:** Live panels with field practitioners were introduced in 2021 (Indonesia, Cote d'Ivoire) and repeated in 2023. Joel Arusha and Dave Betts co-taught in 2024.
 
-### **2021** — [View slides](2021/value-chain-analysis-2021.pdf)
-Two-day format, delivered remotely (COVID era). Day 1 covers Coffee 101 and the VCA framework. Day 2 covers country deep dives and recommendations.
+**Sustainability content:** Climate, CO2 emissions, gender equity, and certification standards were added as a dedicated section starting in 2023.
 
-### **2020** — [View slides](2020/value-chain-analysis-2020.pdf)
-Two-day format, first remote delivery. Expanded coverage of production cost benchmarking and the waterfall chart methodology.
-
-### **2019** — [View slides](2019/value-chain-analysis-2019.pdf)
-Two-day format. Processing chain photography throughout. Expanded value chain framework diagram. Includes the Oxfam "Mugged" case study reference.
-
-### **2018** — [View slides](2018/value-chain-analysis-2018.pdf)
-Two-day format. Ethiopia as a primary case alongside Colombia. Includes the coffee crisis narrative and ECX traceability discussion.
-
-### **2017** — [View slides](2017/value-chain-analysis-2017.pdf)
-First year. Two-day format with Colombia as the anchor case study. Establishes the core VCA methodology that has remained stable through all subsequent years.
-
-## Notes
-
-- The course shifted from a two-day format (Day 1 + Day 2) to a single combined deck starting in 2024.
-- The core framework (Map / Breakdown / Benchmark) has been stable since 2017.
-- For the written version of the lecture content, see [Lecture Notes](../lecture-notes/README.md) and [Skills Guides](../skills/README.md).
+**Core framework:** The Map / Breakdown / Benchmark methodology has been stable since 2017. The waterfall chart, export price curve, and yield comparison chart have been recurring visuals throughout.
