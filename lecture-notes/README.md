@@ -6,6 +6,8 @@ Evergreen companion documents for the Value Chain Analysis course. Unlike the ye
 
 - **[The Coffee Value Chain: From Cherry to Cup](coffee-value-chain.md)** — Visual guide to every stage of coffee processing, with photographs from producing countries. Start here if you're new to coffee.
 
+- **[From Ethiopian Cherry to NYC Cup](ethiopian-cherry-to-nyc-cup.md)** — Worked example tracing a kilogram of Ethiopian coffee from farm gate to Brooklyn pour-over, with full math and sources. Shows how $5.71 becomes $288.
+
 - **[Value Chain Analysis](value-chain-analysis.md)** — The main reference document covering the VCA framework, global market dynamics, and analytical methodology.
 
 ### What the Main Reference Covers
