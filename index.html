@@ -302,10 +302,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#repository-structure" class="md-nav__link">
+  <a href="#start-here" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Repository Structure
+        Start Here
       
     </span>
   </a>
@@ -313,15 +313,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#written-materials" class="md-nav__link">
+  <a href="#course-materials" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Written Materials
+        Course Materials
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Written Materials">
+    <nav class="md-nav" aria-label="Course Materials">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -357,12 +357,7 @@
   
 </li>
         
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
+          <li class="md-nav__item">
   <a href="#slides" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -372,8 +367,8 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#data" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -383,12 +378,39 @@
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#reading-list" class="md-nav__link">
     <span class="md-ellipsis">
       
         Reading List
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#photos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Photos
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#for-developers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        For Developers
       
     </span>
   </a>
@@ -1095,60 +1117,6 @@
   
   
   
-    
-    
-    
-    
-      
-        
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
-        
-          
-          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Data
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_6">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Data
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
     <li class="md-nav__item">
       <a href="data/" class="md-nav__link">
         
@@ -1157,7 +1125,7 @@
   <span class="md-ellipsis">
     
   
-    Datasets
+    Data
   
 
     
@@ -1166,42 +1134,6 @@
   
 
       </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="scripts/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Scripts
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
     </li>
   
 
@@ -1282,91 +1214,83 @@
 <p>Companion materials for the Value Chain Analysis guest lecture at Columbia's School of International and Public Affairs. The course uses coffee as the primary case study to teach a general VCA methodology.</p>
 <p>Instructor: Carl Cervone</p>
 <hr />
-<h2 id="repository-structure">Repository Structure<a class="headerlink" href="#repository-structure" title="Permanent link">&para;</a></h2>
-<div class="highlight"><pre><span></span><code>sipa/
-├── lecture-notes/          Evergreen written companion to the slides
-├── skills/                 Six standalone VCA skill guides
-├── case-studies/           Country case studies (Vietnam, Rwanda, Colombia, Ethiopia)
-├── lectures/               Slide decks organized by year (2017-2025)
-├── data/
-│   ├── processed/          Analysis-ready CSVs
-│   ├── raw/                Original downloads
-│   └── exercises/          Student exercises (Ethiopia dataset, waterfall model)
-├── scripts/                Python scripts to regenerate data
-├── reading-list/
-│   ├── case-studies/       Source PDFs for the country cases
-│   ├── reference-guides/   USAID, WFP, and other methodology docs
-│   └── glossary/           Coffee industry terminology
-└── pyproject.toml          Python dependencies (use `uv sync` to install)
-</code></pre></div>
-<h2 id="written-materials">Written Materials<a class="headerlink" href="#written-materials" title="Permanent link">&para;</a></h2>
+<h2 id="start-here">Start Here<a class="headerlink" href="#start-here" title="Permanent link">&para;</a></h2>
+<p>New to the course? Read these in order:</p>
+<ol>
+<li><strong><a href="lecture-notes/coffee-value-chain/">The Coffee Value Chain: Cherry to Cup</a></strong> — Visual guide to every processing stage with photographs from producing countries</li>
+<li><strong><a href="lecture-notes/value-chain-analysis/">Value Chain Analysis: Lecture Notes</a></strong> — The analytical framework (Map / Breakdown / Benchmark), global market dynamics, and methodology</li>
+<li><strong>Pick a case study</strong> — <a href="case-studies/vietnam/">Vietnam</a>, <a href="case-studies/rwanda/">Rwanda</a>, or <a href="case-studies/honduras/">Honduras</a> to see the framework applied</li>
+</ol>
+<hr />
+<h2 id="course-materials">Course Materials<a class="headerlink" href="#course-materials" title="Permanent link">&para;</a></h2>
 <h3 id="lecture-notes"><a href="lecture-notes/">Lecture Notes</a><a class="headerlink" href="#lecture-notes" title="Permanent link">&para;</a></h3>
-<p>Evergreen reference document covering the stable, year-over-year foundations of the course: Coffee 101, global market dynamics, the VCA framework (Map / Breakdown / Benchmark), fieldwork advice, and open questions.</p>
 <ul>
-<li><a href="lecture-notes/coffee-value-chain/">The Coffee Value Chain: Cherry to Cup</a> — Visual guide to every processing stage with photographs</li>
+<li><a href="lecture-notes/coffee-value-chain/">The Coffee Value Chain: Cherry to Cup</a> — Visual guide to every processing stage</li>
+<li><a href="lecture-notes/ethiopian-cherry-to-nyc-cup/">From Ethiopian Cherry to NYC Cup</a> — Worked example: how $5.71 becomes $288</li>
 <li><a href="lecture-notes/value-chain-analysis/">Value Chain Analysis</a> — Framework, market dynamics, methodology</li>
 </ul>
 <h3 id="skills-guides"><a href="skills/">Skills Guides</a><a class="headerlink" href="#skills-guides" title="Permanent link">&para;</a></h3>
-<p>Six standalone guides, each teaching one discrete VCA skill. Read in order or reference individually.</p>
+<p>Six standalone guides, each teaching one discrete VCA skill.</p>
 <ol>
-<li><a href="skills/01-mapping-a-value-chain/">Mapping a Value Chain</a> — Actors, roles, relationships, parallel channels</li>
-<li><a href="skills/02-breaking-down-value-flows/">Breaking Down Value Flows</a> — Costs, revenues, margins, waterfall charts</li>
-<li><a href="skills/03-unit-conversion-and-price-analysis/">Unit Conversion and Price Analysis</a> — Local units to international standards</li>
-<li><a href="skills/04-benchmarking/">Benchmarking</a> — Cross-country and cross-time comparison</li>
-<li><a href="skills/05-prioritizing-recommendations/">Prioritizing Recommendations</a> — Impact-feasibility matrix</li>
-<li><a href="skills/06-conducting-a-value-chain-deep-dive/">Conducting a Value Chain Deep Dive</a> — Full methodology + coffee appendix</li>
+<li><a href="skills/01-mapping-a-value-chain/">Mapping a Value Chain</a></li>
+<li><a href="skills/02-breaking-down-value-flows/">Breaking Down Value Flows</a></li>
+<li><a href="skills/03-unit-conversion-and-price-analysis/">Unit Conversion and Price Analysis</a></li>
+<li><a href="skills/04-benchmarking/">Benchmarking</a></li>
+<li><a href="skills/05-prioritizing-recommendations/">Prioritizing Recommendations</a></li>
+<li><a href="skills/06-conducting-a-value-chain-deep-dive/">Conducting a Value Chain Deep Dive</a></li>
 </ol>
 <h3 id="case-studies"><a href="case-studies/">Case Studies</a><a class="headerlink" href="#case-studies" title="Permanent link">&para;</a></h3>
-<p>Hybrid write-ups: narrative story followed by analytical Map / Breakdown / Benchmark framework.</p>
-<p><strong>Current</strong> (2024-2025 lectures):
-- <a href="case-studies/vietnam/">Vietnam</a> — Engineered growth: 95% farmer share, highest yields, environmental cost
-- <a href="case-studies/rwanda/">Rwanda</a> — Premium positioning on tiny farms: quality strategy vs living income gap
-- <a href="case-studies/honduras/">Honduras</a> — Central America's quiet giant: resilience under compounding climate shocks</p>
-<p><strong>Archival</strong> (earlier lecture years):
-- <a href="case-studies/colombia/">Colombia</a> — Strong institutions, eroding margins: the FNC model under pressure
-- <a href="case-studies/ethiopia/">Ethiopia</a> — Traceability lost and found: the ECX experiment</p>
-<h2 id="slides"><a href="lectures/">Slides</a><a class="headerlink" href="#slides" title="Permanent link">&para;</a></h2>
-<p>Lecture slide decks organized by year. The course has been taught annually since 2017, evolving from a two-day format to a single combined deck.</p>
 <table>
 <thead>
 <tr>
-<th>Year</th>
-<th>Format</th>
-<th>Notes</th>
+<th>Country</th>
+<th>Focus</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>2025</td>
-<td>Single deck + data workbook</td>
+<td><a href="case-studies/vietnam/">Vietnam</a></td>
+<td>Engineered growth: 95% farmer share, highest yields, environmental cost</td>
 <td>Current</td>
 </tr>
 <tr>
-<td>2024</td>
-<td>Single deck + data workbook</td>
-<td></td>
+<td><a href="case-studies/rwanda/">Rwanda</a></td>
+<td>Premium positioning on tiny farms: quality strategy vs living income gap</td>
+<td>Current</td>
 </tr>
 <tr>
-<td>2017-2023</td>
-<td>Day 1 + Day 2</td>
-<td>See <a href="lectures/">lectures/</a> for details</td>
+<td><a href="case-studies/honduras/">Honduras</a></td>
+<td>Central America's quiet giant: resilience under compounding climate shocks</td>
+<td>Current</td>
+</tr>
+<tr>
+<td><a href="case-studies/colombia/">Colombia</a></td>
+<td>Strong institutions, eroding margins: the FNC model under pressure</td>
+<td>Archival</td>
+</tr>
+<tr>
+<td><a href="case-studies/ethiopia/">Ethiopia</a></td>
+<td>Traceability lost and found: the ECX experiment</td>
+<td>Archival</td>
 </tr>
 </tbody>
 </table>
-<h2 id="data"><a href="data/">Data</a><a class="headerlink" href="#data" title="Permanent link">&para;</a></h2>
-<p>13 analysis-ready CSVs covering production, prices, trade, exchange rates, and development indicators. See <a href="data/"><code>data/README.md</code></a> for full schema documentation.</p>
-<p>Highlights:
-- <strong>USDA production</strong> — 17 countries, 1960-2025, Arabica/Robusta split
-- <strong>Coffee prices</strong> — Monthly (1992-present) and daily futures (2000-present)
-- <strong>Trade data</strong> — 12 countries' annual exports from UN COMTRADE
-- <strong>Country lookup</strong> — Master table for joining across data sources</p>
-<p>Regenerate with:
+<h3 id="slides"><a href="lectures/">Slides</a><a class="headerlink" href="#slides" title="Permanent link">&para;</a></h3>
+<p>Lecture slide decks by year (2017-2025), available as downloadable PDFs.</p>
+<h3 id="data"><a href="data/">Data</a><a class="headerlink" href="#data" title="Permanent link">&para;</a></h3>
+<p>Downloadable datasets: USDA production, coffee prices, exports, exchange rates, and development indicators for major producing countries.</p>
+<h3 id="reading-list"><a href="reading-list/">Reading List</a><a class="headerlink" href="#reading-list" title="Permanent link">&para;</a></h3>
+<p>Background readings: case study source documents, USAID/WFP methodology guides, and a coffee glossary.</p>
+<h3 id="photos"><a href="photos/">Photos</a><a class="headerlink" href="#photos" title="Permanent link">&para;</a></h3>
+<p>Photographs, charts, and diagrams extracted from the lecture slides.</p>
+<hr />
+<h2 id="for-developers">For Developers<a class="headerlink" href="#for-developers" title="Permanent link">&para;</a></h2>
+<p>The data in this project can be regenerated from public sources. See <a href="https://github.com/ccerv1/value-chain-analysis/tree/main/scripts"><code>scripts/</code></a> for the Python scripts and setup instructions.</p>
 <div class="highlight"><pre><span></span><code>uv<span class="w"> </span>sync
 uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/fetch_usda_coffee.py
 uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </span>scripts/fetch_market_data.py
-</code></pre></div></p>
-<h2 id="reading-list"><a href="reading-list/">Reading List</a><a class="headerlink" href="#reading-list" title="Permanent link">&para;</a></h2>
-<p>Background readings organized by type: case study source documents, USAID/WFP methodology guides, and a coffee glossary.</p>
+</code></pre></div>
 
 
 
