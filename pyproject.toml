@@ -4,10 +4,13 @@ version = "0.1.0"
 description = "SIPA Value Chain Analysis — course materials and data scripts"
 requires-python = ">=3.12"
 dependencies = [
+    "kaleido>=1.2.0",
+    "matplotlib>=3.10.8",
     "mkdocs>=1.6.1",
     "mkdocs-material>=9.7.6",
     "pandas>=2.0",
     "pillow>=12.1.1",
+    "plotly>=6.6.0",
     "pypdf>=6.9.2",
     "python-pptx>=1.0.2",
     "requests>=2.28",

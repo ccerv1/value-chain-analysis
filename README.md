@@ -55,6 +55,7 @@ Hybrid write-ups: narrative story followed by analytical Map / Breakdown / Bench
 **Current** (2024-2025 lectures):
 - [Vietnam](case-studies/vietnam.md) — Engineered growth: 95% farmer share, highest yields, environmental cost
 - [Rwanda](case-studies/rwanda.md) — Premium positioning on tiny farms: quality strategy vs living income gap
+- [Honduras](case-studies/honduras.md) — Central America's quiet giant: resilience under compounding climate shocks
 
 **Archival** (earlier lecture years):
 - [Colombia](case-studies/colombia.md) — Strong institutions, eroding margins: the FNC model under pressure

@@ -10,6 +10,8 @@ These match the 2024-2025 lecture content and use current market data.
 
 - **[Rwanda](rwanda.md)** — Premium positioning on tiny farms. Rwanda chose quality over volume, building a network of coffee washing stations to produce specialty Arabica. Farmers earn ~54% of the export price, but on 0.1-hectare farms that produce ~$160/year in coffee income against a $2,500 living income requirement. The case is about the limits of value chain interventions when farm size is the binding constraint.
 
+- **[Honduras](honduras.md)** — Central America's quiet giant. Honduras is the largest Central American coffee producer and the sixth-largest globally, but has no global brand recognition. Production quadrupled from 1990 to 2017, then crashed after Hurricanes Eta and Iota. The case is about resilience — how a smallholder-dominated, export-dependent sector weathers compounding climate shocks. Generated from the course data pack with charts.
+
 ## Archival Cases
 
 From earlier lecture years (2017-2023). The market data may be outdated, but the analytical frameworks and discussion questions remain valuable for teaching.
