@@ -1311,7 +1311,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 <p>Analysis-ready CSVs. These are the files you should use.</p>
 <h3 id="usda-production-supply-demand">USDA Production &amp; Supply-Demand<a class="headerlink" href="#usda-production-supply-demand" title="Permanent link">&para;</a></h3>
 <p>Source: <a href="https://apps.fas.usda.gov/psdonline/">USDA PSD</a> bulk CSV download. No API key needed. Values are in 60-kg bags (the standard unit for coffee trade statistics).</p>
-<p><strong><code>usda_production_by_country.csv</code></strong> — Annual coffee production with Arabica/Robusta split</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/usda_production_by_country.csv"><code>usda_production_by_country.csv</code></a></strong> — Annual coffee production with Arabica/Robusta split</p>
 <table>
 <thead>
 <tr>
@@ -1364,7 +1364,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 </tbody>
 </table>
 <p>Coverage: 17 countries, 1960-2025 (1,122 rows). Use this for production trends, Arabica/Robusta shares, and country comparisons.</p>
-<p><strong><code>usda_supply_demand.csv</code></strong> — Full supply-demand balance</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/usda_supply_demand.csv"><code>usda_supply_demand.csv</code></a></strong> — Full supply-demand balance</p>
 <table>
 <thead>
 <tr>
@@ -1479,7 +1479,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 <p>Coverage: 17 countries, 1960-2025 (1,122 rows). All values in 60-kg bags. Use this for consumption analysis, trade balances, and stock-to-use ratios.</p>
 <hr />
 <h3 id="market-prices">Market Prices<a class="headerlink" href="#market-prices" title="Permanent link">&para;</a></h3>
-<p><strong><code>coffee_prices_monthly.csv</code></strong> — Monthly Arabica and Robusta prices</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_prices_monthly.csv"><code>coffee_prices_monthly.csv</code></a></strong> — Monthly Arabica and Robusta prices</p>
 <p>Source: <a href="https://fred.stlouisfed.org/">FRED</a> (IMF/World Bank commodity price series)</p>
 <table>
 <thead>
@@ -1528,7 +1528,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 </tbody>
 </table>
 <p>Coverage: 1992-2026 (410 rows). These are monthly averages of ICO indicator prices, not futures prices. Good for long-run trend analysis and the coffee crisis narrative.</p>
-<p><strong><code>arabica_futures_daily.csv</code></strong> — Daily ICE "C" Arabica futures</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/arabica_futures_daily.csv"><code>arabica_futures_daily.csv</code></a></strong> — Daily ICE "C" Arabica futures</p>
 <p>Source: <a href="https://finance.yahoo.com/">Yahoo Finance</a> via <code>yfinance</code> (ticker <code>KC=F</code>)</p>
 <table>
 <thead>
@@ -1579,7 +1579,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 <p>Coverage: 2000-2026 (6,577 rows). Daily front-month futures. Use for price volatility analysis and the $4/kilo framing. Volume is 0 on some days (holidays, data gaps).</p>
 <hr />
 <h3 id="trade-data">Trade Data<a class="headerlink" href="#trade-data" title="Permanent link">&para;</a></h3>
-<p><strong><code>coffee_exports_by_country.csv</code></strong> — Annual coffee exports by producing country</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_exports_by_country.csv"><code>coffee_exports_by_country.csv</code></a></strong> — Annual coffee exports by producing country</p>
 <p>Source: <a href="https://comtradeapi.un.org/">UN COMTRADE</a> public preview API (HS code 0901, exports to World)</p>
 <table>
 <thead>
@@ -1628,7 +1628,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 - Ethiopia 2020 and Indonesia 2017 have null volumes (weight data missing from source)</p>
 <hr />
 <h3 id="exchange-rates">Exchange Rates<a class="headerlink" href="#exchange-rates" title="Permanent link">&para;</a></h3>
-<p><strong><code>exchange_rates_annual.csv</code></strong> — Annual official exchange rates</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/exchange_rates_annual.csv"><code>exchange_rates_annual.csv</code></a></strong> — Annual official exchange rates</p>
 <p>Source: <a href="https://api.worldbank.org/">World Bank</a> indicator <code>PA.NUS.FCRF</code></p>
 <table>
 <thead>
@@ -1662,7 +1662,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 </tbody>
 </table>
 <p>Coverage: 11 countries, 1990-2024 (385 rows). Use for converting farmer prices from local currency to USD (the unit conversion skill). Some early years may be null for countries that didn't report.</p>
-<p><strong><code>brl_usd_daily.csv</code></strong> — Daily BRL/USD exchange rate</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/brl_usd_daily.csv"><code>brl_usd_daily.csv</code></a></strong> — Daily BRL/USD exchange rate</p>
 <p>Source: <a href="https://fred.stlouisfed.org/">FRED</a> series <code>DEXBZUS</code></p>
 <table>
 <thead>
@@ -1688,7 +1688,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 <p>Coverage: 1995-2026 (7,828 rows). Weekends and holidays are excluded. Useful for Brazil-specific analysis where annual averages are too coarse.</p>
 <hr />
 <h3 id="development-indicators">Development Indicators<a class="headerlink" href="#development-indicators" title="Permanent link">&para;</a></h3>
-<p><strong><code>development_indicators.csv</code></strong> — Country-level context data</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/development_indicators.csv"><code>development_indicators.csv</code></a></strong> — Country-level context data</p>
 <p>Source: <a href="https://api.worldbank.org/">World Bank</a></p>
 <table>
 <thead>
@@ -1745,7 +1745,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 <hr />
 <h3 id="reference-data">Reference Data<a class="headerlink" href="#reference-data" title="Permanent link">&para;</a></h3>
 <p>Small hand-curated datasets from lecture content. These capture the key numbers used in slides and case studies.</p>
-<p><strong><code>coffee_yields_benchmark.csv</code></strong> — The benchmark yield chart from the slides</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_yields_benchmark.csv"><code>coffee_yields_benchmark.csv</code></a></strong> — The benchmark yield chart from the slides</p>
 <table>
 <thead>
 <tr>
@@ -1783,7 +1783,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 </tbody>
 </table>
 <p>10 rows. Use for the benchmark comparison chart. Note: the USDA PSD bulk download does not include area harvested, so these yield figures come from USDA attaché reports and TechnoServe analysis as cited in the slides.</p>
-<p><strong><code>supply_chain_breakdowns.csv</code></strong> — Vietnam and Rwanda waterfall numbers</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/supply_chain_breakdowns.csv"><code>supply_chain_breakdowns.csv</code></a></strong> — Vietnam and Rwanda waterfall numbers</p>
 <table>
 <thead>
 <tr>
@@ -1836,7 +1836,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 </tbody>
 </table>
 <p>2 rows. The core data for the waterfall chart comparison between an efficient chain (Vietnam, 95%) and a processing-intensive chain (Rwanda, 54%).</p>
-<p><strong><code>coffee_country_profiles.csv</code></strong> — Key stats per country</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_country_profiles.csv"><code>coffee_country_profiles.csv</code></a></strong> — Key stats per country</p>
 <table>
 <thead>
 <tr>
@@ -1889,7 +1889,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 </tbody>
 </table>
 <p>5 rows (the countries covered in the case studies). A quick reference for the numbers that anchor each case study.</p>
-<p><strong><code>coffee_conversion_factors.csv</code></strong> — Standard conversion factors for coffee</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/coffee_conversion_factors.csv"><code>coffee_conversion_factors.csv</code></a></strong> — Standard conversion factors for coffee</p>
 <table>
 <thead>
 <tr>
@@ -1929,7 +1929,7 @@ uv<span class="w"> </span>run<span class="w"> </span>python<span class="w"> </sp
 <p>6 rows. Reference for unit conversion exercises (Skill 3).</p>
 <hr />
 <h3 id="country-lookup-table">Country Lookup Table<a class="headerlink" href="#country-lookup-table" title="Permanent link">&para;</a></h3>
-<p><strong><code>country_lookup.csv</code></strong> — Master lookup for joining data across sources</p>
+<p><strong><a href="https://github.com/ccerv1/value-chain-analysis/raw/main/data/processed/country_lookup.csv"><code>country_lookup.csv</code></a></strong> — Master lookup for joining data across sources</p>
 <table>
 <thead>
 <tr>
