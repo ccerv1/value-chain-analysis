@@ -92,8 +92,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.arithmatex:
-      generic: true
+  # arithmatex disabled — inline $X.XX currency amounts conflict with MathJax delimiters
+  # Math blocks in ethiopian-cherry-to-nyc-cup.md converted to plain text tables instead
   - attr_list
   - md_in_html
   - toc:

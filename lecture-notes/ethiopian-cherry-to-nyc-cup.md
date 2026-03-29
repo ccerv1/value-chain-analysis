@@ -24,9 +24,7 @@ In the 2025/26 Ethiopian harvest season, cherry prices at the collector/ECX leve
 
 The farmer does not receive the full collector price. Collectors add transport, aggregation, and their own margin. A reasonable estimate is that the farmer receives roughly **80% of the collector price**:
 
-$$
-145 \text{ ETB/kg} \times 0.80 = \textbf{116 ETB/kg cherry}
-$$
+> 145 ETB/kg x 0.80 = **116 ETB/kg cherry**
 
 | Variable | Value | Source |
 |----------|-------|--------|
@@ -38,9 +36,7 @@ $$
 
 Ethiopia floated the birr in July 2024. The exchange rate moved from ~55 ETB/USD to over 120 ETB/USD within months.
 
-$$
-116 \text{ ETB/kg} \div 127 \text{ ETB/USD} = \textbf{\$0.91/kg cherry}
-$$
+> 116 ETB/kg ÷ 127 ETB/USD = **$0.91/kg cherry**
 
 | Variable | Value | Source |
 |----------|-------|--------|
@@ -53,9 +49,7 @@ The farmer sells cherry, but international coffee is traded as green (the proces
 
 For Ethiopian Arabica, the ratio is approximately **6.25:1** — it takes 6.25 kg of cherry to produce 1 kg of green coffee. This ratio is driven by species, varietal, and agro-climatic conditions (including altitude), not by the processing method.
 
-$$
-\$0.91\text{/kg cherry} \times 6.25 = \textbf{\$5.71/kg green equivalent}
-$$
+> $0.91/kg cherry x 6.25 = **$5.71/kg green equivalent**
 
 | Variable | Value | Source |
 |----------|-------|--------|
@@ -72,9 +66,7 @@ Ethiopian washed Arabica is a premium origin. The FOB (Free On Board) export pri
 
 In early 2026, with the ICE "C" above 300 cents/lb ($6.61/kg) and Ethiopian washed commanding a positive differential, the FOB price is approximately **$8.00/kg green**.
 
-$$
-\text{Farmer share} = \frac{\$5.71}{\$8.00} = \textbf{71\%}
-$$
+> Farmer share = $5.71 / $8.00 = **71%**
 
 | Variable | Value | Source |
 |----------|-------|--------|
@@ -93,9 +85,7 @@ The green coffee travels from Addis Ababa to a roaster in the US through several
 
 ### Shipping and import
 
-$$
-\$8.00 + \$1.00 = \$9.00\text{/kg landed cost}
-$$
+> $8.00 + $1.00 = **$9.00/kg landed cost**
 
 The $1.00 covers ocean freight, insurance, import duties, and handling. This is approximate — actual costs vary by contract terms and volume.
 
@@ -103,15 +93,11 @@ The $1.00 covers ocean freight, insurance, import duties, and handling. This is 
 
 Roasting causes a ~16% weight loss (moisture evaporates). The raw material cost per kilogram of roasted coffee is:
 
-$$
-\$9.00 \div 0.84 = \$10.71\text{/kg roasted (raw material only)}
-$$
+> $9.00 ÷ 0.84 = **$10.71/kg roasted** (raw material only)
 
 Add roasting labor, energy, equipment depreciation, packaging, and overhead — roughly $4/kg for a specialty roaster:
 
-$$
-\$10.71 + \$4.00 = \textbf{\$14.71/kg roasted}
-$$
+> $10.71 + $4.00 = **$14.71/kg roasted**
 
 For reference, Sey Coffee in Brooklyn sells 250g bags at $25 ($100/kg retail). Blue Bottle sells at similar prices. The roaster's margin on bags is substantial — but bags are not where most coffee is consumed.
 
@@ -121,9 +107,7 @@ A cafe buys roasted coffee at wholesale (roughly $40-60/kg from a specialty roas
 
 The cafe's cost of the coffee itself is small relative to its other costs:
 
-$$
-\frac{\$14.71}{50 \text{ cups}} = \$0.29\text{/cup in coffee cost}
-$$
+> $14.71 ÷ 50 cups = **$0.29/cup in coffee cost**
 
 The other $5.46 of a $5.75 pour-over pays for the barista, the rent, the equipment, the cups, the water, the electricity, the insurance, and the profit. In Manhattan and Brooklyn, rent and labor alone dominate.
 
