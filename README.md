@@ -1,5 +1,7 @@
 # SIPA Value Chain Analysis — Course Materials
 
+![Coffee cherries on the branch](photos/coffee-cherries-on-branch.png)
+
 Companion materials for the Value Chain Analysis guest lecture at Columbia's School of International and Public Affairs. The course uses coffee as the primary case study to teach a general VCA methodology.
 
 Instructor: Carl Cervone

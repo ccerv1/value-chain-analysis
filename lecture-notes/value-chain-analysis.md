@@ -3,6 +3,8 @@
 SIPA — Columbia University
 Instructor: Carl Cervone
 
+![Hands holding ripe coffee cherries](../photos/hands-holding-coffee-cherries.jpg)
+
 ---
 
 ## Table of Contents
@@ -23,6 +25,8 @@ Coffee is a fruit. It grows on trees in the tropics, roughly between the Tropics
 The transformation from cherry to cup involves a series of distinct stages, each with different actors, different economics, and different risks.
 
 ### The Processing Chain
+
+![Cross-section of a coffee cherry](../photos/diagram-coffee-cherry-anatomy.png)
 
 **Cherry.** Coffee starts as a fruit on a tree. There are approximately 12.5 million coffee farms globally (per Enveritas estimates), and over 95% of them are smallholders — farms smaller than about 5 hectares. Many are far smaller, under half a hectare. Some very large industrial farms exist, particularly in Brazil, but they are the exception. On small farms, cherries are harvested by hand, typically during a harvest season lasting a few weeks to a few months. The critical fact about cherry is that it must be processed quickly after picking — within hours, not days — or it begins to ferment and degrade.
 
@@ -63,6 +67,8 @@ This course focuses on the first three stages: cherry, parchment, and green. Far
 
 ### The $4/Kilo to $4/Cup Problem
 
+![Waterfall chart: export price to farmer income](../photos/chart-waterfall-export-to-farmer.png)
+
 Here is the framing that anchors this entire course. At historically typical prices, a coffee farmer in a producing country sells a kilogram of coffee for roughly $3-5. A consumer in New York, London, or Tokyo pays $4-6 for a single cup. A kilogram of green coffee produces roughly 50 cups. So the farmer gets $4 for what eventually becomes $200+ worth of coffee at the retail level. (Note: coffee prices have been at historic highs since late 2024, with Arabica exceeding $8/kg — but the structural gap between farm-gate and retail remains.)
 
 The value chain in between explains where the difference goes. Some of it is legitimate value addition — roasting, packaging, transport, retail labor, rent. Some of it reflects market power and information asymmetry. Understanding which is which, and what can be changed, is the core analytical challenge of VCA.
@@ -74,6 +80,8 @@ Global coffee consumption has grown steadily for decades, driven by rising incom
 Production, by contrast, is volatile. Coffee trees are perennial crops with a 2-3 year lag between planting and first harvest. Weather events — frost in Brazil, drought in Vietnam, excessive rain in Central America — can wipe out significant portions of a harvest. Coffee leaf rust (la roya), a fungal disease, devastated Central American production in 2012-2013. Policy changes — export taxes, currency devaluations, land reform — add another layer of unpredictability.
 
 ### The Coffee Crisis
+
+![ICE C Arabica futures price 1980-2025](../photos/chart-coffee-futures-1980-2025.png)
 
 In the early 2000s, a production surplus caused by aggressive expansion in Brazil and Vietnam drove global coffee prices to historic lows. This period, roughly 2001-2003, is known as the "coffee crisis." ICE Arabica futures dipped below $0.50 per pound — spending nearly 200 trading days below that threshold — well below the cost of production for most origins.
 
@@ -95,6 +103,8 @@ Big commodity producers — Brazil, Vietnam, Indonesia — tend to receive lower
 ---
 
 ## 3. The VCA Framework
+
+![Global coffee export price curve](../photos/chart-export-price-curve-2020.png)
 
 Value chain analysis follows three steps that build on each other: Map, Breakdown, and Benchmark. Each step generates a specific output and raises specific questions. You cannot do a credible breakdown without first having a map, and you cannot benchmark meaningfully without understanding the breakdown.
 

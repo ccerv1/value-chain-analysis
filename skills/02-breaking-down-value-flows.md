@@ -1,5 +1,7 @@
 # Skill 2: Breaking Down Value Flows
 
+![Waterfall chart: export price to farmer income](../photos/chart-waterfall-export-to-farmer.png)
+
 ## What It Is
 Tracing how money moves through the value chain — who pays whom, how much, and what costs each actor bears. The breakdown reveals where value accumulates, where margins are thin, and where the economics create winners and losers.
 

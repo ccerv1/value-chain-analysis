@@ -1,5 +1,7 @@
 # Skill 1: Mapping a Value Chain
 
+![Vietnam coffee value chain diagram](../photos/diagram-vietnam-value-chain.png)
+
 ## What It Is
 
 Value chain mapping is the process of identifying all actors at each stage of a product's journey from raw input to final consumer, understanding what each actor does, and tracing how they relate to one another. For a bag of coffee on a grocery shelf, that means following the product backward through the retailer, the roaster, the importer, the exporter, the miller, the processor, the farmer, and the input supplier — and then mapping forward again with clarity about who does what, who transacts with whom, and what the chain looks like structurally. The map is not the analysis; it is the foundation on which all subsequent analysis rests.

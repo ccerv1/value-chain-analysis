@@ -2,6 +2,8 @@
 
 # Colombia: Strong Institutions, Eroding Margins
 
+![Colombian farmer harvesting coffee on a mountainside](../photos/colombia-farmer-harvesting.jpg)
+
 ## The Story
 
 Colombia is one of the most recognized coffee origins in the world. The "Juan Valdez" brand, managed by the Federación Nacional de Cafeteros (FNC), is globally recognized. Colombian Supremo is a benchmark quality grade. The country supplies roughly 10% of global coffee volume, almost all Arabica, and commands premium prices in international markets.
@@ -19,6 +21,8 @@ This is what makes Colombia analytically interesting — not just as a coffee pr
 ---
 
 ## Map
+
+![Map of Colombia's coffee-producing regions](../photos/colombia-coffee-regions-map.jpg)
 
 **Actors:**
 

@@ -1,5 +1,7 @@
 # Ethiopia: Traceability Lost and Found
 
+![Ethiopian farmer among coffee trees](../photos/ethiopian-farmer-coffee-trees.jpg)
+
 *Value Chain Analysis — Columbia SIPA | Instructor: Carl Cervone*
 
 > **Archival note:** This case study reflects data from the 2017-2020 SIPA lectures. Ethiopia's coffee sector has undergone significant changes since, including ECX reforms that have restored some traceability. Current conditions may differ materially from what is described here. The case remains valuable as a study of how market design choices affect value chain performance.

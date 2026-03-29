@@ -1,5 +1,7 @@
 # Skill 6: Conducting a Value Chain Deep Dive
 
+![Satellite view of hilly terrain with small farm plots](../photos/satellite-hilly-terrain-farm-plots.png)
+
 ## What It Is
 The complete methodology for conducting a value chain analysis from scratch — from scoping the engagement through fieldwork, analysis, and final recommendations. Skills 1-5 taught the individual analytical techniques. This skill puts them together into a coherent process. The methodology below applies to any agricultural commodity or sector. The Coffee Appendix at the end provides sector-specific data sources, conversion factors, and reference points.
 

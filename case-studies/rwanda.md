@@ -2,6 +2,8 @@
 
 *Value Chain Analysis — Columbia SIPA*
 
+![Rwandan woman among coffee trees on a hillside](../photos/rwanda-woman-coffee-hillside.jpg)
+
 ---
 
 ## The Story
@@ -37,6 +39,8 @@ That question has no clean answer. What follows is the analytical framework to s
 ---
 
 ## Map
+
+![Coffee cherries drying on raised beds overlooking a lake in Rwanda](../photos/rwanda-cherries-drying-lakeside.jpg)
 
 ### Actors
 
@@ -74,6 +78,8 @@ The structural shift from cooperative-led to exporter-led washing stations is re
 ---
 
 ## Breakdown
+
+![Waterfall chart: Rwanda farmer share of export price](../photos/chart-waterfall-rwanda.png)
 
 Rwandan farmers earn approximately 54% of the export price — near the low end globally, where most countries deliver more than 50% to the farmer. Here is the math.
 
@@ -134,6 +140,8 @@ This does not mean value chain improvements are irrelevant. Higher prices and be
 ---
 
 ## Benchmark
+
+![Rwanda coffee production 1980-2022](../photos/chart-rwanda-production-1980-2022.png)
 
 ### Yields
 

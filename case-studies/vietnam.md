@@ -2,6 +2,8 @@
 
 *Value Chain Analysis — Columbia SIPA | Instructor: Carl Cervone*
 
+![Woman in conical hat picking coffee cherries in Vietnam](../photos/vietnam-woman-picking-coffee.png)
+
 ---
 
 ## The Story
@@ -86,6 +88,8 @@ This is a useful analytical point. A high farmer share is not always the right g
 ---
 
 ## Benchmark
+
+![Vietnam coffee production growth 1962-2022](../photos/chart-vietnam-production-1962-2022.png)
 
 **Yields.** Vietnam has the highest coffee farm yields in the world.
 
