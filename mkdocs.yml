@@ -30,8 +30,7 @@ theme:
     - search.highlight
 
 nav:
-  - Home: README.md
-  - Why VCA?: lecture-notes/why-vca.md
+  - Home: index.md
   - Coffee 101: lecture-notes/coffee-value-chain.md
   - The VCA Framework:
     - Mapping: skills/01-mapping-a-value-chain.md
@@ -65,6 +64,7 @@ exclude_docs: |
   photos/README.md
   lecture-notes/README.md
   lecture-notes/ethiopian-cherry-to-nyc-cup.md
+  lecture-notes/why-vca.md
   *.toml
   *.lock
   .python-version

@@ -1,8 +1,20 @@
-# Why Do Value Chain Analysis?
+# Value Chain Analysis
+
+I have been teaching this guest lecture at Columbia SIPA for 10 years. This site is the written companion to the lecture. It covers how to trace the flow of value from farm to cup, diagnose where the problems are, and turn analysis into actionable recommendations.
+
+You can browse all the [past lecture slides](../lectures/README.md) (2017-2025). What follows is the current version, updated March 2026.
+
+### About me
+
+I came to coffee through development work. After studying environmental science and getting an MBA, I moved to Tanzania in 2004 to work in microfinance. In 2006, I joined [TechnoServe](https://www.technoserve.org/) and spent a decade working on coffee value chains across East Africa, Latin America, and Southeast Asia. In 2016, I cofounded [Enveritas](https://www.enveritas.org/), which uses satellite data and machine learning to map and verify sustainability across coffee supply chains. In 2023, I cofounded [Kariba Labs](https://www.kariba.network/), building open-source software for agricultural value chains. The examples and data in this course draw from that fieldwork.
+
+---
+
+## Why do value chain analysis?
 
 The first question everybody asks about coffee: *what share of the price the consumer pays actually goes back to the farmer?*
 
-I have been tracking this every year as part of the SIPA lecture. The answer depends on the country, the year, and how you do the math. But the structural finding is remarkably stable:
+I have been tracking this every year as part of the lecture. The answer depends on the country, the year, and how you do the math. But the structural finding is remarkably stable:
 
 | Year | Farm-gate price ($/kg green equiv.) | NYC specialty cup price | Farmer's share of retail |
 |------|-------------------------------------|------------------------|--------------------------|
@@ -19,7 +31,7 @@ Today you will learn not just how to answer questions like this yourself, but a 
 
 ---
 
-## This Year's Worked Example: Ethiopian Cherry to a Morningside Heights Cup
+## This year's worked example: Ethiopian cherry to a Morningside Heights cup
 
 An Ethiopian farmer picks coffee cherry from her trees and sells it at the local market. That cherry is processed, exported, roasted, and brewed into a pour-over at a specialty cafe near Columbia's campus. Here is the complete conversion, step by step.
 
@@ -91,12 +103,17 @@ The farmer's $5.67 becomes $287.50 at the register. The farmer captures **2%** o
 
 ## What you will learn today
 
-This worked example illustrates the core methodology: **convert, compare, contextualize**. The rest of the lecture teaches you to apply this systematically:
+This worked example illustrates the core methodology: **convert, compare, contextualize**. The rest of the course teaches you to apply this systematically:
 
 1. **[Coffee 101](coffee-value-chain.md)** -- Understand the product and the processing chain
-2. **The VCA Framework** -- Map the actors, break down the value flows, benchmark against peers, and turn insights into recommendations
-3. **Case studies** -- See the framework applied to Vietnam, Rwanda, Honduras, Colombia, and Ethiopia
-4. **Practical tips** -- How to do this in the field
+2. **The VCA Framework**
+    - [Map the actors](../skills/01-mapping-a-value-chain.md)
+    - [Break down the value flows](../skills/02-breaking-down-value-flows.md) and [convert units](../skills/03-unit-conversion-and-price-analysis.md)
+    - [Benchmark against peers](../skills/04-benchmarking.md)
+    - [Turn insights into recommendations](../skills/05-prioritizing-recommendations.md)
+3. **[Case studies](../case-studies/README.md)** -- Vietnam, Rwanda, Honduras, Colombia, Ethiopia
+4. **[Practical tips](practical-tips.md)** -- How to do this in the field
+5. **[Using AI](using-ai.md)** -- Prompt template for conducting your own VCA with an AI assistant
 
 The goal is not just to understand coffee. It is to learn a methodology you can apply to any agricultural commodity in any country.
 
