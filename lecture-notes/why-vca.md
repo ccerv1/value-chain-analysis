@@ -2,7 +2,7 @@
 
 I have been teaching this guest lecture at Columbia SIPA for 10 years. This site is the written companion to the lecture. It covers how to trace the flow of value from farm to cup, diagnose where the problems are, and turn analysis into actionable recommendations.
 
-You can browse all the [past lecture slides](../lectures/README.md) (2017-2025). What follows is the current version, updated March 2026.
+You can browse all the [past lecture slides](lectures/README.md) (2017-2025). What follows is the current version, updated March 2026.
 
 ### About me
 
@@ -107,11 +107,11 @@ This worked example illustrates the core methodology: **convert, compare, contex
 
 1. **[Coffee 101](coffee-value-chain.md)** -- Understand the product and the processing chain
 2. **The VCA Framework**
-    - [Map the actors](../skills/01-mapping-a-value-chain.md)
-    - [Break down the value flows](../skills/02-breaking-down-value-flows.md) and [convert units](../skills/03-unit-conversion-and-price-analysis.md)
-    - [Benchmark against peers](../skills/04-benchmarking.md)
-    - [Turn insights into recommendations](../skills/05-prioritizing-recommendations.md)
-3. **[Case studies](../case-studies/README.md)** -- Vietnam, Rwanda, Honduras, Colombia, Ethiopia
+    - [Map the actors](skills/01-mapping-a-value-chain.md)
+    - [Break down the value flows](skills/02-breaking-down-value-flows.md) and [convert units](skills/03-unit-conversion-and-price-analysis.md)
+    - [Benchmark against peers](skills/04-benchmarking.md)
+    - [Turn insights into recommendations](skills/05-prioritizing-recommendations.md)
+3. **[Case studies](case-studies/README.md)** -- Vietnam, Rwanda, Honduras, Colombia, Ethiopia
 4. **[Practical tips](practical-tips.md)** -- How to do this in the field
 5. **[Using AI](using-ai.md)** -- Prompt template for conducting your own VCA with an AI assistant
 
