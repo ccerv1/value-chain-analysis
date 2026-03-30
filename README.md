@@ -1,76 +1,54 @@
-# SIPA Value Chain Analysis — Course Materials
-
-![Coffee cherries on the branch](photos/coffee-cherries-on-branch.png)
-
-Companion materials for the Value Chain Analysis guest lecture at Columbia's School of International and Public Affairs. The course uses coffee as the primary case study to teach a general VCA methodology.
+# Value Chain Analysis
 
 **Browse the site: [ccerv1.github.io/value-chain-analysis](https://ccerv1.github.io/value-chain-analysis/)**
 
-Instructor: Carl Cervone
+Course materials for a guest lecture on Value Chain Analysis at Columbia SIPA. Uses coffee as the primary case study to teach a general methodology for understanding how agricultural commodities move from farm to export, who captures value along the way, and what can be done about it.
 
 ---
 
 ## Start Here
 
-New to the course? Read these in order:
+Read these in order before the lecture:
 
-1. **[The Coffee Value Chain: Cherry to Cup](lecture-notes/coffee-value-chain.md)** — Visual guide to every processing stage with photographs from producing countries
-2. **[From Ethiopian Cherry to NYC Cup](lecture-notes/ethiopian-cherry-to-nyc-cup.md)** — Worked example tracing one kilogram from farm gate to Brooklyn pour-over, with full math
-3. **[Value Chain Analysis: Lecture Notes](lecture-notes/value-chain-analysis.md)** — The analytical framework (Map / Breakdown / Benchmark), global market dynamics, and methodology
-4. **Pick a case study** — [Vietnam](case-studies/vietnam.md), [Rwanda](case-studies/rwanda.md), or [Honduras](case-studies/honduras.md) to see the framework applied
-
----
-
-## Course Materials
-
-### [Lecture Notes](lecture-notes/README.md)
-
-- [The Coffee Value Chain: Cherry to Cup](lecture-notes/coffee-value-chain.md) — Visual guide to every processing stage
-- [From Ethiopian Cherry to NYC Cup](lecture-notes/ethiopian-cherry-to-nyc-cup.md) — Worked example: how $5.71 becomes $288
-- [Value Chain Analysis](lecture-notes/value-chain-analysis.md) — Framework, market dynamics, methodology
-
-### [Skills Guides](skills/README.md)
-
-Six standalone guides, each teaching one discrete VCA skill.
-
-1. [Mapping a Value Chain](skills/01-mapping-a-value-chain.md)
-2. [Breaking Down Value Flows](skills/02-breaking-down-value-flows.md)
-3. [Unit Conversion and Price Analysis](skills/03-unit-conversion-and-price-analysis.md)
-4. [Benchmarking](skills/04-benchmarking.md)
-5. [Prioritizing Recommendations](skills/05-prioritizing-recommendations.md)
-6. [Conducting a Value Chain Deep Dive](skills/06-conducting-a-value-chain-deep-dive.md)
-
-### [Case Studies](case-studies/README.md)
-
-| Country | Focus | Status |
-|---------|-------|--------|
-| [Vietnam](case-studies/vietnam.md) | Engineered growth: 95% farmer share, highest yields, environmental cost | Current |
-| [Rwanda](case-studies/rwanda.md) | Premium positioning on tiny farms: quality strategy vs living income gap | Current |
-| [Honduras](case-studies/honduras.md) | Central America's quiet giant: resilience under compounding climate shocks | Current |
-| [Colombia](case-studies/colombia.md) | Strong institutions, eroding margins: the FNC model under pressure | Archival |
-| [Ethiopia](case-studies/ethiopia.md) | Traceability lost and found: the ECX experiment | Archival |
-
-### [Slides](lectures/README.md)
-
-Lecture slide decks by year (2017-2025), available as downloadable PDFs.
-
-### [Data](data/README.md)
-
-Downloadable datasets: USDA production, coffee prices, exports, exchange rates, and development indicators for major producing countries.
-
-### [Reading List](reading-list/README.md)
-
-Background readings: case study source documents, USAID/WFP methodology guides, and a coffee glossary.
-
-### [Photos](photos/README.md)
-
-Photographs, charts, and diagrams extracted from the lecture slides.
+1. **[Coffee: Cherry to Cup](lecture-notes/coffee-value-chain.md)** -- How coffee goes from a fruit on a tree to a cup in your hand, in nine stages
+2. **[From Ethiopian Cherry to NYC Cup](lecture-notes/ethiopian-cherry-to-nyc-cup.md)** -- Worked example tracing one kilogram from an Ethiopian farm to a Morningside Heights pour-over
+3. **[The VCA Framework](lecture-notes/value-chain-analysis.md)** -- Map, Breakdown, Benchmark: the three-step methodology
+4. **Pick a case study** -- [Vietnam](case-studies/vietnam.md) (efficiency), [Rwanda](case-studies/rwanda.md) (quality), or [Honduras](case-studies/honduras.md) (resilience)
 
 ---
+
+## Case Studies
+
+| Country | Central Question |
+|---------|-----------------|
+| [Vietnam](case-studies/vietnam.md) | How did policy engineering create the world's most efficient coffee supply chain, and at what environmental cost? |
+| [Rwanda](case-studies/rwanda.md) | Can premium quality positioning close the living income gap on 0.1-hectare farms? |
+| [Honduras](case-studies/honduras.md) | How does a smallholder export economy survive compounding climate shocks? |
+| [Colombia](case-studies/colombia.md) | When does institutional strength become institutional cost? |
+| [Ethiopia](case-studies/ethiopia.md) | What is the economic value of traceability? |
+
+## Skills Guides
+
+For building your own VCA. Each guide teaches one step of the framework.
+
+| Skill | Framework Step |
+|-------|---------------|
+| [1. Mapping](skills/01-mapping-a-value-chain.md) | Map |
+| [2. Value Flows](skills/02-breaking-down-value-flows.md) | Breakdown |
+| [3. Unit Conversion](skills/03-unit-conversion-and-price-analysis.md) | Breakdown |
+| [4. Benchmarking](skills/04-benchmarking.md) | Benchmark |
+| [5. Recommendations](skills/05-prioritizing-recommendations.md) | Action |
+| [6. Deep Dive](skills/06-conducting-a-value-chain-deep-dive.md) | Full methodology |
+
+## Reference
+
+- [Reading List](reading-list/README.md) -- Background PDFs: case study sources, USAID/WFP guides, glossary
+- [Slides by Year](lectures/README.md) -- Lecture decks from 2017-2025 as downloadable PDFs
+- [Using AI](lecture-notes/using-ai.md) -- Prompt template for conducting your own VCA with an AI assistant
 
 ## For Developers
 
-The data in this project can be regenerated from public sources. See [`scripts/`](https://github.com/ccerv1/value-chain-analysis/tree/main/scripts) for the Python scripts and setup instructions.
+Data scripts and schemas for extending the analysis: [`scripts/`](https://github.com/ccerv1/value-chain-analysis/tree/main/scripts)
 
 ```bash
 uv sync

@@ -1,6 +1,5 @@
 site_name: "Value Chain Analysis"
 site_description: "Course materials for Value Chain Analysis at Columbia SIPA"
-site_author: "Carl Cervone"
 site_url: "https://ccerv1.github.io/value-chain-analysis/"
 
 docs_dir: site
@@ -25,43 +24,38 @@ theme:
     text: Inter
     code: JetBrains Mono
   features:
-    - navigation.sections
-    - navigation.expand
     - navigation.top
     - toc.integrate
     - search.suggest
     - search.highlight
 
-# Student-facing navigation only
 nav:
   - Home: README.md
   - Lecture Notes:
-    - Overview: lecture-notes/README.md
-    - "The Coffee Value Chain: Cherry to Cup": lecture-notes/coffee-value-chain.md
-    - "From Ethiopian Cherry to NYC Cup": lecture-notes/ethiopian-cherry-to-nyc-cup.md
-    - Value Chain Analysis: lecture-notes/value-chain-analysis.md
-  - Skills Guides:
-    - Overview: skills/README.md
-    - "1. Mapping a Value Chain": skills/01-mapping-a-value-chain.md
-    - "2. Breaking Down Value Flows": skills/02-breaking-down-value-flows.md
-    - "3. Unit Conversion & Price Analysis": skills/03-unit-conversion-and-price-analysis.md
-    - "4. Benchmarking": skills/04-benchmarking.md
-    - "5. Prioritizing Recommendations": skills/05-prioritizing-recommendations.md
-    - "6. Conducting a Deep Dive": skills/06-conducting-a-value-chain-deep-dive.md
+    - "Coffee: Cherry to Cup": lecture-notes/coffee-value-chain.md
+    - "Ethiopian Cherry to NYC Cup": lecture-notes/ethiopian-cherry-to-nyc-cup.md
+    - "The VCA Framework": lecture-notes/value-chain-analysis.md
   - Case Studies:
-    - Overview: case-studies/README.md
     - Vietnam: case-studies/vietnam.md
     - Rwanda: case-studies/rwanda.md
     - Honduras: case-studies/honduras.md
-    - Colombia (archival): case-studies/colombia.md
-    - Ethiopia (archival): case-studies/ethiopia.md
-  - Slides: lectures/README.md
-  - Data: data/README.md
-  - Reading List: reading-list/README.md
-  - Photos: photos/README.md
+    - Colombia: case-studies/colombia.md
+    - Ethiopia: case-studies/ethiopia.md
+  - Skills Guides:
+    - Overview: skills/README.md
+    - "1. Mapping": skills/01-mapping-a-value-chain.md
+    - "2. Value Flows": skills/02-breaking-down-value-flows.md
+    - "3. Unit Conversion": skills/03-unit-conversion-and-price-analysis.md
+    - "4. Benchmarking": skills/04-benchmarking.md
+    - "5. Recommendations": skills/05-prioritizing-recommendations.md
+    - "6. Deep Dive": skills/06-conducting-a-value-chain-deep-dive.md
+  - Reference:
+    - Reading List: reading-list/README.md
+    - Slides by Year: lectures/README.md
+    - Using AI: lecture-notes/using-ai.md
   - Developer:
     - Scripts: scripts/README.md
-    - Data Schemas: data/README.md
+    - Data & Schemas: data/README.md
 
 exclude_docs: |
   .venv/
@@ -77,6 +71,7 @@ exclude_docs: |
   reading-list/**/*.doc
   reading-list/**/*.docx
   reading-list/**/*.ppt
+  photos/README.md
   *.toml
   *.lock
   .python-version
@@ -88,8 +83,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
   - attr_list
   - md_in_html
   - toc:

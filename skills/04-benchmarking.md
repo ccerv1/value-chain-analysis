@@ -1,6 +1,5 @@
 # Skill 4: Benchmarking
 
-![Yield comparison across coffee-producing countries](../photos/chart-yield-comparison-all.png)
 
 ## What It Is
 Comparing a value chain's performance against relevant peers to identify strengths, weaknesses, and opportunities. Numbers in isolation mean nothing. A yield of 1.5 MT/ha sounds fine until you learn Vietnam achieves 3+ MT/ha. A farmer share of 54% sounds reasonable until you learn Vietnam's farmers capture 95%. Benchmarking provides the context that turns data into insight.

@@ -1,6 +1,6 @@
 # The Coffee Value Chain: From Cherry to Cup
 
-The transformation from cherry to cup involves a series of distinct stages, each with different actors, different economics, and different risks. This visual guide walks through each stage in sequence.
+The transformation from cherry to cup involves a series of distinct stages, each with different actors, economics, and risks. This visual guide walks through each stage in sequence.
 
 ---
 
@@ -28,11 +28,11 @@ On large mechanized farms in Brazil, **mechanical harvesters** strip all cherrie
 
 ![Hands cupped full of freshly picked red coffee cherries](../photos/hands-holding-coffee-cherries.jpg)
 
-The critical fact about cherry is that it must be processed quickly after picking — **within hours, not days** — or it begins to ferment and degrade. This time pressure shapes the entire logistics of the post-harvest chain.
+The critical fact about cherry is that it must be processed quickly after picking, **within hours, not days**, or it begins to ferment and degrade. This time pressure shapes the entire logistics of the post-harvest chain.
 
 ![Cross-section diagram of a coffee cherry](../photos/diagram-coffee-cherry-anatomy.png)
 
-A coffee cherry has several layers: the outer skin, a layer of sweet fruit pulp (mucilage), a papery parchment layer, a thin silverskin, and finally the seed — which is what we call the coffee bean. Most cherries contain two beans, facing each other flat-side in.
+A coffee cherry has several layers: the outer skin, a layer of sweet fruit pulp (mucilage), a papery parchment layer, a thin silverskin, and finally the seed, which is what we call the coffee bean. Most cherries contain two beans, facing each other flat-side in.
 
 ---
 
@@ -40,7 +40,7 @@ A coffee cherry has several layers: the outer skin, a layer of sweet fruit pulp 
 
 ![Man pouring coffee cherries into a yellow depulping machine](../photos/cherry-pulping-machine.jpg)
 
-There are two main processing methods. In the **washed** (wet) process — used for most Arabica and all specialty coffee — the cherry is mechanically **de-pulped** within hours of picking. A machine strips the outer skin and most of the fruit from the bean.
+There are two main processing methods. In the **washed** (wet) process, used for most Arabica and all specialty coffee, the cherry is mechanically **de-pulped** within hours of picking. A machine strips the outer skin and most of the fruit from the bean.
 
 ![Worker feeding cherries from a basket into a small depulper](../photos/worker-depulping-basket.png)
 
@@ -48,9 +48,9 @@ The de-pulped beans are then placed in **fermentation tanks** filled with water 
 
 ![Coffee beans being washed and stirred in a bucket](../photos/washing-coffee-beans.png)
 
-In the **natural** (dry) process — common for Robusta and in regions with limited water — the whole cherry is dried with the fruit still on the bean. No de-pulping, no fermentation, no washing. The fruit dries and is later removed mechanically. This method is simpler and cheaper but requires careful management to avoid mold and off-flavors.
+In the **natural** (dry) process, common for Robusta and in regions with limited water, the whole cherry is dried with the fruit still on the bean. No de-pulping, no fermentation, no washing. The fruit dries and is later removed mechanically. This method is simpler and cheaper but requires careful management to avoid mold and off-flavors.
 
-The choice between washed and natural processing is driven by water availability, infrastructure, climate, and market demand — not by the cherry-to-green conversion ratio, which is determined by species, varietal, and agro-climate regardless of processing method.
+The choice between washed and natural processing is driven by water availability, infrastructure, climate, and market demand, not by the cherry-to-green conversion ratio, which is determined by species, varietal, and agro-climate regardless of processing method.
 
 ---
 
@@ -58,7 +58,7 @@ The choice between washed and natural processing is driven by water availability
 
 ![Parchment coffee drying on raised beds in a greenhouse](../photos/parchment-drying-raised-beds.png)
 
-After washing, the beans — now called **parchment coffee** (because the bean is still wrapped in its papery parchment hull) — are spread on raised drying beds or patios. Drying takes 7-14 days depending on weather and humidity. The target moisture content is 10-12%.
+After washing, the beans, now called **parchment coffee** (because the bean is still wrapped in its papery parchment hull), are spread on raised drying beds or patios. Drying takes 7-14 days depending on weather and humidity. The target moisture content is 10-12%.
 
 Raised beds (also called African beds) allow air circulation beneath the coffee, producing more even drying and better quality. Patio drying is cheaper but slower. Mechanical dryers exist for high-volume operations.
 
@@ -72,7 +72,7 @@ Proper drying is critical for quality. Under-dried coffee develops mold in stora
 
 At the dry mill, the parchment hull is removed (hulled) to reveal the **green coffee bean**. Green coffee is then **graded** by size (using screens with different hole sizes), by density (using air tables or gravity separators), and by color (using electronic optical sorters that detect defects).
 
-Milling is capital-intensive and concentrated — a country with hundreds of thousands of farms may have only dozens of dry mills. The mill is where individual farm lots are typically blended into larger export lots, though specialty coffee increasingly preserves lot separation through the mill.
+Milling is capital-intensive and concentrated. A country with hundreds of thousands of farms may have only dozens of dry mills. The mill is where individual farm lots are typically blended into larger export lots, though specialty coffee increasingly preserves lot separation through the mill.
 
 The output is **green coffee** — the traded commodity. It is packed into 60-kg jute bags, palletized, and loaded into shipping containers for export.
 
@@ -86,9 +86,9 @@ Green coffee is stored in warehouses, often at the port, before being loaded int
 
 ![Shipping containers at a coffee export port](../photos/port-shipping-containers.jpg)
 
-Coffee is traded internationally in US dollars, priced either as a differential to the ICE "C" futures contract (for Arabica) or to the ICE London contract (for Robusta). The **FOB price** (Free On Board) — the price at the port of export — is the standard reference point for value chain analysis.
+Coffee is traded internationally in US dollars, priced either as a differential to the ICE "C" futures contract (for Arabica) or to the ICE London contract (for Robusta). The **FOB price** (Free On Board), the price at the port of export, is the standard reference point for value chain analysis.
 
-Export is the narrowest point in the hourglass: roughly 12.5 million farms feed into fewer than 10,000 international traders. This concentration gives traders significant market power and information advantages.
+Export is the narrowest point in the hourglass. Roughly 12.5 million farms feed into fewer than 10,000 international traders. This concentration gives traders significant market power and information advantages.
 
 ---
 
@@ -100,7 +100,7 @@ Roasting transforms green coffee into the brown, aromatic product consumers reco
 
 ![Vintage Probat roaster in a warehouse](../photos/vintage-probat-roaster.jpg)
 
-Roasters blend coffees from different origins and roast to specific profiles — light, medium, dark — depending on the target market and the characteristics of the beans. Large commercial roasters (Nestlé, JDE, Lavazza) handle millions of bags per year. Small specialty roasters may handle a few hundred bags.
+Roasters blend coffees from different origins and roast to specific profiles (light, medium, dark) depending on the target market and the characteristics of the beans. Large commercial roasters (Nestlé, JDE, Lavazza) handle millions of bags per year. Small specialty roasters may handle a few hundred bags.
 
 ---
 
@@ -110,9 +110,9 @@ Roasters blend coffees from different origins and roast to specific profiles —
 
 **Cupping** is the standardized method for evaluating coffee quality. Small samples are roasted, ground, steeped in hot water, and then tasted by trained cuppers who score the coffee on aroma, flavor, acidity, body, balance, and overall impression.
 
-The SCA (Specialty Coffee Association) cupping protocol scores coffee on a 100-point scale. Coffee scoring **80 or above** is classified as specialty grade. This threshold is the dividing line between the commercial and specialty markets — and it carries significant price implications.
+The SCA (Specialty Coffee Association) cupping protocol scores coffee on a 100-point scale. Coffee scoring **80 or above** is classified as specialty grade. This threshold is the dividing line between the commercial and specialty markets, and it carries significant price implications.
 
-Cupping happens at multiple points in the chain: at the washing station (to assess processing quality), at the dry mill (to grade before export), and at the importer/roaster (to verify what was purchased).
+Cupping happens at multiple points in the chain, at the washing station (to assess processing quality), at the dry mill (to grade before export), and at the importer/roaster (to verify what was purchased).
 
 ---
 
@@ -120,11 +120,11 @@ Cupping happens at multiple points in the chain: at the washing station (to asse
 
 ![Starbucks coffee bags on a retail shelf](../photos/starbucks-retail-shelf.jpg)
 
-Roasted coffee is ground, packaged, and sold through retail channels — supermarkets, specialty shops, online — or brewed and sold by the cup in cafes and restaurants.
+Roasted coffee is ground, packaged, and sold through retail channels (supermarkets, specialty shops, online) or brewed and sold by the cup in cafes and restaurants.
 
 ![Pour-over brewing with a copper kettle and V60](../photos/pour-over-brewing.jpg)
 
-A kilogram of green coffee produces roughly **50 cups** of brewed coffee. At a retail price of $4-6 per cup, that kilogram generates $200+ in consumer revenue. The farmer who grew it received $3-5. Understanding where the difference goes — and what can be changed — is the core question of value chain analysis.
+A kilogram of green coffee produces roughly **50 cups** of brewed coffee. At a retail price of $4-6 per cup, that kilogram generates $200+ in consumer revenue. The farmer who grew it received $3-5. Understanding where the difference goes, and what can be changed, is the core question of value chain analysis.
 
 ---
 

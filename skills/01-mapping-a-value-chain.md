@@ -1,6 +1,5 @@
 # Skill 1: Mapping a Value Chain
 
-![Vietnam coffee value chain diagram](../photos/diagram-vietnam-value-chain.png)
 
 ## What It Is
 
