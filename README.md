@@ -4,6 +4,8 @@
 
 Companion materials for the Value Chain Analysis guest lecture at Columbia's School of International and Public Affairs. The course uses coffee as the primary case study to teach a general VCA methodology.
 
+**Browse the site: [ccerv1.github.io/value-chain-analysis](https://ccerv1.github.io/value-chain-analysis/)**
+
 Instructor: Carl Cervone
 
 ---
