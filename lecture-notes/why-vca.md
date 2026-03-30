@@ -1,20 +1,28 @@
 # Value Chain Analysis
 
-I have been teaching this guest lecture at Columbia SIPA for 10 years. This site is the written companion to the lecture. It covers how to trace the flow of value from farm to cup, diagnose where the problems are, and turn analysis into actionable recommendations.
+![Value Chain Analysis](photos/vca-hero.png)
 
-You can browse all the [past lecture slides](lectures/README.md) (2017-2025). What follows is the current version, updated March 2026.
+My name is [Carl Cervone](https://cerv.one). I have been teaching this guest lecture with Professor Glenn Denning at Columbia SIPA since 2017. This site is the written companion to the lecture. It covers how to trace the flow of value from farm to cup, diagnose where the problems are, and turn analysis into actionable recommendations.
+
+You can browse all the [past lecture slides](lectures/README.md) (2017-2025). What follows is the current version, presented in March 2026 at Columbia SIPA.
 
 ### About me
 
-I came to coffee through development work. After studying environmental science and getting an MBA, I moved to Tanzania in 2004 to work in microfinance. In 2006, I joined [TechnoServe](https://www.technoserve.org/) and spent a decade working on coffee value chains across East Africa, Latin America, and Southeast Asia. In 2016, I cofounded [Enveritas](https://www.enveritas.org/), which uses satellite data and machine learning to map and verify sustainability across coffee supply chains. In 2023, I cofounded [Kariba Labs](https://www.kariba.network/), building open-source software for agricultural value chains. The examples and data in this course draw from that fieldwork.
+I came to coffee through development work. After studying environmental science in my undergrad, I moved to Tanzania in 2004 to work in microfinance. In 2006, I joined [TechnoServe](https://www.technoserve.org/) and spent a decade working on coffee value chains across East Africa and Latin America. In 2016, I cofounded [Enveritas](https://www.enveritas.org/), which uses satellite data and machine learning to map and verify sustainability across coffee supply chains. In 2023, I cofounded [Kariba Labs](https://www.kariba.network/), which applies similar techniques to software (not agriculture) value chains. I am also a Columbia Business School alum.
+
+The examples in this course draw from both my work in coffee, international business, and data science.
 
 ---
 
 ## Why do value chain analysis?
 
-The first question everybody asks about coffee: *what share of the price the consumer pays actually goes back to the farmer?*
+Value chain analysis is a powerful tool for a variety of disciplines. It is obviously useful in international development, but it is also used in business, finance, technology, and many other fields. At the most fundamental level, it is a framework for thinking about how things are made -- who does what, who gets paid what, and who controls the value. That's useful in any industry, from building rockets and semi-conductors to growing coffee and bananas.
 
-I have been tracking this every year as part of the lecture. The answer depends on the country, the year, and how you do the math. But the structural finding is remarkably stable:
+Today we'll just be talking about coffee.
+
+One of the most common questions I have gotten from students over the years is: *"What share of the price the consumer pays actually goes back to the farmer?"*
+
+I have been tracking this at a high level every year as part of the lecture:
 
 | Year | Farm-gate price ($/kg green equiv.) | NYC specialty cup price | Farmer's share of retail |
 |------|-------------------------------------|------------------------|--------------------------|
@@ -23,7 +31,7 @@ I have been tracking this every year as part of the lecture. The answer depends 
 | 2023 | ~$4.00 | ~$5.00 | ~1.6% |
 | 2022 | ~$4.00 | ~$4.00 | ~2.0% |
 
-The farmer's share of the retail cup price has stayed between 1-2% for as long as I have been measuring it. The absolute prices move. The structural ratio barely budges.
+The precise answer depends on the country, the buyer, and all the value chain steps in between. But, by and larger, the farmer's share of the retail cup price has stayed between 1-2% for as long as I have been measuring it. The absolute prices move. The structural ratio barely budges.
 
 Why? And what, if anything, can be done about it?
 
@@ -31,7 +39,7 @@ Today you will learn not just how to answer questions like this yourself, but a 
 
 ---
 
-## This year's worked example: Ethiopian cherry to a Morningside Heights cup
+## This year's example: Ethiopian cherry to a Columbia campus cup
 
 An Ethiopian farmer picks coffee cherry from her trees and sells it at the local market. That cherry is processed, exported, roasted, and brewed into a pour-over at a specialty cafe near Columbia's campus. Here is the complete conversion, step by step.
 
