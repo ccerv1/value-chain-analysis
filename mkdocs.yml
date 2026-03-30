@@ -13,13 +13,13 @@ theme:
       accent: black
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Dark mode
     - scheme: slate
       primary: black
       accent: white
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Light mode
   font:
     text: Inter
     code: JetBrains Mono
@@ -30,17 +30,23 @@ theme:
     - search.highlight
 
 nav:
-  - Home: index.md
-  - Coffee 101: lecture-notes/coffee-value-chain.md
-  - The VCA Framework:
-    - Mapping: skills/01-mapping-a-value-chain.md
-    - Value Flows: skills/02-breaking-down-value-flows.md
-    - Unit Conversion: skills/03-unit-conversion-and-price-analysis.md
-    - Benchmarking: skills/04-benchmarking.md
-    - Recommendations: skills/05-prioritizing-recommendations.md
-  - Case Studies: case-studies/README.md
-  - Practical Tips: lecture-notes/practical-tips.md
-  - Using AI: lecture-notes/using-ai.md
+  - Course Materials:
+    - Introduction: index.md
+    - Coffee 101: lecture-notes/coffee-value-chain.md
+    - The VCA Framework:
+      - Mapping Value Chain Actors: skills/01-mapping-a-value-chain.md
+      - Breaking Down Value Flows: skills/02-breaking-down-value-flows.md
+      - Dealing with Unit Conversions: skills/03-unit-conversion-and-price-analysis.md
+      - Benchmarking: skills/04-benchmarking.md
+      - Formulating Recommendations: skills/05-prioritizing-recommendations.md
+    - Case Studies:
+      - Overview: case-studies/README.md
+      - Vietnam: case-studies/vietnam.md
+      - Rwanda: case-studies/rwanda.md
+      - Honduras: case-studies/honduras.md
+      - Colombia: case-studies/colombia.md
+      - Ethiopia: case-studies/ethiopia.md
+    - Practical Tips: lecture-notes/practical-tips.md
   - Additional Resources:
     - Past Lectures: lectures/README.md
     - Skills Guides: skills/README.md
@@ -65,6 +71,7 @@ exclude_docs: |
   lecture-notes/README.md
   lecture-notes/ethiopian-cherry-to-nyc-cup.md
   lecture-notes/why-vca.md
+  lecture-notes/value-chain-analysis.md
   *.toml
   *.lock
   .python-version

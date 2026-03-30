@@ -121,6 +121,6 @@ From the 2017-2020 lectures:
 
 ---
 
-*This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Rwanda](rwanda.md), [Colombia](colombia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../lecture-notes/value-chain-analysis.md).*
+*This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Rwanda](rwanda.md), [Colombia](colombia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../index.md).*
 
 *Data last verified: March 2026*

@@ -1,4 +1,4 @@
-# Practical Tips for Fieldwork
+# Practical Tips
 
 ### Before You Go
 
@@ -26,4 +26,23 @@
 
 **Keep presentations simple.** When you present findings, less is more. One message per slide. One chart per slide. No walls of text. No tables with 15 columns. The waterfall chart, the map, the benchmark comparison: each of these should be immediately readable. If your audience is squinting, the slide has too much on it. The detailed analysis goes in the report. The slides tell the story.
 
----
+### Using AI
+
+You can use an AI assistant (Claude, ChatGPT, or similar) to help you conduct your own value chain analysis for a different commodity or country. The most effective approach is to give the AI access to this course's framework and then work through the analysis together.
+
+**Starter prompt.** Copy and paste this to get started. Replace the bracketed sections with your own commodity and country.
+
+> I am conducting a value chain analysis of **[commodity]** in **[country]** using the Map / Breakdown / Benchmark framework from a Columbia SIPA course on value chain analysis.
+>
+> The course materials are at: https://ccerv1.github.io/value-chain-analysis/
+>
+> Please help me work through the following steps:
+>
+> 1. **Map** the value chain: identify the key actors from production to export (or retail), the flow of the product through each stage, and any parallel channels.
+> 2. **Break down** the value flows: trace the price from the farmer/producer to the export or retail level, converting units and currency as needed.
+> 3. **Benchmark** against peer countries or commodities: compare yields, prices, farmer share, and costs.
+> 4. **Recommend** interventions using an impact-feasibility matrix.
+>
+> Start by asking me what I already know about the **[commodity]** value chain in **[country]**, and then help me fill in the gaps with publicly available data.
+
+**Tips.** Give the AI real data, not just questions. Check the conversion math yourself. Push back on generic recommendations ("improve market access") by asking for specifics: which markets, what mechanism, what cost, funded by whom. And remember that the coffee-specific features (cherry-to-green ratio, ICE "C" benchmark, Arabica/Robusta split) don't transfer directly to other commodities. Ask the AI to help you find the analogous features for your commodity.

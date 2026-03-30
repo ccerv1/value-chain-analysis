@@ -128,9 +128,9 @@ A kilogram of green coffee produces roughly **50 cups** of brewed coffee. At a r
 
 ---
 
-## The Hourglass
+## Key Takeaways
 
-The structure of the coffee value chain resembles an hourglass:
+**The hourglass.** The structure of the coffee value chain resembles an hourglass:
 
 | Stage | Actors | Scale |
 |-------|--------|-------|
@@ -143,10 +143,4 @@ The structure of the coffee value chain resembles an hourglass:
 
 The chain fans out at the farm level, narrows dramatically at the trading and export stage, and fans out again at the consumer end. This hourglass shape has profound implications for bargaining power, information flow, and price transmission.
 
----
-
-## Scope of This Course
-
-This course focuses on the upstream stages: **cherry, parchment, and green** — farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.
-
-For the analytical framework used to study these stages, see the [Lecture Notes](value-chain-analysis.md). For hands-on skills, see the [Skills Guides](../skills/README.md).
+**This course focuses on the upstream stages: cherry, parchment, and green.** Farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.

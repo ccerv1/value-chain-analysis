@@ -268,6 +268,33 @@
 /* --- Search bar --- */
 .md-search__input {
   background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.md-search__input::placeholder {
+  color: #999999;
+}
+
+.md-search__input:focus {
+  background-color: #222222;
+  color: #ffffff;
+}
+
+/* --- Framework images (consistent sizing on course overview) --- */
+.framework-img {
+  max-height: 280px;
+  width: 100%;
+  object-fit: contain;
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 0.75em;
+  margin: 0.5em 0 1.5em 0;
+}
+
+[data-md-color-scheme="slate"] .framework-img {
+  background: #1a1a1a;
+  border-color: #333;
 }
 
 /* --- Responsive content width ---
