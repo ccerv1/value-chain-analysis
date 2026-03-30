@@ -14,9 +14,9 @@ Ethiopia is the birthplace of coffee. The country has extraordinary genetic dive
 
 The country is also one of the most complex origins to analyze. Ethiopia has two distinct coffee value chains — washed and unwashed (natural) — that involve different actors, different processing, and different economics. Washed coffee, processed through cooperatives, earns a significant quality premium. Unwashed coffee, which represents the majority of production, is simpler to process but trades at lower prices.
 
-Between 2003 and 2012, the value of Ethiopia's coffee exports quadrupled. But here is the critical finding: export volumes stayed essentially flat over the same period. The quadrupling of revenue came entirely from rising global coffee prices — not from any increase in Ethiopian production or efficiency. The country rode a price wave without changing its underlying economics.
+Between 2003 and 2012, the value of Ethiopia's coffee exports quadrupled. But here is the critical finding: export volumes stayed essentially flat over the same period. The quadrupling of revenue came overwhelmingly from rising global coffee prices. Ethiopian production increased modestly over the period, but nowhere near enough to explain the revenue growth. The country rode a price wave without changing its underlying economics.
 
-Then came the Ethiopia Commodity Exchange (ECX). Launched in 2008, the ECX was designed to bring transparency, efficiency, and standardization to Ethiopia's agricultural commodity markets. For coffee, this meant that most coffee — with the exception of cooperative-channel coffee — had to be traded through the exchange. The ECX assigned quality grades based on its own standards and pooled coffees by region.
+Then came the Ethiopia Commodity Exchange (ECX). Launched in 2008, the ECX was designed to solve real problems: intermediaries had exploited information asymmetry to underpay farmers, price manipulation was common, and the quality of market data was poor. The ECX aimed to bring transparency, standardized grading, and efficient price discovery to Ethiopia's agricultural commodity markets. For most commodities, it arguably succeeded. For coffee, the design had a critical flaw: most coffee — with the exception of cooperative-channel coffee — had to be traded through the exchange, where the ECX assigned quality grades and pooled coffees by region.
 
 The unintended consequence was devastating for specialty coffee. The ECX eliminated traceability — the ability to trace a specific coffee back to a specific cooperative, washing station, or region at a granular level. When a buyer purchased "ECX Grade 2 Sidamo," they could not know which specific washing station produced it. For the specialty market, which values provenance and pays premiums for traceable, high-quality lots, this was a deal-breaker.
 
@@ -124,3 +124,5 @@ From the 2017-2020 lectures:
 ---
 
 *This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Rwanda](rwanda.md), [Colombia](colombia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../lecture-notes/value-chain-analysis.md).*
+
+*Data last verified: March 2026*

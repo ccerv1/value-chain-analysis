@@ -4,14 +4,14 @@ Six standalone guides, each teaching one discrete skill for Value Chain Analysis
 
 ## The Six Skills
 
-| # | Skill | What You Learn |
-|---|-------|---------------|
-| 1 | [Mapping a Value Chain](01-mapping-a-value-chain.md) | Identifying actors, roles, relationships, and parallel channels. The hourglass shape of commodity chains. |
-| 2 | [Breaking Down Value Flows](02-breaking-down-value-flows.md) | Tracing costs, revenues, and margins from farmer to export. Building a waterfall chart. |
-| 3 | [Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md) | Converting local currency/weight/product form to international standards. The Rwanda conversion worked example. |
-| 4 | [Benchmarking](04-benchmarking.md) | Comparing yields, prices, farmer share, and costs across countries and time periods. |
-| 5 | [Prioritizing Recommendations](05-prioritizing-recommendations.md) | The impact-feasibility matrix. Segmenting interventions by producer type. |
-| 6 | [Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md) | Full methodology guide for any sector: scoping, data collection, fieldwork, analysis, and reporting. Includes a coffee-specific appendix with data sources, conversion factors, and actor categories. |
+| # | Skill | Framework Step | What You Learn |
+|---|-------|---------------|----------------|
+| 1 | [Mapping a Value Chain](01-mapping-a-value-chain.md) | **Map** | Identifying actors, roles, relationships, and parallel channels. The hourglass shape of commodity chains. |
+| 2 | [Breaking Down Value Flows](02-breaking-down-value-flows.md) | **Breakdown** | Tracing costs, revenues, and margins from farmer to export. Building a waterfall chart. |
+| 3 | [Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md) | **Breakdown** | Converting local currency/weight/product form to international standards. The Rwanda conversion worked example. |
+| 4 | [Benchmarking](04-benchmarking.md) | **Benchmark** | Comparing yields, prices, farmer share, and costs across countries and time periods. |
+| 5 | [Prioritizing Recommendations](05-prioritizing-recommendations.md) | **Action** | The impact-feasibility matrix. Segmenting interventions by producer type. |
+| 6 | [Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md) | **All** | Full methodology guide for any sector: scoping, data collection, fieldwork, analysis, and reporting. Coffee-specific appendix. |
 
 ## Format
 

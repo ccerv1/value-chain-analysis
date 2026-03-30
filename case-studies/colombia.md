@@ -135,3 +135,5 @@ From the 2017-2023 lectures:
 ---
 
 *This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Rwanda](rwanda.md), [Ethiopia](ethiopia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../lecture-notes/value-chain-analysis.md).*
+
+*Data last verified: March 2026*

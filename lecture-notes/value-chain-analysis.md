@@ -140,6 +140,7 @@ Here is a worked example from Rwanda:
 >
 > **Step 3: Convert product form**
 > ($0.17/lb cherry) x (7 cherry/green) = $1.20/lb green
+> *(Why multiply? Because it takes 7 lbs of cherry to make 1 lb of green, each pound of green embodies 7x the cherry value.)*
 >
 > **Step 4: Calculate share**
 > ($1.20/lb green) / ($2.23/lb green) = **54% farmer share**
@@ -167,6 +168,8 @@ Key metrics for benchmarking:
 - **Farmer share of export price**: The percentage of the FOB export price that reaches the farmer. In most coffee-producing countries, farmers receive more than 50% of the export price. Vietnam is best in class at ~95%. Brazil varies widely by farm type (70-90%). Latin American origins like Colombia and Honduras typically fall around 80%. Africa shows the most variation: Ethiopia is around 65%, while Rwanda — where processing costs are high and institutional levies are significant — sits around ~54%, near the low end globally.
 
 - **Cost of production** (USD per kg green equivalent): What it costs the farmer to produce. If the cost of production exceeds the price received, the farmer is losing money on every kilogram — a situation that is more common than you might think.
+
+**A note on time:** Farmer share figures are point-in-time estimates, not permanent characteristics of a value chain. They move with exchange rates, global prices, and local cherry prices. The Vietnam 95%, Rwanda 54%, and Ethiopia 65% figures in this course are snapshots from specific crop years. When comparing across countries, use the same year or adjacent years.
 
 Always benchmark on multiple metrics. A single number can be misleading. A country might have high farmer prices but low yields, meaning farmers earn less per hectare even though they earn more per kilogram. Or a country might have a high farmer share of the export price but a very low export price, meaning the farmer's absolute income is still poor.
 
@@ -223,45 +226,31 @@ Good recommendations are segmented. They identify distinct producer types — by
 
 ## 5. Practical Advice for Fieldwork
 
-### Context first
+### Before You Go
 
-Before you start mapping the value chain, understand the country. Read the political history. Understand the land tenure system. Know the major ethnic and regional dynamics. Learn what happened to the coffee sector during structural adjustment, during conflict (if applicable), during commodity booms and busts. Rwanda's coffee sector cannot be understood without the genocide and the government's top-down reconstruction. Ethiopia's cannot be understood without the ECX. Context first. A value chain analysis that ignores context will produce technically correct but practically useless recommendations.
+**Understand the context.** Before you start mapping the value chain, understand the country. Read the political history. Understand the land tenure system. Know the major ethnic and regional dynamics. Learn what happened to the coffee sector during structural adjustment, during conflict (if applicable), during commodity booms and busts. Rwanda's coffee sector cannot be understood without the genocide and the government's top-down reconstruction. Ethiopia's cannot be understood without the ECX. Context first. A value chain analysis that ignores context will produce technically correct but practically useless recommendations.
 
-### Identify the right mix of stakeholders
+**Identify the right mix of stakeholders.** Your interview list should not be limited to the obvious actors — farmers and exporters. Input suppliers know what farmers are buying and what they can afford. Transporters know the real costs of moving coffee from farm to mill to port. Government officials know the regulatory environment and where the political constraints are. NGOs and donor agencies know what interventions have been tried and which ones failed. Extension agents know what actually happens on the ground, as opposed to what headquarters thinks is happening. Cast a wide net.
 
-Your interview list should not be limited to the obvious actors — farmers and exporters. Input suppliers know what farmers are buying and what they can afford. Transporters know the real costs of moving coffee from farm to mill to port. Government officials know the regulatory environment and where the political constraints are. NGOs and donor agencies know what interventions have been tried and which ones failed. Extension agents know what actually happens on the ground, as opposed to what headquarters thinks is happening. Cast a wide net.
+**Talk through hypotheses with experts early.** Do not wait until the analysis is done to get feedback. Share your preliminary map, your early price data, and your emerging hypotheses with people who know the sector — country experts, industry veterans, experienced consultants. They will tell you what you are missing, where your numbers look wrong, and which assumptions are unrealistic. An hour of expert feedback early in the process can save weeks of wasted analysis.
 
-### Get diverse opinions
+### In the Field
 
-Do not rely on a single perspective. A cooperative manager will tell you the cooperative channel works well. A private trader will tell you cooperatives are inefficient. A government official will tell you the policy environment is supportive. A farmer may tell you something different from all three. Triangulate. When three independent sources give you the same story, you are probably close to the truth. When they diverge, you have found something interesting worth investigating further.
+**Get diverse opinions.** Do not rely on a single perspective. A cooperative manager will tell you the cooperative channel works well. A private trader will tell you cooperatives are inefficient. A government official will tell you the policy environment is supportive. A farmer may tell you something different from all three. Triangulate. When three independent sources give you the same story, you are probably close to the truth. When they diverge, you have found something interesting worth investigating further.
 
-### Make it easy for people to give you data
+**Corroborate numbers with different sources.** This is the single most important data quality practice. If two independent sources — say, a cooperative manager and an exporter — give you the same farm-gate price for cherry in a given region, you can use that number with confidence. If they disagree by 50%, you need to investigate further. In VCA work, a number that comes from only one source should be treated as an estimate, not a fact. Label it accordingly.
 
-People in the coffee industry are busy. If you want data — production figures, price records, cost structures — make it easy to share. Carry a USB drive. Have a simple Excel template ready. Offer to sign an NDA if they are concerned about confidentiality. Do not show up to a meeting with a 40-question survey and expect someone to fill it out on the spot. Short, focused asks get better responses than comprehensive but burdensome ones.
+**Make it easy for people to give you data.** People in the coffee industry are busy. If you want data — production figures, price records, cost structures — make it easy to share. Have a simple template ready. Offer to sign an NDA if they are concerned about confidentiality. Do not show up to a meeting with a 40-question survey and expect someone to fill it out on the spot. Short, focused asks get better responses than comprehensive but burdensome ones.
 
-### Official statistics are not always accurate
+**Go both downstream and upstream.** There are two ways to trace a value chain. Downstream: start at the farm and follow the product forward through processing, trading, and export. Upstream: start at the buyer (an importer, a roaster, a retailer) and trace backward to the source. Both approaches have value. Going downstream gives you the farmer's perspective and reveals the full sequence of transformations. Going upstream gives you the buyer's perspective and reveals what the market actually demands. The best analyses do both.
 
-National production figures, area under cultivation, number of registered farmers — these numbers come from government agencies that may not have the budget, capacity, or incentive to maintain accurate records. Cross-check official statistics with industry sources: exporter associations, international organizations (ICO, World Bank), NGO reports, and academic studies. When official numbers and industry numbers diverge significantly, note the discrepancy and explain which source you trust more and why.
+### Back at the Desk
 
-### Corroborate numbers with different sources
+**Cross-check official statistics.** National production figures, area under cultivation, number of registered farmers — these numbers come from government agencies that may not have the budget, capacity, or incentive to maintain accurate records. Cross-check official statistics with industry sources: exporter associations, international organizations (ICO, World Bank), NGO reports, and academic studies. When official numbers and industry numbers diverge significantly, note the discrepancy and explain which source you trust more and why.
 
-This is the single most important data quality practice. If two independent sources — say, a cooperative manager and an exporter — give you the same farm-gate price for cherry in a given region, you can use that number with confidence. If they disagree by 50%, you need to investigate further. In VCA work, a number that comes from only one source should be treated as an estimate, not a fact. Label it accordingly.
+**Segment, don't generalize.** The "average farmer" is a statistical fiction. In any given country, there are subsistence farmers growing coffee on tiny plots alongside food crops, semi-commercial farmers investing in quality improvements, and commercial operations running hundreds of hectares. Their cost structures, quality levels, market access, and risk profiles are fundamentally different. Your analysis and your recommendations should reflect this.
 
-### Go both downstream and upstream
-
-There are two ways to trace a value chain. Downstream: start at the farm and follow the product forward through processing, trading, and export. Upstream: start at the buyer (an importer, a roaster, a retailer) and trace backward to the source. Both approaches have value. Going downstream gives you the farmer's perspective and reveals the full sequence of transformations. Going upstream gives you the buyer's perspective and reveals what the market actually demands. The best analyses do both.
-
-### Talk through hypotheses with experts early
-
-Do not wait until the analysis is done to get feedback. Share your preliminary map, your early price data, and your emerging hypotheses with people who know the sector — country experts, industry veterans, experienced consultants. They will tell you what you are missing, where your numbers look wrong, and which assumptions are unrealistic. An hour of expert feedback early in the process can save weeks of wasted analysis.
-
-### Segment, don't generalize
-
-We said it before and it bears repeating. The "average farmer" is a statistical fiction. In any given country, there are subsistence farmers growing coffee on tiny plots alongside food crops, semi-commercial farmers investing in quality improvements, and commercial operations running hundreds of hectares. Their cost structures, quality levels, market access, and risk profiles are fundamentally different. Your analysis and your recommendations should reflect this.
-
-### Keep slides simple
-
-When you present findings, less is more. One message per slide. One chart per slide. No walls of text. No tables with 15 columns. The waterfall chart, the map, the benchmark comparison — each of these should be immediately readable. If your audience is squinting, you have failed. The detailed analysis goes in the report. The slides tell the story.
+**Keep presentations simple.** When you present findings, less is more. One message per slide. One chart per slide. No walls of text. No tables with 15 columns. The waterfall chart, the map, the benchmark comparison — each of these should be immediately readable. If your audience is squinting, the slide has too much on it. The detailed analysis goes in the report. The slides tell the story.
 
 ---
 

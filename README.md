@@ -13,8 +13,9 @@ Instructor: Carl Cervone
 New to the course? Read these in order:
 
 1. **[The Coffee Value Chain: Cherry to Cup](lecture-notes/coffee-value-chain.md)** — Visual guide to every processing stage with photographs from producing countries
-2. **[Value Chain Analysis: Lecture Notes](lecture-notes/value-chain-analysis.md)** — The analytical framework (Map / Breakdown / Benchmark), global market dynamics, and methodology
-3. **Pick a case study** — [Vietnam](case-studies/vietnam.md), [Rwanda](case-studies/rwanda.md), or [Honduras](case-studies/honduras.md) to see the framework applied
+2. **[From Ethiopian Cherry to NYC Cup](lecture-notes/ethiopian-cherry-to-nyc-cup.md)** — Worked example tracing one kilogram from farm gate to Brooklyn pour-over, with full math
+3. **[Value Chain Analysis: Lecture Notes](lecture-notes/value-chain-analysis.md)** — The analytical framework (Map / Breakdown / Benchmark), global market dynamics, and methodology
+4. **Pick a case study** — [Vietnam](case-studies/vietnam.md), [Rwanda](case-studies/rwanda.md), or [Honduras](case-studies/honduras.md) to see the framework applied
 
 ---
 

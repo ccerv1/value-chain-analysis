@@ -206,3 +206,5 @@ The datasets in this project's [data pack](../data/README.md) provide the histor
 ---
 
 *This analysis uses data from the [course data pack](../data/README.md) and public sources. For the analytical framework, see [Value Chain Analysis: Lecture Notes](value-chain-analysis.md). For conversion factors and methodology, see [Skill 3: Unit Conversion](../skills/03-unit-conversion-and-price-analysis.md).*
+
+*Data last verified: March 2026. Cherry prices, exchange rates, and NYC cafe prices should be updated before reuse.*
