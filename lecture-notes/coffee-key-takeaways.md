@@ -1,8 +1,8 @@
 # Key Takeaways
 
-![Coffee value chain hourglass](../photos/coffee-value-chain-hourglass.png)
-
 The coffee value chain has an hourglass structure:
+
+![Coffee value chain hourglass](../photos/coffee-value-chain-hourglass.png)
 
 | Stage | Actors | Scale |
 |-------|--------|-------|
