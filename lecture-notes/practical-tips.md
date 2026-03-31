@@ -1,4 +1,4 @@
-# Practical Tips
+# For Humans
 
 ## Before You Go
 

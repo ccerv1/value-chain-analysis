@@ -50,8 +50,9 @@ nav:
     - Honduras: case-studies/honduras.md
     - Colombia: case-studies/colombia.md
     - Ethiopia: case-studies/ethiopia.md
-  - Practical Tips: lecture-notes/practical-tips.md
-  - Using AI: lecture-notes/using-ai.md
+  - Practical Skills:
+    - For Humans: lecture-notes/practical-tips.md
+    - For Agents: lecture-notes/using-ai.md
   - Additional Resources:
     - About This Course: about.md
     - Past Lectures: lectures/README.md

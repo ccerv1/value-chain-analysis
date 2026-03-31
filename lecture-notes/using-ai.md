@@ -1,4 +1,4 @@
-# Using AI for Value Chain Analysis
+# For Agents
 
 You can use an AI assistant (Claude, ChatGPT, or similar) to conduct your own value chain analysis for a different commodity or country. This page has two sections: a starter prompt for working with an AI interactively, and a structured agent reference that gives an AI the exact steps, data sources, and output formats it needs.
 
