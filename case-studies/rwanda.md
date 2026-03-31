@@ -82,6 +82,7 @@ Rwandan farmers earn approximately 54% of the export price, below the global ave
 ### The Conversion (from the 2025 lecture)
 
 Starting inputs:
+
 - Export price: $2.23/lb green (Arabica ICE "C" of $1.83 + market differential of +$0.40)
 - Farmer price: 500 RWF/kg cherry
 

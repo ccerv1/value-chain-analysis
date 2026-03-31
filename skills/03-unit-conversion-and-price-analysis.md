@@ -1,4 +1,6 @@
-# Skill 3: Unit Conversion and Price Analysis
+# Dealing with Unit Conversions
+
+![Unit conversion example](../photos/unit-conversions-rwanda.png){: .framework-img }
 
 ## What It Is
 Converting between the units that local actors use and the international standards needed for cross-country comparison. Coffee farmers sell cherry by the kilo in local currency. Exporters sell green coffee by the pound in US dollars. Comparing these prices requires converting currency, weight, and product form — and getting any one wrong invalidates the entire analysis.
@@ -39,6 +41,7 @@ The conversion ratio of 7:1 (cherry to green) is specific to Rwanda, where high 
 | Bags to pounds | 1 bag = 132.28 lb | |
 
 Common currencies encountered in coffee VCA:
+
 - BRL (Brazil), VND (Vietnam), COP (Colombia), ETB (Ethiopia), RWF (Rwanda), UGX (Uganda), KES (Kenya), GTQ (Guatemala), HNL (Honduras)
 - Always specify the date of the exchange rate used — currencies in producing countries can fluctuate significantly
 
@@ -63,4 +66,3 @@ A Vietnamese farmer sells Robusta cherry at 52,000 VND per kilogram. The current
 3. Now convert both prices to USD/lb green. Does the farmer share percentage change? Why or why not?
 
 ---
-*This is part of a series of six skills for Value Chain Analysis. See also: [Skill 1: Mapping a Value Chain](01-mapping-a-value-chain.md), [Skill 2: Breaking Down Value Flows](02-breaking-down-value-flows.md), [Skill 4: Benchmarking](04-benchmarking.md), [Skill 5: Prioritizing Recommendations](05-prioritizing-recommendations.md), [Skill 6: Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md).*

@@ -1,5 +1,6 @@
-# Skill 4: Benchmarking
+# Benchmarking
 
+![Supply curve](../photos/supply-curve-2022.png){: .framework-img }
 
 ## What It Is
 Comparing a value chain's performance against relevant peers to identify strengths, weaknesses, and opportunities. Numbers in isolation mean nothing. A yield of 1.5 MT/ha sounds fine until you learn Vietnam achieves 3+ MT/ha. A farmer share of 54% sounds reasonable until you learn Vietnam's farmers capture 95%. Benchmarking provides the context that turns data into insight.
@@ -49,4 +50,3 @@ You are analyzing the Honduran coffee sector. Honduras is a medium-sized Arabica
 3. For each comparator, identify one contextual factor that might explain a significant difference (e.g., "Colombia has the FNC, which Honduras lacks" or "Guatemala has a longer specialty tradition").
 
 ---
-*This is part of a series of six skills for Value Chain Analysis. See also: [Skill 1: Mapping a Value Chain](01-mapping-a-value-chain.md), [Skill 2: Breaking Down Value Flows](02-breaking-down-value-flows.md), [Skill 3: Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md), [Skill 5: Prioritizing Recommendations](05-prioritizing-recommendations.md), [Skill 6: Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md).*

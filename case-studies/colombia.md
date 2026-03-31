@@ -57,6 +57,7 @@ But here is the key analytical point: **high revenue share does not equal high m
 **Cost structure:**
 
 Farming costs rose rapidly across the 2000s and 2010s:
+
 - Labor costs increased as Colombia's economy grew and agricultural workers found alternative employment in construction, manufacturing, and services
 - Input costs (fertilizer, pesticides, fungicides) rose with global commodity prices
 - Tree renovation costs were substantial after la roya; infected trees had to be replaced, which required capital investment and several years of reduced production during the replanting period
@@ -107,6 +108,7 @@ The majority of Colombian coffee exports flow through the cooperative/FNC channe
 From the 2017-2023 lectures:
 
 **1. Segment strategies by producer type.** A single policy for 550,000 farms misses the heterogeneity in the sector. Different farms need different interventions:
+
 - Small subsistence farmers (<2 ha): focus on yield improvement and cost reduction through basic agronomy. Extension services and Cenicafé's improved varieties are the priority.
 - Semi-commercial farms (2-10 ha): quality improvement, certification programs, direct trade relationships. These farms can capture specialty premiums if connected to the right buyers.
 - Larger commercial operations (>10 ha): efficiency, diversification, potential for value addition on-farm (wet mills, micro-lots, direct export).

@@ -165,4 +165,3 @@ For the complete conversion factor table, see [Skill 3: Unit Conversion](../skil
 - **Quality premiums**: Specialty coffee commands significant premiums over commercial grade — often $0.50-2.00+ per pound above the C price. This premium is the economic engine behind quality-focused interventions.
 
 ---
-*This is part of a series of six skills for Value Chain Analysis. See also: [Skill 1: Mapping a Value Chain](01-mapping-a-value-chain.md), [Skill 2: Breaking Down Value Flows](02-breaking-down-value-flows.md), [Skill 3: Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md), [Skill 4: Benchmarking](04-benchmarking.md), [Skill 5: Prioritizing Recommendations](05-prioritizing-recommendations.md).*

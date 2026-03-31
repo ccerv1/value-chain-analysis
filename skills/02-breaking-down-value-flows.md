@@ -1,5 +1,6 @@
-# Skill 2: Breaking Down Value Flows
+# Breaking Down Value Flows
 
+![Waterfall chart](../photos/chart-waterfall-export-to-farmer.png){: .framework-img }
 
 ## What It Is
 Tracing how money moves through the value chain — who pays whom, how much, and what costs each actor bears. The breakdown reveals where value accumulates, where margins are thin, and where the economics create winners and losers.
@@ -21,8 +22,10 @@ Step-by-step, using coffee examples:
 5. **Estimate on-farm costs of production.** Notoriously hard for smallholders. Family labor is rarely costed. Land has no formal market price. Inputs may be subsidized. Published estimates vary widely. Approach with caution and state your assumptions.
 
 Example breakdowns from real coffee value chains:
-- **Vietnam Robusta**: Farmers earn ~95% of the export price ($4.95/kg green, March 2025). Collector and exporter margins are razor-thin (<1% each). Why: intense competition among hundreds of thousands of middlemen, no cooperative or government intermediary taking a cut.
-- **Rwanda Arabica**: Farmers earn about 54% of the export price ($4.92/kg green). The remaining ~46% goes to coffee washing station costs (equipment, water, labor), transport, export processing, and institutional support (partly funded by tax). The "missing" value is not waste — it is the cost of infrastructure and quality processing. Rwanda is at the low end globally; most countries deliver more than 50% to the farmer.
+
+**Vietnam Robusta.** Farmers earn ~95% of the export price ($4.95/kg green, March 2025). Collector and exporter margins are razor-thin, less than 1% each. Why? Intense competition among hundreds of thousands of middlemen, no cooperative or government intermediary taking a cut.
+
+**Rwanda Arabica.** Farmers earn about 54% of the export price ($4.92/kg green). The remaining ~46% goes to coffee washing station costs (equipment, water, labor), transport, export processing, and institutional support (partly funded by tax). The "missing" value is not waste. It is the cost of infrastructure and quality processing. Rwanda is at the low end globally; most countries deliver more than 50% to the farmer.
 
 ## Common Mistakes
 
@@ -39,6 +42,7 @@ Example breakdowns from real coffee value chains:
 ## Practice Prompt
 
 Given the following data for Rwanda Arabica coffee:
+
 - Export price: $4.92/kg green (adjusted for +$0.40 market differential over ICE "C")
 - Farm-gate price: 500 RWF/kg cherry
 - Exchange rate: 0.00076 USD/RWF
@@ -47,4 +51,3 @@ Given the following data for Rwanda Arabica coffee:
 Calculate the farmer's share of the export price. Then list what additional information you would need to build a complete waterfall from farmer cost of production through to the export price. Identify at least 4 cost categories that sit between the farmer and the export point.
 
 ---
-*This is part of a series of six skills for Value Chain Analysis. See also: [Skill 1: Mapping a Value Chain](01-mapping-a-value-chain.md), [Skill 3: Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md), [Skill 4: Benchmarking](04-benchmarking.md), [Skill 5: Prioritizing Recommendations](05-prioritizing-recommendations.md), [Skill 6: Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md).*

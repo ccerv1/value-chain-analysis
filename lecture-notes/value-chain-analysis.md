@@ -90,6 +90,7 @@ The first step is to identify the actors, understand what they do, and trace how
 **Input Supply → Production → Processing → Wholesale → Export**
 
 From export, the chain splits into two broad channels:
+
 - **Global market**, the vast majority of coffee by volume, traded as a commodity or specialty product to importing countries
 - **Local market**, domestic consumption, which ranges from negligible (Rwanda exports about 98% of its production) to substantial (Brazil consumes roughly 40% of what it produces)
 
@@ -100,6 +101,7 @@ At each stage, you need to identify:
 - **How do they relate?** Vertical relationships (buyer-seller), horizontal relationships (cooperatives, associations), and institutional relationships (government regulators, extension services, donors).
 
 Important distinctions to capture in your map:
+
 - **Washed vs. natural (unwashed) channels**, which often involve different actors and different economics
 - **Cooperative vs. private channels**, where cooperatives aggregate smallholder production and may capture processing margins that would otherwise go to private intermediaries
 - **Export vs. domestic channels**, with different quality standards, different pricing, different actors

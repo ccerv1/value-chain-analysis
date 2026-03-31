@@ -1,4 +1,6 @@
-# Skill 5: Prioritizing Recommendations
+# Formulating Recommendations
+
+![Impact-feasibility matrix](../photos/2x2-framework.png){: .framework-img }
 
 ## What It Is
 
@@ -54,6 +56,7 @@ Every VCA produces a long list of potential interventions. Donors want to fund s
 ## Practice Prompt
 
 Based on the Rwanda case:
+
 - ~350,000 smallholder farmers, most with <1 acre
 - Farmers earn ~54% of the export price
 - Average yields (~0.6 MT/ha) — toward the lower end among Arabica producers
@@ -68,4 +71,3 @@ Generate 4-5 candidate interventions. For each:
 4. Name who would pay for it
 
 ---
-*This is part of a series of six skills for Value Chain Analysis. See also: [Skill 1: Mapping a Value Chain](01-mapping-a-value-chain.md), [Skill 2: Breaking Down Value Flows](02-breaking-down-value-flows.md), [Skill 3: Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md), [Skill 4: Benchmarking](04-benchmarking.md), [Skill 6: Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md).*
