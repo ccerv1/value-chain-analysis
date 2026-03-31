@@ -33,8 +33,3 @@ Without a good map, the analysis falls apart in predictable ways. You miss actor
 4. **Drawing the map before talking to people.** A desk-based map is a hypothesis, not a finding. The real chain often looks meaningfully different from what secondary sources suggest — actors that official data ignores, stages that are combined or split differently in practice, channels that have emerged or collapsed since the last study was done. Treat your initial map as something to be tested and corrected through stakeholder interviews before you finalize it.
 
 5. **Ignoring the local consumption channel.** Many value chain practitioners focus exclusively on the export chain because that is where the foreign exchange and the development funding are. But in countries like Brazil, where roughly 40% of production is consumed domestically, or Ethiopia, where there is a significant urban coffee culture and ceremonial consumption tradition, the domestic channel is economically important and serves different quality and price segments. Leaving it out produces an incomplete picture of the chain and may lead you to miss the most viable market opportunity for some producers.
-
-## Practice Prompt
-
-Draw a value chain map for coffee in a country you are familiar with. Identify at least 5 distinct actor types and at least 2 parallel channels (eg, export vs domestic, washed vs natural, cooperative vs private). For each actor type, estimate the approximate number of actors and describe their primary function. Note where the chain branches and why. Compare your map against at least one secondary source — a published VCA, a trade association report, or a development agency study — and note where your map differs and what might explain the discrepancy.
-

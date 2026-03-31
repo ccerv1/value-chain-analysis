@@ -40,12 +40,3 @@ Without benchmarks, you cannot distinguish between "this is how the sector works
 4. **Ignoring context that explains differences.** Vietnam's yields are high partly because of massive irrigation in the Central Highlands — which consumes 2,822 tons of water per household per year. The yield benchmark looks impressive until you factor in the environmental cost. Always ask: what is the story behind the number?
 
 5. **Benchmarking on a single metric.** A country with high yields but low prices (Vietnam) and a country with low yields but high prices (Ethiopia) look very different depending on which metric you choose. Use multiple metrics. The most useful analysis compares income per hectare (yield × price - cost), which integrates all three dimensions.
-
-## Practice Prompt
-
-You are analyzing the Honduran coffee sector. Honduras is a medium-sized Arabica producer, mostly smallholder, with moderate yields and middling quality positioning.
-
-1. Which 3-4 countries would you benchmark against, and why?
-2. What metrics would you compare?
-3. For each comparator, identify one contextual factor that might explain a significant difference (e.g., "Colombia has the FNC, which Honduras lacks" or "Guatemala has a longer specialty tradition").
-

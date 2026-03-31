@@ -52,21 +52,3 @@ Every VCA produces a long list of potential interventions. Donors want to fund s
 4. **Ignoring who pays for the intervention.** Every recommendation has a cost. Farmer training costs money — who runs it and who funds it? Price transparency platforms cost money — who builds and maintains them? Cooperative strengthening costs money — who provides the technical assistance? If your recommendation does not include a realistic funding mechanism, it is incomplete.
 
 5. **Recommendations that do not connect back to specific findings from the analysis.** If your benchmarking showed that yields are the primary gap, but your recommendations focus on price transparency, there is a disconnect. Every recommendation should trace directly to a finding from the Map, Breakdown, or Benchmark step. If you cannot point to the evidence, the recommendation is not grounded.
-
-## Practice Prompt
-
-Based on the Rwanda case:
-
-- ~350,000 smallholder farmers, most with <1 acre
-- Farmers earn ~54% of the export price
-- Average yields (~0.6 MT/ha) — toward the lower end among Arabica producers
-- Farmer income from coffee: ~$160/year vs $2,500 living income requirement
-- 98% of production is exported
-- Transitioning from cooperative-led to exporter-led model
-
-Generate 4-5 candidate interventions. For each:
-1. State the intervention clearly
-2. Place it on the impact-feasibility matrix and justify the placement
-3. Identify which producer segment it targets
-4. Name who would pay for it
-

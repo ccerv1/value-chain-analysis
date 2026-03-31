@@ -56,12 +56,3 @@ Common currencies encountered in coffee VCA:
 4. **Forgetting that exchange rates fluctuate.** A farm-gate price collected in March may look very different when converted at December exchange rates. For countries with significant currency volatility (Ethiopia is a prime example after the 2024 birr float), this can shift the analysis materially. State the exchange rate and date explicitly.
 
 5. **Confusing FOB (export) price with farmgate price.** The FOB (Free On Board) price is what the buyer pays at the port of export. The farmgate price is what the farmer receives. The difference between them is the supply chain cost. These are fundamentally different numbers — do not use one where the other is needed.
-
-## Practice Prompt
-
-A Vietnamese farmer sells Robusta cherry at 52,000 VND per kilogram. The current exchange rate is 25,500 VND per USD. The Robusta cherry-to-green ratio is 5:1.
-
-1. What is the farmer's effective price in USD/kg green?
-2. If Vietnam's average Robusta export price is $4.95/kg green, what is the farmer's share of the export price?
-3. Now convert both prices to USD/lb green. Does the farmer share percentage change? Why or why not?
-

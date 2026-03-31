@@ -38,15 +38,3 @@ Example breakdowns from real coffee value chains:
 4. **Ignoring seasonal variation.** Farm-gate prices vary significantly during the harvest season — high at the start when supply is limited, lower at peak harvest when supply floods the market. A single "average" price may hide important dynamics.
 
 5. **Treating "farmer share" as a sufficient metric on its own.** A farmer earning 95% of the export price (Vietnam) sounds great until you realize the export price for Robusta is lower than Arabica. A farmer earning 54% (Rwanda) of a higher Arabica price may or may not earn more in absolute terms. Always look at absolute income per hectare, not just share.
-
-## Practice Prompt
-
-Given the following data for Rwanda Arabica coffee:
-
-- Export price: $4.92/kg green (adjusted for +$0.40 market differential over ICE "C")
-- Farm-gate price: 500 RWF/kg cherry
-- Exchange rate: 0.00076 USD/RWF
-- Cherry-to-green conversion ratio: 7:1 (Rwanda Arabica, high altitude)
-
-Calculate the farmer's share of the export price. Then list what additional information you would need to build a complete waterfall from farmer cost of production through to the export price. Identify at least 4 cost categories that sit between the farmer and the export point.
-
