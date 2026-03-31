@@ -51,6 +51,7 @@ nav:
     - Colombia: case-studies/colombia.md
     - Ethiopia: case-studies/ethiopia.md
   - Practical Tips: lecture-notes/practical-tips.md
+  - Using AI: lecture-notes/using-ai.md
   - Additional Resources:
     - About This Course: about.md
     - Past Lectures: lectures/README.md
@@ -77,7 +78,6 @@ exclude_docs: |
   lecture-notes/ethiopian-cherry-to-nyc-cup.md
   lecture-notes/why-vca.md
   lecture-notes/value-chain-analysis.md
-  lecture-notes/using-ai.md
   *.toml
   *.lock
   .python-version
