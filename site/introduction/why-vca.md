@@ -39,4 +39,4 @@ That same kilogram produces about 50 cups. At a Joe Coffee or Blue Bottle near c
 
 The farmer captures 2% of the retail value but 71% of the export price. The gap is not primarily exploitation: the farmer receives a reasonable share of the export price. The 95% that goes to the cafe is mostly Manhattan rent and barista wages. But the structural ratio is real, and understanding it is the starting point for asking what can be changed.
 
-These numbers rest on assumptions (cherry price, exchange rate, conversion ratio, cafe pricing) that shift every year. Regardless of which you adjust, the structural finding holds: the farmer captures 1-6% of the retail value. For the full step-by-step math and sensitivity analysis, see the [detailed worked example](../lecture-notes/ethiopian-cherry-to-nyc-cup.md).
+These numbers rest on assumptions (cherry price, exchange rate, conversion ratio, cafe pricing) that shift every year. Regardless of which you adjust, the structural finding holds: the farmer captures 1-6% of the retail value.

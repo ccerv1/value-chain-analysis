@@ -1,6 +1,6 @@
 # From Cherry to Cup
 
-The transformation from cherry to cup involves a series of distinct stages, each with different actors, economics, and risks. This visual guide walks through each stage in sequence.
+Here is what happens to coffee on its journey from cherry to cup.
 
 ---
 
@@ -50,7 +50,7 @@ The de-pulped beans are then placed in **fermentation tanks** filled with water 
 
 In the **natural** (dry) process, common for Robusta and in regions with limited water, the whole cherry is dried with the fruit still on the bean. No de-pulping, no fermentation, no washing. The fruit dries and is later removed mechanically. This method is simpler and cheaper but requires careful management to avoid mold and off-flavors.
 
-The choice between washed and natural processing is driven by water availability, infrastructure, climate, and market demand, not by the cherry-to-green conversion ratio, which is determined by species, varietal, and agro-climate regardless of processing method.
+The choice between washed and natural processing is driven by water availability, infrastructure, climate, and market demand.
 
 ---
 

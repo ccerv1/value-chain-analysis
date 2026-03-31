@@ -1,10 +1,6 @@
 # Ethiopia: Traceability Lost and Found
 
-
-
 > **Archival note:** This case study reflects data from the 2017-2020 SIPA lectures. Ethiopia's coffee sector has undergone significant changes since, including ECX reforms that have restored some traceability. Current conditions may differ materially from what is described here. The case remains valuable as a study of how market design choices affect value chain performance.
-
----
 
 ## The Story
 
@@ -121,6 +117,6 @@ From the 2017-2020 lectures:
 
 ---
 
-*This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Rwanda](rwanda.md), [Colombia](colombia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../index.md).*
+*This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Rwanda](rwanda.md), [Honduras](honduras.md), [Colombia](colombia.md) (archival).*
 
-*Data last verified: March 2026*
+*Data from 2017-2020 lectures. Not updated for current market conditions.*

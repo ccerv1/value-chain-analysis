@@ -65,4 +65,3 @@ A Vietnamese farmer sells Robusta cherry at 52,000 VND per kilogram. The current
 2. If Vietnam's average Robusta export price is $4.95/kg green, what is the farmer's share of the export price?
 3. Now convert both prices to USD/lb green. Does the farmer share percentage change? Why or why not?
 
----

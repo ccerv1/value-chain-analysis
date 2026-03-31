@@ -1,6 +1,6 @@
 # Key Takeaways
 
-**The hourglass.** The structure of the coffee value chain resembles an hourglass:
+The coffee value chain has an hourglass structure:
 
 | Stage | Actors | Scale |
 |-------|--------|-------|
@@ -13,4 +13,4 @@
 
 The chain fans out at the farm level, narrows dramatically at the trading and export stage, and fans out again at the consumer end. This hourglass shape has profound implications for bargaining power, information flow, and price transmission.
 
-**This course focuses on the upstream stages: cherry, parchment, and green.** Farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.
+This course focuses on the upstream stages -- cherry, parchment, and green -- from farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.

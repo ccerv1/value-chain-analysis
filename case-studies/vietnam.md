@@ -1,9 +1,5 @@
 # Vietnam: Engineered Growth and Its Limits
 
-
-
----
-
 ## The Story
 
 Vietnam barely grew coffee before the 1990s. What happened next was not an accident of geography or comparative advantage. It was a policy project. Through deliberate government intervention, the country went from near-zero to the world's second-largest coffee producer in about 15 years. Today approximately 600,000 farmers supply roughly 20% of global coffee volume, almost entirely Robusta.
@@ -156,6 +152,6 @@ The overall picture: Vietnam's value chain is close to optimized on the metrics 
 
 ---
 
-*This case study is part of a series for the Value Chain Analysis course. See also: [Rwanda](rwanda.md), [Colombia](colombia.md) (archival), [Ethiopia](ethiopia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../index.md).*
+*This case study is part of a series for the Value Chain Analysis course. See also: [Rwanda](rwanda.md), [Colombia](colombia.md) (archival), [Ethiopia](ethiopia.md) (archival).*
 
 *Data last verified: March 2026*

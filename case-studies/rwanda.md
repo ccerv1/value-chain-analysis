@@ -1,9 +1,5 @@
 # Rwanda: Premium Positioning on Tiny Farms
 
-
-
----
-
 ## The Story
 
 Rwanda produces less than 1% of global coffee. It cannot compete on volume. The country's terrain (steep volcanic hillsides, fragmented smallholder plots, no coastal access) makes the scale game impossible. So Rwanda decided not to play it.
@@ -209,6 +205,6 @@ This third point is uncomfortable for a value chain analysis course focused on c
 
 ---
 
-*This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Colombia](colombia.md) (archival), [Ethiopia](ethiopia.md) (archival). For the analytical framework, see the [Skills Guides](../skills/README.md) and [Lecture Notes](../index.md).*
+*This case study is part of a series for the Value Chain Analysis course. See also: [Vietnam](vietnam.md), [Colombia](colombia.md) (archival), [Ethiopia](ethiopia.md) (archival).*
 
 *Data last verified: March 2026*

@@ -49,4 +49,3 @@ You are analyzing the Honduran coffee sector. Honduras is a medium-sized Arabica
 2. What metrics would you compare?
 3. For each comparator, identify one contextual factor that might explain a significant difference (e.g., "Colombia has the FNC, which Honduras lacks" or "Guatemala has a longer specialty tradition").
 
----

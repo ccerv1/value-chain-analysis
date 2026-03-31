@@ -50,4 +50,3 @@ Given the following data for Rwanda Arabica coffee:
 
 Calculate the farmer's share of the export price. Then list what additional information you would need to build a complete waterfall from farmer cost of production through to the export price. Identify at least 4 cost categories that sit between the farmer and the export point.
 
----

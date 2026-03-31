@@ -70,4 +70,3 @@ Generate 4-5 candidate interventions. For each:
 3. Identify which producer segment it targets
 4. Name who would pay for it
 
----

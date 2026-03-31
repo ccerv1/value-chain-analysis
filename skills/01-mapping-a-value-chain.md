@@ -38,4 +38,3 @@ Without a good map, the analysis falls apart in predictable ways. You miss actor
 
 Draw a value chain map for coffee in a country you are familiar with. Identify at least 5 distinct actor types and at least 2 parallel channels (eg, export vs domestic, washed vs natural, cooperative vs private). For each actor type, estimate the approximate number of actors and describe their primary function. Note where the chain branches and why. Compare your map against at least one secondary source — a published VCA, a trade association report, or a development agency study — and note where your map differs and what might explain the discrepancy.
 
----

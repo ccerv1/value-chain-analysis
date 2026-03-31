@@ -1,6 +1,6 @@
 # Course Objectives
 
-By the end of this lecture, you will be able to:
+After this lecture, you should be able to:
 
 - **Convert** between local farm-gate prices and international standards
 - **Map** the actors in a value chain and trace how value flows between them
