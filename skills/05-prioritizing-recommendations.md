@@ -1,10 +1,10 @@
 # Formulating Recommendations
 
-![Impact-feasibility matrix](../photos/2x2-framework.png){: .framework-img }
-
 ## What It Is
 
 Translating VCA findings into actionable, prioritized interventions. Not just "what should change" but "what should change first, for whom, and who pays." A VCA without recommendations is an academic exercise. Recommendations without prioritization are a wish list. The value of VCA work lies in identifying the 2-3 interventions that are both high-impact and feasible for a specific context.
+
+![Impact-feasibility matrix](../photos/2x2-framework.png){: .framework-img }
 
 ## Why It Matters
 

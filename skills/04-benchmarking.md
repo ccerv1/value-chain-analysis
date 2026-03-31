@@ -1,9 +1,9 @@
 # Benchmarking
 
-![Supply curve](../photos/supply-curve-2022.png){: .framework-img }
-
 ## What It Is
 Comparing a value chain's performance against relevant peers to identify strengths, weaknesses, and opportunities. Numbers in isolation mean nothing. A yield of 1.5 MT/ha sounds fine until you learn Vietnam achieves 3+ MT/ha. A farmer share of 54% sounds reasonable until you learn Vietnam's farmers capture 95%. Benchmarking provides the context that turns data into insight.
+
+![Supply curve](../photos/supply-curve-2022.png){: .framework-img }
 
 ## Why It Matters
 Without benchmarks, you cannot distinguish between "this is how the sector works everywhere" and "this is a problem specific to this country that can be fixed." A low farmer share of export price might reflect exploitative intermediaries — or it might reflect legitimate processing costs in a country that produces washed Arabica (which costs more to process than unwashed Robusta). Only comparison reveals which explanation fits.

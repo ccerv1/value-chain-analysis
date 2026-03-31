@@ -1,4 +1,4 @@
-# The Coffee Value Chain: From Cherry to Cup
+# From Cherry to Cup
 
 The transformation from cherry to cup involves a series of distinct stages, each with different actors, economics, and risks. This visual guide walks through each stage in sequence.
 
@@ -126,21 +126,3 @@ Roasted coffee is ground, packaged, and sold through retail channels (supermarke
 
 A kilogram of green coffee produces roughly **50 cups** of brewed coffee. At a retail price of $4-6 per cup, that kilogram generates $200+ in consumer revenue. The farmer who grew it received $3-5. Understanding where the difference goes, and what can be changed, is the core question of value chain analysis.
 
----
-
-## Key Takeaways
-
-**The hourglass.** The structure of the coffee value chain resembles an hourglass:
-
-| Stage | Actors | Scale |
-|-------|--------|-------|
-| Farms | ~12,500,000 | Wide |
-| Mills | <1,000,000 | Narrowing |
-| Traders | <10,000 | **Pinch point** |
-| Roasters | <100,000 | Widening |
-| Retailers | >1,000,000 | Wide |
-| Consumers | >1,000,000,000 | Very wide |
-
-The chain fans out at the farm level, narrows dramatically at the trading and export stage, and fans out again at the consumer end. This hourglass shape has profound implications for bargaining power, information flow, and price transmission.
-
-**This course focuses on the upstream stages: cherry, parchment, and green.** Farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.

@@ -1,9 +1,9 @@
 # Dealing with Unit Conversions
 
-![Unit conversion example](../photos/unit-conversions-rwanda.png){: .framework-img }
-
 ## What It Is
 Converting between the units that local actors use and the international standards needed for cross-country comparison. Coffee farmers sell cherry by the kilo in local currency. Exporters sell green coffee by the pound in US dollars. Comparing these prices requires converting currency, weight, and product form — and getting any one wrong invalidates the entire analysis.
+
+![Unit conversion example](../photos/unit-conversions-rwanda.png){: .framework-img }
 
 ## Why It Matters
 Without proper conversions, you cannot compare across countries or even across stages of the same value chain. A price in RWF/kg cherry is not directly comparable to a price in USD/lb green. Most errors in VCA work trace back to a conversion mistake — wrong cherry-to-green ratio, wrong exchange rate, or mixing up kilograms and pounds halfway through. This skill is mechanical but unforgiving.

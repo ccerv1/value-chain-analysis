@@ -1,4 +1,4 @@
-site_name: "Value Chain Analysis"
+site_name: ""
 site_description: "Course materials for Value Chain Analysis at Columbia SIPA"
 site_url: "https://ccerv1.github.io/value-chain-analysis/"
 
@@ -25,7 +25,6 @@ theme:
     code: JetBrains Mono
   features:
     - navigation.top
-    - toc.integrate
     - search.suggest
     - search.highlight
 
@@ -35,7 +34,9 @@ nav:
     - Why VCA?: introduction/why-vca.md
     - Course Objectives: introduction/objectives.md
     - Course Overview: introduction/overview.md
-  - Coffee 101: lecture-notes/coffee-value-chain.md
+  - Coffee 101:
+    - From Cherry to Cup: lecture-notes/coffee-value-chain.md
+    - Key Takeaways: lecture-notes/coffee-key-takeaways.md
   - The VCA Framework:
     - Mapping Value Chain Actors: skills/01-mapping-a-value-chain.md
     - Breaking Down Value Flows: skills/02-breaking-down-value-flows.md
@@ -92,6 +93,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      toc_depth: 2
 
 extra_css:
   - stylesheets/custom.css

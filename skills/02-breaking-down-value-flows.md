@@ -1,9 +1,9 @@
 # Breaking Down Value Flows
 
-![Waterfall chart](../photos/chart-waterfall-export-to-farmer.png){: .framework-img }
-
 ## What It Is
 Tracing how money moves through the value chain — who pays whom, how much, and what costs each actor bears. The breakdown reveals where value accumulates, where margins are thin, and where the economics create winners and losers.
+
+![Waterfall chart](../photos/chart-waterfall-export-to-farmer.png){: .framework-img }
 
 ## Why It Matters
 Without a breakdown, you cannot tell whether the problem is low prices, high costs, or value captured by intermediaries. A farmer earning 50% of the export price might be doing well (if the export price is high and costs are low) or might be in poverty (if the export price is low and costs consume most of what they earn). The breakdown gives you the full picture.
