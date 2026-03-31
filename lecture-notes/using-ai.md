@@ -8,7 +8,9 @@ Copy and paste this to get started. Replace the bracketed sections with your com
 
 > I am conducting a value chain analysis of **[commodity]** in **[country]** using the Map / Breakdown / Benchmark framework.
 >
-> Course materials: https://ccerv1.github.io/value-chain-analysis/
+> Read the agent reference at: https://ccerv1.github.io/value-chain-analysis/lecture-notes/using-ai/#agent-reference
+>
+> Data files are at: https://github.com/ccerv1/value-chain-analysis/tree/main/data/processed
 >
 > Help me work through these steps:
 >
