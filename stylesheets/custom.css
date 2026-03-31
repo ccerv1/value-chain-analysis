@@ -260,6 +260,15 @@
   background-color: #000000;
 }
 
+.md-content {
+  padding-bottom: 4em;
+}
+
+/* --- Hide site title from sidebar --- */
+.md-header__title .md-header__topic:first-child {
+  display: none;
+}
+
 /* --- Sidebar nav --- */
 .md-nav__link--active {
   font-weight: 600;
