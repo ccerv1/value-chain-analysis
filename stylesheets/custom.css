@@ -269,6 +269,11 @@
   display: none;
 }
 
+/* --- Hide empty TOC (pages with no H2 headings) --- */
+.md-sidebar--secondary:has(.md-nav__list:empty) {
+  display: none;
+}
+
 /* --- Sidebar nav --- */
 .md-nav__link--active {
   font-weight: 600;
