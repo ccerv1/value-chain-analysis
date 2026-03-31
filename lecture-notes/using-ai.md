@@ -4,22 +4,24 @@ You can use an AI assistant (Claude, ChatGPT, or similar) to conduct your own va
 
 ## Starter Prompt
 
-Copy and paste this to get started. Replace the bracketed sections with your commodity and country.
+Copy and paste this to get started. Replace `[commodity]` and `[country]` with your own.
 
-> I am conducting a value chain analysis of **[commodity]** in **[country]** using the Map / Breakdown / Benchmark framework.
->
-> Read the agent reference at: https://ccerv1.github.io/value-chain-analysis/lecture-notes/using-ai/#agent-reference
->
-> Data files are at: https://github.com/ccerv1/value-chain-analysis/tree/main/data/processed
->
-> Help me work through these steps:
->
-> 1. **Map** the value chain: identify key actors from production to export, the flow of the product through each stage, and any parallel channels.
-> 2. **Break down** the value flows: trace the price from the farmer/producer to the export or retail level, converting units and currency as needed.
-> 3. **Benchmark** against peer countries or commodities: compare yields, prices, farmer share, and costs.
-> 4. **Recommend** interventions using an impact-feasibility matrix.
->
-> Start by asking me what I already know about the **[commodity]** value chain in **[country]**, then help me fill in the gaps with publicly available data.
+```text
+I am conducting a value chain analysis of [commodity] in [country] using the Map / Breakdown / Benchmark framework.
+
+Read the agent reference at: https://ccerv1.github.io/value-chain-analysis/lecture-notes/using-ai/#agent-reference
+
+Data files are at: https://github.com/ccerv1/value-chain-analysis/tree/main/data/processed
+
+Help me work through these steps:
+
+1. Map the value chain: identify key actors from production to export, the flow of the product through each stage, and any parallel channels.
+2. Break down the value flows: trace the price from the farmer/producer to the export or retail level, converting units and currency as needed.
+3. Benchmark against peer countries or commodities: compare yields, prices, farmer share, and costs.
+4. Recommend interventions using an impact-feasibility matrix.
+
+Start by asking me what I already know about the [commodity] value chain in [country], then help me fill in the gaps with publicly available data.
+```
 
 **Tips for working with AI.** Give it real data, not just questions. Check the conversion math yourself. Push back on generic recommendations ("improve market access") by asking for specifics: which markets, what mechanism, what cost, funded by whom. The coffee-specific features (cherry-to-green ratio, ICE "C" benchmark, Arabica/Robusta split) don't transfer directly to other commodities. Ask the AI to help you find the analogous features for your commodity.
 
