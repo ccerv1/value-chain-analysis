@@ -9,7 +9,7 @@ Primary source documents for the country cases covered in the lecture.
 | Reading | Description |
 |---------|-------------|
 | [The Coffee Crisis (2003)](https://github.com/ccerv1/value-chain-analysis/raw/main/reading-list/case-studies/coffee-crisis-2003.pdf) | Overview of the 2001-2003 global coffee crisis — price collapse, farmer impact, structural causes |
-| [Vietnam Middlemen (2013)](https://github.com/ccerv1/value-chain-analysis/raw/main/reading-list/case-studies/vietnam-middlemen-2013.pdf) | Enveritas report on the role of middlemen in Vietnam's coffee supply chain. Key source for the 95% farmer share finding. |
+| [Vietnam Middlemen (2013)](https://github.com/ccerv1/value-chain-analysis/raw/main/reading-list/case-studies/vietnam-middlemen-2013.pdf) | TechnoServe / IDH report on the role of middlemen in Vietnam's coffee supply chain. Key source for the 95% farmer share finding. |
 | [Colombia (2014)](https://github.com/ccerv1/value-chain-analysis/raw/main/reading-list/case-studies/colombia-2014.pdf) | Colombia coffee sector analysis — FNC model, cost pressures, government support |
 | [Ethiopia: ECX and Specialty Coffee](https://github.com/ccerv1/value-chain-analysis/raw/main/reading-list/case-studies/ethiopia-ecx-and-specialty-coffee.pdf) | How the Ethiopia Commodity Exchange affected traceability and specialty premiums |
 | [East Africa (2007)](https://github.com/ccerv1/value-chain-analysis/raw/main/reading-list/case-studies/east-africa-2007.pdf) | East African coffee value chain overview (Rwanda, Kenya, Tanzania, Ethiopia) |

@@ -11,6 +11,6 @@ The coffee value chain has an hourglass structure:
 | Retailers | >1,000,000 | Wide |
 | Consumers | >1,000,000,000 | Very wide |
 
-The chain fans out at the farm level, narrows dramatically at the trading and export stage, and fans out again at the consumer end. This hourglass shape has profound implications for bargaining power, information flow, and price transmission.
+The chain fans out at the farm level, narrows dramatically at the trading and export stage, and fans out again at the consumer end. This hourglass shape has important implications for bargaining power, information flow, and price transmission.
 
 This course focuses on the upstream stages -- cherry, parchment, and green -- from farm to export. This is where most development interventions target, where the economics are most opaque, and where the data challenges are greatest.

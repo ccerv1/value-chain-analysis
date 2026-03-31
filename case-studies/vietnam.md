@@ -8,7 +8,7 @@ The growth was engineered. The government treated coffee as a strategic export c
 
 Farmers responded rationally. With secure tenure, access to credit, and functioning input markets, they invested in their land. The result was explosive expansion across the Central Highlands, primarily Dak Lak, Lam Dong, and Gia Lai provinces, driven by thousands of individual household decisions, each responding to the same clear incentives.
 
-The sector's growth metrics are extraordinary by any standard. Vietnam achieved the highest farm-level yields in the global coffee industry, over three metric tons of green coffee per hectare. Farmers earn approximately 95% of the export price (per the Enveritas 2020 Vietnam Country Report), the highest farmer share among major origins. The supply chain between farmer and export ship is as lean and competitive as any agricultural market you will find.
+The sector's growth metrics are extraordinary by any standard. Vietnam achieved the highest farm-level yields in the global coffee industry, over three metric tons of green coffee per hectare. Farmers earn approximately 95% of the export price (per the TechnoServe / IDH 2013 Vietnam Country Report), the highest farmer share among major origins. The supply chain between farmer and export ship is as lean and competitive as any agricultural market you will find.
 
 Most Vietnamese coffee farms are around one hectare. By global standards, every one of these farmers is "small." But they operate like commercial enterprises, not subsistence farmers. They purchase inputs (fertilizer, irrigation equipment), hire labor during harvest, and sell into deep competitive markets where price discovery happens continuously. The smallholder label understates the sophistication of the operation.
 
@@ -50,7 +50,7 @@ There is no dominant cooperative sector. No government marketing board intermedi
 
 This stands in sharp contrast to other major origins. Colombia has the Federacion Nacional de Cafeteros (FNC), a powerful cooperative-like institution that sets minimum prices, runs export operations, and manages the Juan Valdez brand, adding institutional overhead but also providing services. Ethiopia has the Ethiopia Commodity Exchange (ECX), which adds a transaction layer between farmers and exporters. Rwanda relies heavily on washing stations, which add processing infrastructure costs between farm and export. Vietnam has none of these layers. The chain is lean because the policy choice was to let it be lean.
 
-*Source: "An analysis of the role of middlemen in coffee supply chains: Vietnam Country Report," prepared by Enveritas, January 2020.*
+*Source: "An analysis of the role of middlemen in coffee supply chains: Vietnam Country Report," prepared by TechnoServe / IDH, 2013.*
 
 ---
 

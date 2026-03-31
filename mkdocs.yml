@@ -75,6 +75,7 @@ exclude_docs: |
   reading-list/**/*.docx
   reading-list/**/*.ppt
   photos/README.md
+  full-course.md
   lecture-notes/README.md
   lecture-notes/ethiopian-cherry-to-nyc-cup.md
   lecture-notes/why-vca.md

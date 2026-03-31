@@ -45,7 +45,7 @@ Every VCA produces a long list of potential interventions. Donors want to fund s
 
 1. **Recommending things that require actors to behave against their economic interest.** "Middlemen should accept lower margins" is not a recommendation — it is a fantasy. If middlemen earn thin margins (as in Vietnam, where collector margins are <1%), there is nothing to compress. If they earn large margins, ask why: is it market power, or is it compensation for real risk and cost (transport, storage, credit provision)?
 
-2. **Confusing "would be nice" with "is feasible given institutional capacity."** Exporting roasted coffee direct to consumers sounds great. But it requires roasting equipment, quality control labs, export packaging, food safety certification, international marketing, and distribution contracts with retailers in consuming countries. In a country that struggles to maintain rural roads, this is not a near-term recommendation.
+2. **Confusing "would be nice" with "is feasible given institutional capacity."** Exporting roasted coffee direct to consumers sounds great. But it requires roasting equipment, quality control labs, export packaging, food safety certification, international marketing, and distribution contracts with retailers in consuming countries. This is not a near-term recommendation for most countries.
 
 3. **One-size-fits-all recommendations across different producer segments.** "Improve farmer productivity" means completely different things for a Brazilian estate with 500 hectares and a Rwandan hillside farm with 0.1 hectares. Specify who the recommendation targets, what it involves for them, and what scale of impact is realistic.
 

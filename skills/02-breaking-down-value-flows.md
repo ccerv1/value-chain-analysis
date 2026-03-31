@@ -31,10 +31,10 @@ Example breakdowns from real coffee value chains:
 
 1. **Confusing price with margin.** A farmer who receives $2.67/kg green is not "earning" $2.67. Their costs of production might be $2.00, leaving a margin of $0.67. Price tells you revenue; margin tells you profit. Always try to get both.
 
-2. **Forgetting transport and processing losses.** Physical losses during processing and transport are real. The cherry-to-green conversion wastes 80-85% of the weight. Transport losses (spoilage, spillage, theft) may be 1-5%. If you don't account for these, your waterfall will not balance.
+2. **Forgetting transport and processing losses.** Physical losses during post-harvest processing must be accounted for. The cherry-to-green conversion reduces the weight by 80-85%. Transport losses (spoilage, spillage, theft) tend to be minor and can be excluded for coffee (they are often significant for other crops). If you don't account for these weight transformations, your waterfall will not balance.
 
-3. **Using stale price data without adjusting.** Coffee prices are volatile. A breakdown based on 2020 prices is not valid in 2025. Always specify the time period and, if possible, normalize to current market conditions.
+3. **Using stale price data without adjusting.** Coffee prices and exchange rates are volatile. A breakdown based on 2020 prices is not valid in 2025. Always specify the time period and, if possible, normalize to current market conditions.
 
-4. **Ignoring seasonal variation.** Farm-gate prices vary significantly during the harvest season — high at the start when supply is limited, lower at peak harvest when supply floods the market. A single "average" price may hide important dynamics.
+4. **Ignoring seasonal variation.** Farm-gate prices vary significantly during the harvest season — oflow at the start when farmers are eager for cash, and higher at peak harvest when buyers are struggling to complete their orders. A single "average" price may hide important dynamics.
 
 5. **Treating "farmer share" as a sufficient metric on its own.** A farmer earning 95% of the export price (Vietnam) sounds great until you realize the export price for Robusta is lower than Arabica. A farmer earning 54% (Rwanda) of a higher Arabica price may or may not earn more in absolute terms. Always look at absolute income per hectare, not just share.
