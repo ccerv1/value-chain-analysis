@@ -2,6 +2,8 @@
 
 Slide decks from the Value Chain Analysis guest lecture at Columbia SIPA, taught annually since 2017.
 
+## Slides by Year
+
 | Year | Pages | Case Studies | Notes | PDF |
 |------|-------|-------------|-------|-----|
 | 2025 | 71 | Vietnam, Rwanda | Single-session format. AI-assisted analysis demo (Deep Research). Satellite imagery for farm mapping. | [View](2025/value-chain-analysis-2025.pdf) |

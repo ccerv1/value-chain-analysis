@@ -94,6 +94,7 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
+      title: Page contents
 
 extra_css:
   - stylesheets/custom.css

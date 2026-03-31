@@ -2,7 +2,9 @@
 
 Value chain analysis is a practical framework for understanding how things are made, who does what, who gets paid what, and where leverage exists for change. It is used across development, business, finance, and technology. Today we apply it to coffee.
 
-One of the most common questions I have gotten from students over the years is: *"What share of the price the consumer pays actually goes back to the farmer?"*
+## The question everyone asks
+
+*"What share of the price the consumer pays actually goes back to the farmer?"*
 
 I have been tracking this at a high level every year as part of the lecture:
 

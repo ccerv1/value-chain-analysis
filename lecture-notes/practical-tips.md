@@ -1,6 +1,6 @@
 # Practical Tips
 
-### Before You Go
+## Before You Go
 
 **Understand the context.** Before you start mapping the value chain, understand the country. Read the political history. Understand the land tenure system. Know the major ethnic and regional dynamics. Learn what happened to the coffee sector during structural adjustment, during conflict (if applicable), during commodity booms and busts. Rwanda's coffee sector cannot be understood without the genocide and the government's top-down reconstruction. Ethiopia's cannot be understood without the ECX. Context first. A value chain analysis that ignores context will produce technically correct but practically useless recommendations.
 
@@ -8,7 +8,7 @@
 
 **Talk through hypotheses with experts early.** Do not wait until the analysis is done to get feedback. Share your preliminary map, your early price data, and your emerging hypotheses with people who know the sector: country experts, industry veterans, experienced consultants. They will tell you what you are missing, where your numbers look wrong, and which assumptions are unrealistic. An hour of expert feedback early in the process can save weeks of wasted analysis.
 
-### In the Field
+## In the Field
 
 **Get diverse opinions.** Do not rely on a single perspective. A cooperative manager will tell you the cooperative channel works well. A private trader will tell you cooperatives are inefficient. A government official will tell you the policy environment is supportive. A farmer may tell you something different from all three. Triangulate. When three independent sources give you the same story, you are probably close to the truth. When they diverge, you have found something interesting worth investigating further.
 
@@ -18,7 +18,7 @@
 
 **Go both downstream and upstream.** There are two ways to trace a value chain. Downstream: start at the farm and follow the product forward through processing, trading, and export. Upstream: start at the buyer (an importer, a roaster, a retailer) and trace backward to the source. Both approaches have value. Going downstream gives you the farmer's perspective and reveals the full sequence of transformations. Going upstream gives you the buyer's perspective and reveals what the market actually demands. The best analyses do both.
 
-### Back at the Desk
+## Back at the Desk
 
 **Cross-check official statistics.** National production figures, area under cultivation, number of registered farmers: these numbers come from government agencies that may not have the budget, capacity, or incentive to maintain accurate records. Cross-check with industry sources: exporter associations, international organizations (ICO, World Bank), NGO reports, and academic studies. When official numbers and industry numbers diverge significantly, note the discrepancy and explain which source you trust more and why.
 
@@ -26,7 +26,7 @@
 
 **Keep presentations simple.** When you present findings, less is more. One message per slide. One chart per slide. No walls of text. No tables with 15 columns. The waterfall chart, the map, the benchmark comparison: each of these should be immediately readable. If your audience is squinting, the slide has too much on it. The detailed analysis goes in the report. The slides tell the story.
 
-### Using AI
+## Using AI
 
 You can use an AI assistant (Claude, ChatGPT, or similar) to help you conduct your own value chain analysis for a different commodity or country. The most effective approach is to give the AI access to this course's framework and then work through the analysis together.
 
