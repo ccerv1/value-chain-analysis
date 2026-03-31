@@ -1,5 +1,11 @@
 # For Humans
 
+## Scoping the Analysis
+
+Before you start analyzing, define what you are analyzing and why. Be specific about the product (washed Arabica in Rwanda is a different analysis than Robusta in Vietnam), the geographic boundaries (national, regional, a specific supply corridor), the time period, and which stages of the chain you will cover. Most development-focused VCAs focus on farm to export.
+
+Know who commissioned the analysis and why. A donor designing a program needs different outputs than a government writing a national coffee strategy or a private company evaluating a sourcing decision. The purpose shapes everything.
+
 ## Before You Go
 
 **Understand the context** before you start mapping the value chain. Read the political history. Understand the land tenure system. Know the major ethnic and regional dynamics. Learn what happened to the coffee sector during structural adjustment, during conflict (if applicable), during commodity booms and busts. Rwanda's coffee sector cannot be understood without the genocide and the government's top-down reconstruction. Ethiopia's cannot be understood without the ECX. A value chain analysis that ignores context will produce technically correct but practically useless recommendations.
@@ -24,4 +30,14 @@
 
 **Segment, don't generalize.** The "average farmer" is a statistical fiction. In any given country there are subsistence farmers growing coffee on tiny plots alongside food crops, semi-commercial farmers investing in quality improvements, and commercial operations running hundreds of hectares. Their cost structures, quality levels, market access, and risk profiles are fundamentally different. Your analysis and your recommendations should reflect this.
 
-**Keep presentations simple.** When you present findings, less is more. One message per slide. One chart per slide. No walls of text. No tables with 15 columns. The waterfall chart, the map, the benchmark comparison: each of these should be immediately readable. If your audience is squinting, the slide has too much on it. The detailed analysis goes in the report. The slides tell the story.
+## Reporting
+
+Structure your report for the audience.
+
+For donors and development agencies, lead with the problem statement and proposed interventions. Put methodology at the end. Emphasize impact potential and beneficiary numbers.
+
+For government officials, lead with national-level implications (employment, export revenue, rural development). Connect recommendations to existing policy frameworks. Be realistic about institutional capacity.
+
+For private sector, lead with the business case. Focus on sourcing risks, quality opportunities, and competitive positioning.
+
+For all audiences: keep the main report concise (20-30 pages), put detailed data and interview notes in appendices, use visual summaries (the map, the waterfall, the benchmark chart, the matrix), state your assumptions explicitly, and acknowledge limitations and data gaps.

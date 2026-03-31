@@ -183,3 +183,34 @@ uv sync
 uv run python scripts/fetch_usda_coffee.py
 uv run python scripts/fetch_market_data.py
 ```
+
+---
+
+## Coffee Reference Data
+
+Reference material for agents working on coffee value chains specifically.
+
+### Actor Categories
+
+- **Smallholder farmer**: <5 hectares, family labor, diversified crops, sells cherry
+- **Estate/plantation**: >50 hectares, hired labor, may process on-site
+- **Mobile collector/middleman**: Buys cherry from farmers, aggregates, sells to mill or exporter
+- **Coffee washing station (wet mill)**: De-pulps, ferments, washes, dries cherry into parchment
+- **Dry mill**: Hulls parchment to green, grades, bags for export
+- **Cooperative**: Farmer-owned organization that may operate washing stations, aggregate volume, and export directly
+- **Exporter**: Consolidates green coffee, arranges shipping, manages export documentation
+- **Trader/importer**: International buyers who purchase FOB and sell to roasters
+- **Roaster**: Blends and roasts green coffee for consumer market
+- **Retailer**: Sells roasted/ground coffee or brewed coffee to consumers
+
+### Price Benchmarks
+
+- **ICE "C" contract** (New York): Global Arabica benchmark, quoted in US cents per pound. Physical coffee trades at a differential to this price. Watch the units: 310.00 means $3.10/lb, not $310/lb.
+- **ICE London**: Global Robusta benchmark, quoted in USD per metric ton.
+- **Country differentials**: Colombia typically trades at C + $0.15-0.30 (premium). Ethiopia at C + $0.20-0.50 (premium, varies by grade). Vietnam Robusta trades relative to London. Brazil trades near or slightly below C.
+
+### Quality Grading
+
+- **SCA cupping score**: Scored out of 100. Coffee scoring 80+ is specialty grade.
+- **Specialty threshold**: 80 points. Below 80 is commercial. Above 85 is excellent. Above 90 is exceptional and very rare.
+- **Quality premiums**: Specialty coffee commands $0.50-2.00+ per pound above the C price. This premium is the economic engine behind quality-focused interventions.

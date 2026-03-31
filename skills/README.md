@@ -11,7 +11,6 @@ Six standalone guides, each teaching one discrete skill for Value Chain Analysis
 | 3 | [Unit Conversion and Price Analysis](03-unit-conversion-and-price-analysis.md) | **Breakdown** | Converting local currency/weight/product form to international standards. The Rwanda conversion worked example. |
 | 4 | [Benchmarking](04-benchmarking.md) | **Benchmark** | Comparing yields, prices, farmer share, and costs across countries and time periods. |
 | 5 | [Prioritizing Recommendations](05-prioritizing-recommendations.md) | **Action** | The impact-feasibility matrix. Segmenting interventions by producer type. |
-| 6 | [Conducting a Value Chain Deep Dive](06-conducting-a-value-chain-deep-dive.md) | **All** | Full methodology guide for any sector: scoping, data collection, fieldwork, analysis, and reporting. Coffee-specific appendix. |
 
 ## Format
 
