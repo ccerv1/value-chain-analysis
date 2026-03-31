@@ -2,6 +2,10 @@
 
 Here is what happens to coffee on its journey from cherry to cup.
 
+![Coffee grows in a belt around the tropics](../photos/coffee-tropic-belt.png)
+
+Coffee grows in a belt around the tropics, roughly between the Tropics of Cancer and Capricorn. The largest producers are Brazil, Vietnam, Colombia, Indonesia, and Ethiopia.
+
 ---
 
 ## 1. Growing
