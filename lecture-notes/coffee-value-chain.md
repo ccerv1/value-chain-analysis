@@ -103,6 +103,7 @@ Once coffee is roasted, it becomes perishable. This is an important reason why v
 ![Vintage Probat roaster in a warehouse](../photos/vintage-probat-roaster.jpg)
 
 Roasters blend coffees from different origins and roast to specific profiles depending on the target market and the characteristics of the beans. Because coffee is both perishable and seasonal, it is important for large roasters to have multiple sources of coffee with similar flavor profiles and to have the flexibility to match the season and the market.
+
 ---
 
 ## 8. Quality Control
