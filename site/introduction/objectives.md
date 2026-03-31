@@ -1,4 +1,4 @@
-# Course Objectives
+# Session Objectives
 
 After this lecture, you should be able to:
 

@@ -1,4 +1,4 @@
-# Course Overview
+# Session Overview
 
 1. **[Coffee 101](../lecture-notes/coffee-value-chain.md)** -- The product, the processing chain, the market structure
 

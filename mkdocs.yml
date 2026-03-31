@@ -32,8 +32,8 @@ nav:
   - Home: index.md
   - Introduction:
     - Why VCA?: introduction/why-vca.md
-    - Course Objectives: introduction/objectives.md
-    - Course Overview: introduction/overview.md
+    - Session Objectives: introduction/objectives.md
+    - Session Overview: introduction/overview.md
   - Coffee 101:
     - From Cherry to Cup: lecture-notes/coffee-value-chain.md
     - Key Takeaways: lecture-notes/coffee-key-takeaways.md
